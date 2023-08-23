@@ -125,6 +125,20 @@ Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư t
 5. Thông báo cho đảng viên biết về ý kiến nhận xét, đánh giá của cấp ủy nơi cư trú tại cuộc họp kiểm điểm, đánh giá cuối năm hoặc khi cần thiết.
 ### Câu 5: Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
 
+| Câu hỏi
+| ---
+| Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
+| Cấp ủy xã, phường, thị trấn thực hiện nhiệm vụ gì để đảm bảo sự kết nối và giữ mối liên hệ chặt chẽ giữa đảng viên đang công tác cư trú và tổ chức đảng?
+| Làm thế nào cấp ủy xã, phường, thị trấn tạo điều kiện cho việc họp đảng viên đang công tác cư trú để thông báo tình hình và tham gia góp ý vào các vấn đề quan trọng? 
+| Nhiệm vụ chính của cấp ủy xã, phường, thị trấn trong việc kiểm tra và giám sát đảng viên đang công tác cư trú là gì?
+|Làm thế nào cấp ủy xã, phường, thị trấn đảm bảo rằng đảng viên đang công tác cư trú thực hiện đầy đủ và hiệu quả nhiệm vụ của mình?
+| Đảng ủy xã, phường, thị trấn có nhiệm vụ gì trong việc đánh giá thành tích của đảng viên đang công tác?
+| Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú là gì
+| Nhiệm vụ của tổ chức đảng đổi với đảng viên đang công tác
+| Theo quy định 213, Nhiệm vụ của tổ chức đảng là gì đối với đảng viên đang công tác cư trú
+| Nhiệm vụ của tổ chức đảng
+| Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác
+| Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
 #### Câu trả lời
 1. Đảng ủy xã, phường, thị trấn tiếp nhận và lập danh sách đảng viên đang công tác được giới thiệu về sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở địa phương mình; giới thiệu về cho các chi ủy, chi bộ thôn, bản, khối phố.
 2. Chi bộ thôn, bản, khu dân cư tiếp nhận và lập danh sách đảng viên đang công tác tham gia sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở đơn vị mình và thông báo cho từng đảng viên biết để liên hệ trong việc thực hiện nhiệm vụ đảng viên nơi cư trú; đồng thời, tạo điều kiện cho đảng viên thực hiện nhiệm vụ.
@@ -132,6 +146,7 @@ Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư t
 4. Định kỳ hằng năm, chi ủy hoặc bí thư chi bộ (nơi không có chi ủy) họp với ban công tác mặt trận thôn, bản, khu dân cư để nhận xét từng đảng viên đang công tác thực hiện nhiệm vụ nơi cư trú trên địa bàn mình theo phiếu nhận xét và gửi về đảng ủy xã, phường, thị trấn. Đề xuất với đảng ủy xã, phường, thị trấn biểu dương, khen thưởng những đảng viên đang công tác có thành tích xuất sắc trong thực hiện nhiệm vụ đảng viên nơi cư trú. Kịp thời phản ánh với đảng ủy xã, phường, thị trấn và cấp ủy nơi đảng viên đang công tác khi đảng viên có hành vi vi phạm pháp luật; thiếu trách nhiệm nêu gương; vi phạm nghiêm trọng nội quy, quy định của địa phương hoặc chưa chấp hành tốt Quy định này.
 5. Đảng ủy xã, phường, thị trấn xác nhận phiếu nhận xét của chi ủy, chi bộ nơi cư trú đối với đảng viên đang công tác và gửi cho đảng ủy cơ sở nơi đảng viên công tác. Biểu dương, khen thưởng hoặc đề nghị cấp ủy cơ sở nơi đảng viên công tác biểu dương, khen thưởng những đảng viên có thành tích xuất sắc trong thực hiện nhiệm vụ đảng viên nơi cư trú. Đề nghị cấp ủy cơ sở nơi đảng viên công tác xem xét xử lý theo quy định đối với những đảng viên chưa thực hiện tốt.
 6. Khi có yêu cầu của cấp ủy nơi đảng viên công tác, đảng ủy xã, phường, thị trấn phối hợp kiểm tra, giám sát đối với đảng viên đang công tác thực hiện nhiệm vụ nơi cư trú.
+
 ### Câu 6: Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
 
 
