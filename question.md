@@ -230,6 +230,18 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 
 Như vậy, việc cấp ủy giao cho quần chúng tự đi thẩm tra lý lịch xin vào đảng của mình là sai quy định.
 ### Câu 10: Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 
+| Câu hỏi
+| ---
+| Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
+| Xử lý kỷ luật đảng thì còn được xét tặng huy hiệu hay không
+| Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
+| Vi phạm kỷ thuật thì có được xét tặng huy hiệu đảng không
+| Đảng viên bị kỷ luật thì có được xét tặng huy hiệu đảng không
+| Đảng viên vi phạm kỷ luật đang trong thời gian miễn sinh hoạt thì có bị kỷ luật không hay xóa tên đảng viên đó?
+| Đảng viên được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không
+|  Xét tặng Huy hiệu đảng hay không đảng viên bị kỷ luật
+| Vi phạm kỷ luật
+| Đảng viên bị xử lý kỷ luật
 #### Câu trả lời
 Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Đảng viên có đủ 30 năm, 40 năm, 45 năm, 50 năm, 55 năm, 60 năm, 65 năm, 70 năm, 75 năm, 80 năm, 85 năm, 90 năm tuổi đảng trở lên thì được tặng Huy hiệu đảng”.
 Tuy nhiên, đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì chưa được xét tặng Huy hiệu đảng. Cụ thể, tại điểm 27.3.1 (c) Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Tại thời điểm xét tặng Huy hiệu đảng, đảng viên bị kỷ luật về đảng thì chưa được xét tặng; sau 06 tháng (đối với kỷ luật khiển trách), 09 tháng (đối với kỷ luật cảnh cáo), 01 năm (đối với kỷ luật cách chức), nếu sửa chữa tốt khuyết điểm, được chi bộ công nhận sẽ được xét tặng Huy hiệu đảng”.
