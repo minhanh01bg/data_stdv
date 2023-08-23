@@ -139,6 +139,7 @@ Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư t
 | Nhiệm vụ của tổ chức đảng
 | Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác
 | Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
+| Khi đảng viên đang công tác cư trú có thành tích xuất sắc, cấp ủy xã, phường, thị trấn thực hiện những nhiệm vụ gì để biểu dương và khen thưởng?
 #### Câu trả lời
 1. Đảng ủy xã, phường, thị trấn tiếp nhận và lập danh sách đảng viên đang công tác được giới thiệu về sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở địa phương mình; giới thiệu về cho các chi ủy, chi bộ thôn, bản, khối phố.
 2. Chi bộ thôn, bản, khu dân cư tiếp nhận và lập danh sách đảng viên đang công tác tham gia sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở đơn vị mình và thông báo cho từng đảng viên biết để liên hệ trong việc thực hiện nhiệm vụ đảng viên nơi cư trú; đồng thời, tạo điều kiện cho đảng viên thực hiện nhiệm vụ.
@@ -149,7 +150,24 @@ Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư t
 
 ### Câu 6: Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
 
-
+| Câu hỏi
+| ---
+| Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
+| Điều kiện được miễn sinh hoạt nơi cư trú?
+| Trong những trường hợp nào đảng viên được miễn sinh hoạt nơi cư trú?
+| Điều kiện nào khiến đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân được miễn sinh hoạt tại nơi cư trú?
+| Đảng viên công tác tại cơ quan, đơn vị nhưng thường xuyên làm việc xa nơi cư trú có thể được miễn sinh hoạt tại nơi cư trú trong trường hợp nào?
+| Ai là những đảng viên được miễn sinh hoạt tại nơi cư trú trong trường hợp học tập trung trên 12 tháng trong năm?
+| Đảng viên là học sinh, sinh viên thường xuyên đi học xa nhà mà không thường xuyên về nơi cư trú có được miễn sinh hoạt tại nơi cư trú không?
+| Khi đảng viên đang công tác xa nhà hoặc lưu động, họ có cần thực hiện bất kỳ trách nhiệm nào liên quan đến sinh hoạt tại nơi cư trú?
+| Miễn sinh hoạt nơi cư trú
+| Trong trường hợp đảng viên tham gia học tập trung trên 12 tháng, liệu họ có được miễn nhận xét định kỳ hằng năm?
+| Đảng viên công tác tại các doanh nghiệp thường xuyên đi làm việc xa nơi cư trú, liệu họ cần tham gia sinh hoạt đảng tại nơi cư trú không?
+| Đảng viên đang công tác tại địa phương khác nhau hoặc có công việc di chuyển liên tục có được miễn nhận xét định kỳ hằng năm?
+| Khi đảng viên là cán bộ, công chức đi học tập trung 12 tháng trong năm, liệu họ cần tham gia sinh hoạt đảng tại nơi cư trú không?
+| Nếu đảng viên đang công tác xa nơi cư trú, liệu họ còn có trách nhiệm tham gia vào các hoạt động xã hội tại nơi cư trú không?
+| Đảng viên đang công tác tại doanh nghiệp có luân chuyển thường xuyên giữa các địa điểm, liệu họ còn phải thực hiện trách nhiệm tại nơi cư trú không?
+| Khi đảng viên thường xuyên làm việc tại các địa điểm khác nhau, liệu cấp ủy xã, phường, thị trấn có thể miễn nhận xét định kỳ hằng năm cho họ?
 #### Câu trả lời
 Theo Hướng dẫn số 33-HD/BTCTW, ngày 30/10/2020 của Ban Tổ chức Trung ương hướng dẫn thực hiện một số nội dung trong Quy định số 213:
 - Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân do điều kiện công tác xa nhà hoặc do yêu cầu, nhiệm vụ phải ở tập trung tại doanh trại, nhà công vụ ngoài giờ làm việc hằng ngày không thường xuyên về nơi cư trú.
@@ -157,6 +175,21 @@ Theo Hướng dẫn số 33-HD/BTCTW, ngày 30/10/2020 của Ban Tổ chức Tru
 - Đảng viên là cán bộ, công chức, viên chức đi học tập trung 12 tháng trong năm; đảng viên là học sinh, sinh viên đi học xa nhà không thường xuyên về nơi cư trú.
 Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, Điều 1 và nhiệm vụ tại Khoản 1, 2, 5, 6, 7, Điều 2 Quy định 213. Không lấy ý kiến nhận xét định kỳ hằng năm; chỉ lấy ý kiến nhận xét khi cần thiết (thực hiện quy trình công tác cán bộ, khen thưởng, kỷ luật...).
 ### Câu 7: Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
+
+| Câu hỏi
+| ---
+| Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
+| Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt nào khiến họ được miễn giới thiệu về tổ chức đảng nơi cư trú?
+| Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú
+| Điều kiện Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú
+| Trong trường hợp nào Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú
+| Khi đảng viên đang công tác tại vùng biên giới, hải đảo hoặc các vùng sâu, xa, liệu họ cần phải giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Điều gì khiến đảng viên đang công tác tại các cơ quan ngoại giao, văn phòng đại diện, đơn vị kinh tế ở nước ngoài được miễn giới thiệu về tổ chức đảng tại nơi cư trú?
+| Đảng viên tham gia lực lượng gìn giữ hòa bình của Liên Hợp Quốc có cần tham gia giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Trong trường hợp đảng viên ra nước ngoài lao động, làm việc, học tập 12 tháng, liệu họ còn cần phải thực hiện việc giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Đảng viên đang công tác mắc bệnh cần điều trị hoặc dưỡng bệnh liên tục trong 12 tháng có thể được miễn giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Đảng viên ở các đơn vị quân sự thường trực sẵn sàng chiến đấu có được miễn giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Đảng viên đang công tác ở vùng biên giới, hải đảo có trách nhiệm gì liên quan đến việc duy trì liên hệ với tổ chức đảng tại nơi cư trú?
 
 #### Câu trả lời
 - Đảng viên công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt, phải giữ bí mật về nhân thân; đảng viên ở các đơn vị thường trực sẵn sàng chiến đấu.
