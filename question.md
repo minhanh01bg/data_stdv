@@ -102,7 +102,20 @@ Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đản
 6. Tham gia và vận động các thành viên trong gia đình tham gia các cuộc vận động, các phong trào thi đua do địa phương phát động. Vận động gia đình và nhân dân xây dựng mối quan hệ gắn bó đoàn kết, xây dựng đời sống văn hoá ở khu dân cư.
 7. Báo cáo kết quả thực hiện các nhiệm vụ tại Điều 2 Quy định này với chi ủy nơi công tác vào dịp kiểm điểm, đánh giá đảng viên hằng năm. Kịp thời báo cáo với chi ủy nơi công tác và nơi cư trú khi chuyển sang nơi cư trú khác.
 ### Câu 4: Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
-
+| Câu hỏi
+| --- 
+| Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
+| Cấp ủy cơ sở theo Quy định số 213 cần thực hiện những nhiệm vụ gì để đảm bảo đảng viên đang công tác tại nơi cư trú thực hiện đầy đủ trách nhiệm của mình?
+| Nhiệm vụ chính của cấp ủy cơ sở là gì trong việc thúc đẩy việc tuyên truyền và giải thích về quan điểm, chính sách của đảng cho đảng viên tại địa phương?
+| Cấp ủy cơ sở cần thực hiện những biện pháp gì để thúc đẩy tinh thần đoàn kết và gắn kết trong các hoạt động cộng đồng tại nơi cư trú?
+| Nhiệm vụ chính của cấp ủy cơ sở trong việc hỗ trợ đảng viên tham gia vào các hoạt động kinh tế - xã hội và giải quyết vấn đề tại địa phương là gì?
+| Nhiệm vụ của cấp ủy cơ sở là gì trong việc thúc đẩy việc thực hiện chính sách về đa dạng văn hóa và tôn trọng các giá trị địa phương?
+| Nhiệm vụ chính của cấp ủy cơ sở là gì trong việc đảm bảo tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
+| Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác
+| Theo quy định số 213, nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác là gì
+| Nhiệm vụ của cấp ủy cơ sở là gì
+| Theo quy định 213, Nhiệm vụ của cấp ủy cơ sở là gì
+| Nhiệm vụ của cấp ủy cơ sở
 #### Câu trả lời
 1. Chỉ đạo chi ủy, chi bộ trực thuộc lập danh sách đảng viên theo nơi cư trú và chủ động liên hệ với đảng ủy cơ sở và chi ủy, chi bộ nơi đảng viên cư trú để giới thiệu đảng viên về sinh hoạt, thường xuyên giữ mối liên hệ với chi ủy và nhân dân nơi cư trú theo đúng quy định.
 Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư trú được biết về những đảng viên của đơn vị mình thường xuyên đi công tác xa nơi cư trú, lưu động hoặc có công tác đặc biệt để phối hợp tạo điều kiện cho đảng viên thực hiện nhiệm vụ nơi cư trú khi đảng viên đó có điều kiện.
