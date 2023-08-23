@@ -230,6 +230,8 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 
 Như vậy, việc cấp ủy giao cho quần chúng tự đi thẩm tra lý lịch xin vào đảng của mình là sai quy định.
 ### Câu 10: Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 
+# Câu 10 với 11 đều hỏi về việc xử lý kỷ luật đảng, nên sẽ gộp chung lại
+
 | Câu hỏi
 | ---
 | Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
