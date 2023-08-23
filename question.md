@@ -198,7 +198,7 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, Đi
 - Đảng viên đang công tác nhưng mắc bệnh phải điều trị hoặc dưỡng bệnh 12 tháng liên tục trong năm.
 Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 6, Điều 2 Quy định 213.
 ### Câu 8: Thẩm quyền xem xét, quyết định đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc được miễn giới thiệu về tổ chức đảng nơi cư trú?
-<font color="red">Câu này có từ khóa trùng với câu 6-7</font>
+<span style="color: red;">Câu này có từ khóa trùng với câu 6-7</span>
 #### Câu trả lời
 Đảng ủy cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trên cơ sở đề nghị của chi bộ nơi đảng viên đang công tác, học tập.
 - Chi bộ cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú.
