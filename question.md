@@ -49,6 +49,29 @@ Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về 
 Đảng viên đang công tác ở các cơ quan, doanh nghiệp, đơn vị sự nghiệp, lực lượng vũ trang (gọi tắt là đảng viên đang công tác) vừa thực hiện quy định của Điều lệ Đảng về sinh hoạt đảng tại nơi làm việc, vừa có trách nhiệm thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú; gần gũi, gắn bó với nhân dân; khắc phục những biểu hiện sống xa dân, thiếu trách nhiệm trong các công việc của nhân dân nơi cư trú; củng cố mối quan hệ mật thiết giữa Đảng với nhân dân; nêu cao vai trò, trách nhiệm của người đảng viên trong xây dựng Đảng, xây dựng hệ thống chính trị cơ sở.
 ### Câu 2: Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
 
+STT | Câu hỏi
+--- | ---
+1 | Theo Quy định số 213, tổ chức cơ sở đảng cần thực hiện những nhiệm vụ và trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
+2 | Làm thế nào tổ chức cơ sở đảng có thể duy trì và tăng cường mối liên hệ với đảng cấp trên theo Quy định số 213?
+3 | Trách nhiệm gì của tổ chức cơ sở đảng trong việc thực hiện và truyền đạt chính sách, quyết định của đảng tại cơ sở?
+4| Để thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng cơ sở, tổ chức đảng cần thực hiện những biện pháp gì?
+5| Làm thế nào tổ chức cơ sở đảng có thể thúc đẩy tinh thần tương tác và giao lưu giữa các đảng viên trong cộng đồng?
+6| Theo Quy định số 213, tổ chức cơ sở đảng cần có vai trò gì trong việc tạo điều kiện cho đảng viên tham gia các hoạt động giáo dục chính trị?
+7| Trong trường hợp có sự không đồng tình về chính sách hoặc quyết định của đảng, tổ chức cơ sở đảng cần thực hiện gì để giải quyết tình hình?
+8| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc tuyên truyền về thành tựu và mục tiêu của đảng tại địa phương?
+9| Trách nhiệm của tổ chức cơ sở đảng là gì trong việc đảm bảo đảng viên tham gia tích cực và hiệu quả vào các hoạt động cộng đồng?
+10| Để duy trì tính đoàn kết và tương tác trong tổ chức, làm thế nào tổ chức cơ sở đảng có thể tổ chức các sự kiện và hoạt động giao lưu?
+11| Theo Quy định số 213, tổ chức cơ sở đảng có trách nhiệm nắm bắt thông tin từ đảng cấp trên và truyền đạt thông tin gì tới đảng viên?
+12| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc thúc đẩy các hoạt động kinh tế - xã hội tại địa phương?
+13| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tạo điều kiện thuận lợi để nhân dân tham gia vào các hoạt động chính trị?
+14| Để đảm bảo đảng viên được thể hiện ý kiến và đóng góp ý kiến, tổ chức |cơ sở đảng cần thực hiện những biện pháp gì?
+15| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo đa dạng văn hóa và tôn trọng quyền lợi của các tầng lớp nhân dân?
+16| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc thúc đẩy tinh thần hợp tác và sự phối hợp giữa các tổ chức và đơn vị trong cộng đồng?
+17| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo an ninh, trật tự và ổn định xã hội tại địa phương?
+18| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tham gia vào quản lý và sử dụng thông tin chính xác khi tương tác với nhân dân?
+19| Để thúc đẩy tinh thần tương tác và giao lưu giữa các tổ chức cơ sở đảng khác nhau, làm thế nào tổ chức này có thể tạo điều kiện thuận lợi?
+20| Theo Quy định số 213, tổ chức cơ sở đảng cần có trách nhiệm gì đối với việc đảm bảo tuân thủ nguyên tắc dân chủ trong hoạt động của mình?
+
 #### Câu trả lời
 Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đảng viên cư trú có trách nhiệm tạo điều kiện cho đảng viên đang công tác thực hiện trách nhiệm, nhiệm vụ nơi cư trú, đồng thời kiểm tra, giám sát, nhận xét, đánh giá việc thực hiện của đảng viên.
 ### Câu 3: Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
