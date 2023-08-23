@@ -254,6 +254,22 @@ Tuy nhiên, đảng viên đến thời điểm được xét tặng Huy hiệu
 Điểm 7.2.4, Khoản 7.2, Điều 7, Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định về quyền và trách nhiệm của đảng viên được miễn sinh hoạt như sau: “Bản thân phải gương mẫu và vận động gia đình chấp hành chủ trương, chính sách của đảng, pháp luật của Nhà nước và các quy định của địa phương, nếu vi phạm kỷ luật đảng thì xử lý kỷ luật như đảng viên đang sinh hoạt theo quy định của Điều lệ Đảng”.
 Căn cứ quy định trên, đảng viên được miễn sinh hoạt vi phạm kỷ luật thì tổ chức đảng có thẩm quyền vẫn xem xét, xử lý kỷ luật đảng như đối với đảng viên đang sinh hoạt theo quy định.
 ### Câu 12: Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
+
+| Câu hỏi
+| ---
+| Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
+| Chuyển sinh hoạt đảng
+| Theo quy định, khi chuyển sinh hoạt đảng, ai phải tự mang hồ sơ từ Đảng ủy cơ sở lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng?
+| Điều gì quy định về việc tự mang hồ sơ từ Đảng ủy cơ sở lên cấp ủy cấp trên để làm thủ tục chuyển sinh hoạt đảng?
+| Khi chuyển sinh hoạt đảng, đảng viên phải thực hiện những thủ tục gì đối với việc mang hồ sơ và báo cáo cấp ủy cấp trên?
+| Điều gì trong quy định nêu rõ về việc tự mang hồ sơ khi chuyển sinh hoạt đảng?
+| Khi chuyển sinh hoạt đảng, đảng viên cần thực hiện việc gì sau khi mang hồ sơ và báo cáo lên cấp trên?
+| Điều gì trong hướng dẫn của Ban Tổ chức Trung ương quy định về thủ tục giới thiệu và tiếp nhận sinh hoạt đảng khi chuyển sinh hoạt đảng?
+| Khi đảng viên chuyển sinh hoạt đảng, họ phải tuân theo những quy định gì liên quan đến thủ tục và hồ sơ?
+| Trách nhiệm chính của đảng viên khi chuyển sinh hoạt đảng là gì?
+| Đảng viên khi chuyển sinh hoạt đảng cần phải thực hiện những biện pháp gì để đảm bảo tính minh bạch và đúng quy định?
+| Khi chuyển sinh hoạt đảng, đảng viên phải tuân theo những hướng dẫn nào từ Ban Tổ chức Trung ương để thực hiện đúng thủ tục và quy định?
+#### Câu trả lời
 Điểm 6.3.1 (d) Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Khi chuyển sinh hoạt đảng chính thức cho đảng viên, cấp ủy nơi đang sinh hoạt và công tác làm đầy đủ thủ tục, niêm phong hồ sơ, giao cho đảng viên trực tiếp mang theo để báo cáo với tổ chức đảng làm thủ tục giới thiệu và tiếp nhận sinh hoạt đảng theo hướng dẫn của Ban Tổ chức Trung ương”. Như vậy, khi chuyển sinh hoạt đảng thì cấp ủy nơi đi làm thủ tục chuyển sinh hoạt, giao cho đảng viên, đảng viên phải tự mang hồ sơ đến các tổ chức đảng để làm thủ tục chuyển sinh hoạt đảng tới tổ chức đảng nơi đến theo đúng quy định.Thủ tục giới thiệu chuyển sinh hoạt đảng đã được nêu cụ thể từng trường hợp tại Điểm 4, mục II Hướng dẫn số 12-HD/BTCTW, ngày 18/01/2022 của Ban Tổ chức Trung ương về hướng dẫn nghiệp vụ công tác đảng viên.
 ### Câu 13: Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
 
