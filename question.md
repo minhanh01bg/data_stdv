@@ -204,6 +204,23 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 
 - Chi bộ cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú.
 ### Câu 9: Theo quy định thì Quần chúng có tự đi thẩm tra lý lịch xin vào Đảng của mình không?
 
+| Câu hỏi
+| ---
+| Theo quy định thì Quần chúng có tự đi thẩm tra lý lịch xin vào Đảng của mình không?
+| Quần chúng có tự đi thẩm tra lý lịch xin vào Đảng của mình không
+| Điều gì trong quy định cấm người xin vào đảng hoặc người thân của họ thẩm tra lý lịch?
+| Trong quy định, chi bộ và cấp ủy cơ sở phải thực hiện những biện pháp nào để đảm bảo tính minh bạch và công bằng trong việc thẩm tra lý lịch?
+| Theo quy định, chi bộ và cấp ủy cơ sở nơi người xin vào đảng cần thực hiện trách nhiệm gì đối với việc kiểm tra và xác nhận lý lịch của họ?
+| Thẩm tra lý lịch
+| Lý lịch xin vào đảng
+| Cấp ủy cơ sở cần gửi công văn gì để thẩm tra và xác nhận lý lịch người xin vào đảng? Trong trường hợp nào cần cử đảng viên đi thẩm tra?
+| Trách nhiệm chính của đảng viên tham gia thẩm tra lý lịch của người xin vào đảng là gì? Họ phải báo cáo những thông tin gì sau khi thẩm tra?
+| Điều gì quy định về việc cấp ủy cơ sở tổng hợp kết quả thẩm tra lý lịch người xin vào đảng?
+| Trường hợp nào khiến người xin vào đảng không được tự thẩm tra lý lịch của mình?
+| Quy định nào nêu rõ về việc không được cử người thân của người xin vào đảng để thẩm tra lý lịch?
+| Cấp ủy cơ sở cần tuân thủ những quy định nào liên quan đến việc thẩm tra lý lịch của người xin vào đảng?
+| Người xin vào đảng phải thực hiện trách nhiệm gì đối với việc thẩm tra lý lịch của họ?
+| Điều gì quy định về trách nhiệm của đảng viên đi thẩm tra lý lịch khi báo cáo và chịu trách nhiệm trước đảng?
 #### Câu trả lời
 Điểm 3.4 (d), Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng quy định:
 “Trách nhiệm của Chi bộ và Cấp ủy cơ sở nơi có người vào Đảng:
