@@ -51,10 +51,11 @@ Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về 
 
 STT | Câu hỏi
 --- | ---
-1 | Theo Quy định số 213, tổ chức cơ sở đảng cần thực hiện những nhiệm vụ và trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
+0 | Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
+1 | Theo Quy định số 213, tổ chức cơ sở đảng cần có những trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
 2 | Làm thế nào tổ chức cơ sở đảng có thể duy trì và tăng cường mối liên hệ với đảng cấp trên theo Quy định số 213?
 3 | Trách nhiệm gì của tổ chức cơ sở đảng trong việc thực hiện và truyền đạt chính sách, quyết định của đảng tại cơ sở?
-4| Để thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng cơ sở, tổ chức đảng cần thực hiện những biện pháp gì?
+4| Trách nhiệm của đảng để thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng?
 5| Làm thế nào tổ chức cơ sở đảng có thể thúc đẩy tinh thần tương tác và giao lưu giữa các đảng viên trong cộng đồng?
 6| Theo Quy định số 213, tổ chức cơ sở đảng cần có vai trò gì trong việc tạo điều kiện cho đảng viên tham gia các hoạt động giáo dục chính trị?
 7| Trong trường hợp có sự không đồng tình về chính sách hoặc quyết định của đảng, tổ chức cơ sở đảng cần thực hiện gì để giải quyết tình hình?
@@ -71,11 +72,27 @@ STT | Câu hỏi
 18| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tham gia vào quản lý và sử dụng thông tin chính xác khi tương tác với nhân dân?
 19| Để thúc đẩy tinh thần tương tác và giao lưu giữa các tổ chức cơ sở đảng khác nhau, làm thế nào tổ chức này có thể tạo điều kiện thuận lợi?
 20| Theo Quy định số 213, tổ chức cơ sở đảng cần có trách nhiệm gì đối với việc đảm bảo tuân thủ nguyên tắc dân chủ trong hoạt động của mình?
-
+21 | Trách nhiệm của tổ chức cơ sở đảng là gì
 #### Câu trả lời
 Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đảng viên cư trú có trách nhiệm tạo điều kiện cho đảng viên đang công tác thực hiện trách nhiệm, nhiệm vụ nơi cư trú, đồng thời kiểm tra, giám sát, nhận xét, đánh giá việc thực hiện của đảng viên.
 ### Câu 3: Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
 
+| câu hỏi
+| ---
+|Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
+|Theo Quy định số 213, đảng viên đang làm việc tại nơi cư trú cần thực hiện những nhiệm vụ gì để thể hiện tinh thần đảng và gắn kết với cộng đồng?
+|Nhiệm vụ chính của đảng viên tại nơi cư trú theo Quy định số 213 là gì trong việc duy trì và thúc đẩy liên hệ với tổ chức đảng và cộng đồng?
+|Trách nhiệm của đảng viên tại nơi cư trú là gì khi cần phải thực hiện việc giới thiệu và thảo luận về các chính sách mới từ tổ chức đảng trung ương?
+|Làm thế nào đảng viên có thể thúc đẩy tinh thần đoàn kết và sự gắn kết trong các hoạt động cộng đồng tại nơi cư trú theo Quy định số 213?
+|Nhiệm vụ của đảng viên là gì khi tham gia vào việc tổ chức và thúc đẩy các hoạt động giáo dục chính trị tại địa phương theo Quy định số 213?
+|Làm thế nào đảng viên có thể hỗ trợ cộng đồng trong việc tham gia vào các hoạt động kinh tế - xã hội và giải quyết vấn đề tại nơi cư trú?
+|Trách nhiệm gì của đảng viên theo Quy định số 213 đối với việc thường xuyên cập nhật thông tin từ tổ chức đảng trung ương?
+|Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng đối với cộng đồng?
+|Khi tổ chức đảng đặt ra các mục tiêu quan trọng, đảng viên cần thực hiện những biện pháp gì để đóng góp vào việc thực hiện những mục tiêu đó?
+|Trách nhiệm của đảng viên tại nơi cư trú là gì khi tham gia vào việc quản lý và sử dụng thông tin một cách chính xác khi tương tác với cộng đồng?
+|Nhiệm vụ của đảng viên theo Quy định số 213 đối với việc đảm bảo tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
+|Trách nhiệm của đảng viên tại nơi cư trú là gì trong việc thúc đẩy tinh thần tương tác và giao lưu giữa đảng và nhân dân tại địa phương?
+|Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc thúc đẩy tinh thần tương tác và sự phối hợp hiệu quả giữa các tổ chức và đơn vị trong cộng đồng?
 #### Câu trả lời
 1. Nêu gương về phẩm chất chính trị, đạo đức, lối sống và vai trò tiền phong, gương mẫu của người cán bộ, đảng viên trước nhân dân nơi cư trú.
 2. Gương mẫu thực hiện nghĩa vụ công dân; tuyên truyền, vận động gia đình và nhân dân trên địa bàn dân cư thực hiện các chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước và các quy định của địa phương nơi cư trú.
