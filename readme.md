@@ -34,6 +34,19 @@ question |
 Các quyền của đảng viên?
 Đảng viên có quyền gì?
 Quy định về quyền của đảng viên?
+Quyền của đảng viên là gì?
+Quy định về quyền của đảng viên như thế nào?
+Điều gì quy định về quyền thông tin và thảo luận của đảng viên theo Điều lệ Đảng Cộng sản Việt Nam?
+Đảng viên có quyền gì liên quan đến việc phê bình và chất vấn hoạt động của tổ chức đảng và đảng viên ở các cấp?
+Quyền nào được đảng viên dự bị được phép sử dụng?
+Điều gì xác định quyền của đảng viên trong việc biểu quyết về các vấn đề liên quan đến Cương lĩnh chính trị của Đảng?
+Quyền nào cho phép đảng viên dự bị ứng cử và bầu cử cơ quan lãnh đạo của Đảng?
+Đảng viên có quyền gì khi muốn phê bình hoạt động của tổ chức đảng tại các cấp khác nhau?
+Quyền nào cho phép đảng viên đề xuất kiến nghị và yêu cầu trả lời từ các cơ quan có trách nhiệm?
+Đảng viên dự bị có quyền gì liên quan đến việc phê bình và chất vấn tổ chức đảng tại các cấp?
+Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đảng viên, quyền gì cho phép đảng viên đề xuất ý kiến của mình?
+Đảng viên có quyền gì liên quan đến việc ứng cử và đề cử cơ quan lãnh đạo của Đảng?
+
 
 #### Câu trả lời
 Được quy định tại Điều lệ Đảng Cộng sản Việt Nam như sau:
