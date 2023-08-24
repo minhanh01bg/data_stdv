@@ -1,6 +1,6 @@
  
 # Data_new
-### Topic: Đảng viên có những nhiệm vụ gì?
+### Topic 1: Đảng viên có những nhiệm vụ gì?
 
 question | 
 --- |
@@ -18,7 +18,7 @@ Nhiệm vụ của đảng viên theo quy định của Điều lệ Đảng C�
 Nhiệm vụ của đảng viên được quy định như thế nào?
 Nhiệm vụ của đảng viên được quy định như thế nào trong Điều lệ Đảng Cộng sản Việt Nam?
 
-#### Câu trả lời
+#### Câu trả lời 1
 
 Theo quy định tại Điều lệ Đảng Cộng sản Việt Nam:
 1. Tuyệt đối trung thành với mục đích lý tưởng cách mạng của Đảng, chấp hành nghiêm chỉnh Cương lĩnh chính trị Điều lệ Đảng, nghị quyết, chỉ thị của Đảng, pháp luật của Nhà nước; hoàn thành tốt nhiệm vụ được; phục tùng tuyệt đối sự phân công và điều động của Đảng.
@@ -27,7 +27,7 @@ Theo quy định tại Điều lệ Đảng Cộng sản Việt Nam:
 4. Tham gia xây dựng, bảo vệ đường lối, chính sách và tổ chức của Đảng; phục tùng kỷ luật, giữ gìn đoàn kết thống nhất trong Đảng; thường xuyên tự phê bình và phê bình, trung thực với Đảng; làm công tác phát triển đảng viên; sinh hoạt đảng và đóng đảng phí đúng quy định .
 
 
-### Topic: Đảng viên có những quyền gì?
+### Topic 2: Đảng viên có những quyền gì?
 
 question | 
 --- |
@@ -48,7 +48,7 @@ Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đả
 Đảng viên có quyền gì liên quan đến việc ứng cử và đề cử cơ quan lãnh đạo của Đảng?
 
 
-#### Câu trả lời
+#### Câu trả lời 2
 Được quy định tại Điều lệ Đảng Cộng sản Việt Nam như sau:
 1. Được thông tin và thảo luận các vấn đề về Cương lĩnh chính trị, Điều lệ Đảng, đường lối, chủ trương, chính sách của Đảng; biểu quyết công việc của Đảng.
 2. Ứng cử, đề cử và bầu cử cơ quan lãnh đạo các cấp của Đảng  thực hiện  theo quy định của Ban Chấp hành Trung ương.
@@ -57,7 +57,7 @@ Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đả
 Đảng viên dự bị có các quyền trên đây, trữ quyền biểu quyết, ứng cử và bầu cử cơ quan lãnh đạo của Đảng.
 
 
-### Topic: Nhiệm vụ của tổ chức cơ sở đảng là gì? 
+### Topic 3: Nhiệm vụ của tổ chức cơ sở đảng là gì? 
 
 question | 
 --- |
@@ -77,7 +77,7 @@ Tổ chức cơ sở đảng có nhiệm vụ gì?
 Theo Điều lệ Đảng, tổ chức cơ sở đảng phải liên hệ với ai và thực hiện nhiệm vụ gì?
 Nhiệm vụ nào gắn với việc thực hiện đúng pháp luật và phát huy quyền làm chủ của nhân dân do tổ chức cơ sở đảng chịu trách nhiệm?
 Nhiệm vụ nào của tổ chức cơ sở đảng liên quan đến việc kết nạp và khai trừ đảng viên?
-#### Câu trả lời
+#### Câu trả lời 3
 Theo quy định của Điều lệ Đảng Cộng sản Việt Nam:
 1. Chấp hành đường lối chính sách của Đảng, pháp luật của Nhà nước, đề ra chủ trương, nhiệm vụ chính trị của đảng bộ, chi bộ và lãnh đạo thực hiện có hiệu quả.  
 2. Xây dựng đảng bộ, chi bộ trong sạch, vững mạnh và chính trị, tư tưởng và tổ chức; thực hiện đúng nguyên tắc tập trung dân chủ  ; nâng cao chất lượng sinh hoạt đảng, thực hiện tự phê bình và phê bình, giữ gìn kỷ luật và tăng cường đoàn kết thống nhất trong Đảng  ; thường xuyên giáo dục, rèn luyện và quản lý cán bộ, đảng viên, nâng cao phẩm chất đạo đức cách mạng, tính chiến đấu, trình độ kiến thức, năng lực công tác; làm công tác phát triển đảng viên.  
@@ -87,7 +87,7 @@ Theo quy định của Điều lệ Đảng Cộng sản Việt Nam:
 Đảng ủy cơ sở nếu được cấp ủy cấp trên trực tiếp ủy quyền thì được quyết định kết nạp và khai trừ đảng viên.  
 
 
-### Topic: Những nội dung cơ bản của nguyên tắc tập trung dân chủ?
+### Topic 4: Những nội dung cơ bản của nguyên tắc tập trung dân chủ?
 
 question | 
 --- |
@@ -109,7 +109,7 @@ Những nội dung cơ bản nào được quy định trong nguyên tắc tập
 Nguyên tắc tập trung dân chủ yêu cầu cơ quan lãnh đạo các cấp phải thực hiện như thế nào để đảm bảo tính dân chủ?
 Nguyên tắc tập trung dân chủ yêu cầu cơ quan lãnh đạo các cấp phải thực hiện như thế nào để đảm bảo tính dân chủ?
 
-#### Câu trả lời
+#### Câu trả lời 4
 Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định của Điều lệ Đảng Cộng sản Việt Nam đó là:
 - Cơ quan lãnh đạo các cấp của Đảng do bầu cử lập ra, thực hiện tập thể lãnh đạo, cá nhân phụ trách.  
 - Cơ quan lãnh đạo cao nhất của Đảng là Đại hội đại biểu toàn quốc. Cơ quan lãnh đạo ở mỗi cấp là đại hội đại biểu hoặc đại hội đảng viên. Giữa hai kỳ đại hội, cơ quan lãnh đạo của Đảng là Ban Chấp hành Trung ương, ở một cấp là ban chấp hành đảng bộ, chi bộ (gọi tắt là cấp ủy).  
@@ -119,7 +119,7 @@ Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định
 - Tổ chức đảng quyết định các vấn đề thuộc phạm vi quyền hạn của mình, song không được trái với nguyên tắc, đường lối, chính sách của Đảng, pháp luật của Nhà nước và nghị quyết của cấp trên.
 
 
-### Topic: Nội dung phát thẻ và quản lý thẻ đảng viên được quy định như thế nào?
+### Topic 5: Nội dung phát thẻ và quản lý thẻ đảng viên được quy định như thế nào?
 
 question | 
 --- |
@@ -147,7 +147,7 @@ Thẻ đảng viên có vai trò gì trong việc tham gia biểu quyết trong 
 Quy định nào quy định về việc sử dụng thẻ đảng viên trong việc biểu quyết bằng phiếu kín?
 Nếu đảng viên mất thẻ đảng viên, người đó cần thực hiện thủ tục gì để được xem xét cấp lại hoặc đổi thẻ?
 
-#### Câu trả lời
+#### Câu trả lời 5
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Thẻ đảng viên được phát cho đảng viên chính thức, chi bộ tổ chức phát thẻ cho đảng viên trong kỳ sinh hoạt chi bộ gần nhất, sau khi có quyết định của cấp có thẩm quyền.
 - Đảng viên được nhận thẻ đảng viên phải thực hiện đúng những quy định về sử dụng và bảo quản thẻ, khi mất hoặc làm hỏng thẻ phải báo cáo ngay với cấp ủy để xét cấp lại hoặc đổi thẻ đảng viên.
@@ -157,15 +157,38 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 - Sử dụng thẻ đảng viên: Đảng viên sử dụng thẻ đảng viên để biểu quyết trong sinh hoạt đảng, trong đại hội đảng các cấp (trừ các trường hợp biểu quyết bằng phiếu kín).
 
 
-### Topic: Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
+### Topic 6: Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
 
 question | 
 --- |
 Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
 Hồ sơ đảng viên được quản lý như thế nào?
 Quy định về quản lý hồ sơ đảng viên
-
-#### Câu trả lời
+Quy định về việc quản lý hồ sơ đảng viên?
+Hồ sơ đảng viên được quy định và quản lý như thế nào
+Hồ sơ đảng viên được được quản lý như thế nào?
+Nội dung quản lý hồ sơ đảng viên?
+Nội dung quản lý hồ sơ đảng viên là gì?
+Quy định về việc quản lý hồ sơ đảng viên được thực hiện như thế nào theo Quy định của Đảng?
+Hồ sơ đảng viên được quản lý bởi cấp ủy nào?
+Trường hợp nào cấp ủy cơ sở không có điều kiện quản lý và bảo quản hồ sơ đảng viên?
+Cấp ủy cấp trên trực tiếp của tổ chức cơ sở đảng quản lý những gì liên quan đến hồ sơ đảng viên?
+Cấp ủy cấp trên của tổ chức cơ sở đảng quản lý danh sách đảng viên như thế nào?
+Ai có trách nhiệm quản lý hồ sơ đảng viên và danh sách đảng viên đối với đảng viên đi lao động, học tập tự túc ở nước ngoài?
+Đảng ủy Bộ Ngoại giao có trách nhiệm quản lý những gì liên quan đến hồ sơ đảng viên theo quy định của Ban Bí thư và hướng dẫn của Ban Tổ chức Trung ương?
+Hằng năm, các cấp ủy có nhiệm vụ gì liên quan đến việc quản lý hồ sơ đảng viên?
+Trường hợp nào đảng viên cần bổ sung lý lịch trong hồ sơ đảng viên?
+Cấp ủy quản lý hồ sơ đảng viên của đảng viên ra nước ngoài công tác, lao động, học tập từ bao lâu trở lên?
+Hồ sơ đảng viên được coi là gì trong Đảng?
+Tổ chức đảng phải quản lý hồ sơ đảng viên theo chế độ gì?
+Ai giúp Trung ương hướng dẫn và kiểm tra việc quản lý hồ sơ đảng viên trong toàn Đảng?
+Hồ sơ đảng viên có được sửa chữa không? Tại sao?
+Quản lý hồ sơ đảng viên là trách nhiệm của cấp ủy cấp trên hay cấp ủy cơ sở?
+Đảng viên khi ra nước ngoài có cần thực hiện thủ tục gì liên quan đến hồ sơ đảng viên?
+Cấp ủy cơ sở nào sẽ quản lý hồ sơ đảng viên nếu cấp ủy cơ sở không có điều kiện?
+Hồ sơ đảng viên là tài liệu mật của Đảng có được chia sẻ không?
+Quy định nào yêu cầu Tổ chức đảng phải quản lý chặt chẽ hồ sơ đảng viên theo chế độ bảo mật?
+#### Câu trả lời 6
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng:
 - Cấp ủy cơ sở quản lý hồ sơ đảng viên và danh sách đảng viên, cấp ủy cơ sở nào không có điều kiện quản lý và bảo quản hồ sơ đảng viên thì cấp ủy cấp trên trực tiếp quản lý, bảo quản.
 - Cấp ủy cấp trên trực tiếp của tổ chức cơ sở đảng quản lý phiếu đảng viên và danh sách đảng viên của đảng bộ, chi bộ cơ sở trực thuộc ; quản lý hồ sơ đảng viên và danh sách đảng viên đối với đảng viên đi lao động, học tập tự túc ở nước ngoài.
@@ -175,7 +198,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 Ban Tổ chức Trung ương giúp Trung ương hướng dẫn, kiểm tra việc quản lý hồ sơ đảng viên trong toàn Đảng.
 
 
-### Topic: Những đảng viên nào được miễn công tác và sinh hoạt đảng?
+### Topic 7: Những đảng viên nào được miễn công tác và sinh hoạt đảng?
 
 question | 
 --- |
@@ -199,17 +222,35 @@ Quy định nào quy định cấp ủy hoặc bí thư chi bộ báo cáo về 
 Đảng viên muốn xin miễn công tác và sinh hoạt đảng cần thực hiện bước nào sau khi gửi đơn xin?
 Theo Quy định của Đảng, việc miễn công tác và sinh hoạt đảng dựa vào tiêu chí gì?
 Đảng viên muốn xin giảm, miễn công tác và sinh hoạt đảng phải tuân thủ các quy định nào?
-#### Câu trả lời
-Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
-Những trường hợp được miễn công tác và sinh hoạt đảng:
-- Đảng viên tuổi cao, sức khỏe yếu, không thể tham gia sinh hoạt đảng được, tự làm đơn hoặc trực tiếp báo cáo với chi bộ xin giảm, miễn công tác và sinh hoạt đảng, chi bộ xem xét, quyết định. Chi ủy hoặc bí thư chi bộ báo cáo cấp ủy cấp trên trực tiếp biết.
+#### Câu trả lời 7
+-Đảng viên công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt, phải giữ bí mật về nhân thân; đảng viên ở các đơn vị thường trực sẵn sàng chiến đấu. - Đảng viên đang công tác ở vùng sâu, vùng xa, nơi biên giới, hải đảo do yêu cầu nhiệm vụ hằng năm không thường xuyên về nơi cư trú. - Đảng viên đang công tác tại các cơ quan ngoại giao, văn phòng đại diện, đơn vị kinh tế ở ngoài nước; đảng viên tham gia lực lượng gìn giữ hòa bình của Liên Hợp Quốc; đảng viên ra ngoài nước lao động, làm việc, học tập 12 tháng trong năm. - Đảng viên đang công tác nhưng mắc bệnh phải điều trị hoặc dưỡng bệnh 12 tháng liên tục trong năm. Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 6, Điều 2 Quy định 213
 
 
-### Topic: Việc xóa tên đảng viên được quy định như thế nào?
+### Topic 8: Quyền hạn và trách nhiệm của đảng viên được miễn công tác và sinh hoạt đảng?
 
 question | 
 --- |
-#### Câu trả lời
+Quyền hạn và trách nhiệm của đảng viên được miễn công tác và sinh hoạt đảng?
+Đảng viên được miễn công tác và sinh hoạt có trách nhiệm gì?
+
+#### Câu trả lời 8
+Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
+- Được dự đại hội đảng viên; được cung cấp thông tin theo quy định nếu đảng viên đó có yêu cầu.
+-  Được xét tặng Huy hiệu Đảng khi có đủ tiêu chuẩn.
+- Được miễn đánh giá chất lượng đảng viên trong thời gian được miễn công tác và sinh hoạt đảng.
+- Bản thân phải gương mẫu và vận động gia đình chấp hành chủ trương, chính sách của Đảng, pháp luật của Nhà nước và các quy định của địa phương, nếu vi phạm kỷ luật đảng thì xử lý kỷ luật như đối với đảng viên đang sinh hoạt theo quy định của Điều lệ Đảng.
+
+
+### Topic 9: Việc xóa tên đảng viên được quy định như thế nào?
+
+question | 
+--- |
+
+#### Câu trả lời 9
+Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
+Chi bộ xem xét, đề nghị cấp ủy có thẩm quyền quyết định xóa tên trong danh sách đảng viên đối với các trường hợp sau: Đảng viên bỏ sinh hoạt đảng hoặc không đóng đảng phí ba tháng trong năm mà không có lý do chính đáng; đảng viên tự ý trả thẻ đảng viên hoặc tự hủy thẻ đảng viên; đảng viên giảm sút ý chí phấn đấu, không làm nhiệm vụ đảng viên, đã được chi bộ giáo dục nhưng sau thời gian 12 tháng phấn đấu không tiến bộ; đảng viên hai năm liền vi phạm tư cách đảng viên; đảng viên không bảo đảm tiêu chuẩn chính trị theo quy định của Bộ Chính trị.
+
+
 
 ### Topic: Giải quyết khiếu nại về xóa tên đảng viên được quy định như thế nào?
 
