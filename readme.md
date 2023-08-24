@@ -61,10 +61,22 @@ Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đả
 
 question | 
 --- |
+Nhiệm vụ của tổ chức cơ sở đảng là gì? 
 Những nhiệm vụ của tổ chức cơ sở đảng?
 Tổ chức cơ sở đảng có nhiệm vụ gì?
 Quy định về nhiệm vụ tổ chức cơ sở đảng?
-
+Tổ chức cơ sở đảng có nhiệm vụ gì?
+Tổ chức cơ sở đảng có nhiệm vụ gì theo quy định của Điều lệ Đảng Cộng sản Việt Nam?
+Nhiệm vụ nào liên quan đến việc chấp hành đường lối chính sách của Đảng được giao cho tổ chức cơ sở đảng?
+Quy định nào xác định nhiệm vụ của tổ chức cơ sở đảng trong việc xây dựng và thúc đẩy chất lượng sinh hoạt đảng?
+Quy định nào xác định trách nhiệm của tổ chức cơ sở đảng trong việc xây dựng và thúc đẩy chất lượng sinh hoạt đảng?
+Nhiệm vụ nào của tổ chức cơ sở đảng liên quan đến việc nâng cao phẩm chất đạo đức cách mạng của cán bộ và đảng viên?
+Tổ chức cơ sở đảng có trách nhiệm gì đối với việc lãnh đạo xây dựng các tổ chức khác trong xã hội?
+Liên kết mật thiết với nhân dân và chăm lo đời sống vật chất, tinh thần của họ là nhiệm vụ của tổ chức cơ sở đảng trong khía cạnh nào?
+Tổ chức cơ sở đảng có nhiệm vụ gì?
+Theo Điều lệ Đảng, tổ chức cơ sở đảng phải liên hệ với ai và thực hiện nhiệm vụ gì?
+Nhiệm vụ nào gắn với việc thực hiện đúng pháp luật và phát huy quyền làm chủ của nhân dân do tổ chức cơ sở đảng chịu trách nhiệm?
+Nhiệm vụ nào của tổ chức cơ sở đảng liên quan đến việc kết nạp và khai trừ đảng viên?
 #### Câu trả lời
 Theo quy định của Điều lệ Đảng Cộng sản Việt Nam:
 1. Chấp hành đường lối chính sách của Đảng, pháp luật của Nhà nước, đề ra chủ trương, nhiệm vụ chính trị của đảng bộ, chi bộ và lãnh đạo thực hiện có hiệu quả.  
@@ -82,6 +94,20 @@ question |
 Những nội dung cơ bản của nguyên tắc tập trung dân chủ?
 Nguyên tắc tập trung dân chủ có những nội dung gì?
 Quy định về nguyên tắc tập trung dân chủ?
+Nguyên tắc tập trung dân chủ có những nội dung nào?
+Nguyên tắc tập trung dân chủ theo Điều lệ Đảng Cộng sản Việt Nam có nội dung cơ bản gì?
+Nguyên tắc tập trung dân chủ có nội dung gì?
+Những nội dung cơ bản nào nằm trong nguyên tắc tập trung dân chủ?
+Nội dung của nguyên tắc tập trung dân chủ liên quan đến việc thi hành nghị quyết của Đảng là gì?
+Theo nguyên tắc tập chung dân chủ, nội dung cơ bản bao gồm những gì?
+Nội dung cơ bản nào được quy định trong nguyên tắc tập trung dân chủ?
+Nguyên tắc tập trung dân chủ có nội dung gì?
+Nguyên tắc tập trung dân chủ có nội dung nào?
+Nguyên tắc tập trung dân chủ có bao nhiêu nội dung cơ bản?
+Bao nhiêu nội dung cơ bản được quy định trong nguyên tắc tập trung dân chủ?
+Những nội dung cơ bản nào được quy định trong nguyên tắc tập trung dân chủ?
+Nguyên tắc tập trung dân chủ yêu cầu cơ quan lãnh đạo các cấp phải thực hiện như thế nào để đảm bảo tính dân chủ?
+Nguyên tắc tập trung dân chủ yêu cầu cơ quan lãnh đạo các cấp phải thực hiện như thế nào để đảm bảo tính dân chủ?
 
 #### Câu trả lời
 Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định của Điều lệ Đảng Cộng sản Việt Nam đó là:
@@ -126,6 +152,26 @@ Ban Tổ chức Trung ương giúp Trung ương hướng dẫn, kiểm tra việ
 
 question | 
 --- |
+Trường hợp nào đảng viên được miễn công tác và sinh hoạt đảng?
+Đảng viên được miễn công tác và sinh hoạt đảng trong trường hợp nào?
+Đảng viên được miễn công tác và sinh hoạt đảng trong những trường hợp nào?
+Đảng viên có thể được miễn công tác và sinh hoạt đảng trong tình huống nào?
+Trường hợp nào đảng viên được xem xét và quyết định miễn công tác và sinh hoạt đảng?
+Khi nào đảng viên có thể xin giảm, miễn công tác và sinh hoạt đảng theo Quy định của Đảng?
+Quy định nào của Đảng quy định về việc miễn công tác và sinh hoạt đảng cho đảng viên tuổi cao, sức khỏe yếu?
+Đảng viên tuổi cao, sức khỏe yếu muốn được miễn công tác và sinh hoạt đảng phải thực hiện thủ tục gì?
+Ai có quyền quyết định việc miễn công tác và sinh hoạt đảng cho đảng viên theo Quy định của Đảng?
+Trong tình huống nào đảng viên được tự làm đơn xin miễn công tác và sinh hoạt đảng?
+Điều gì quy định về việc đảng viên tuổi cao, sức khỏe yếu không thể tham gia sinh hoạt đảng?
+Xin miễn công tác và sinh hoạt đảng của đảng viên?
+Đảng viên cần thực hiện thủ tục gì nếu muốn miễn công tác và sinh hoạt đảng?
+Quy định nào đề cập đến việc đảng viên tự làm đơn xin giảm, miễn công tác và sinh hoạt đảng?
+Trường hợp nào đảng viên cần trực tiếp báo cáo với chi bộ để xin miễn công tác và sinh hoạt đảng?
+Ngoài việc tự làm đơn, đảng viên có cách nào khác để xin miễn công tác và sinh hoạt đảng?
+Quy định nào quy định cấp ủy hoặc bí thư chi bộ báo cáo về việc miễn công tác và sinh hoạt đảng lên cấp ủy cấp trên?
+Đảng viên muốn xin miễn công tác và sinh hoạt đảng cần thực hiện bước nào sau khi gửi đơn xin?
+Theo Quy định của Đảng, việc miễn công tác và sinh hoạt đảng dựa vào tiêu chí gì?
+Đảng viên muốn xin giảm, miễn công tác và sinh hoạt đảng phải tuân thủ các quy định nào?
 #### Câu trả lời
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 Những trường hợp được miễn công tác và sinh hoạt đảng:
