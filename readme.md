@@ -123,6 +123,29 @@ Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định
 
 question | 
 --- |
+Nội dung phát thẻ và quản lý thẻ đảng viên được quy định như thế nào?
+Quy định về phát thẻ và quản lý thẻ đảng viên?
+Thẻ đảng viên được phát và quản lí như thế nào?
+Quy định về việc phát thẻ và quản lý thẻ đảng viên được thực hiện như thế nào theo Quy định của Đảng?
+Thẻ đảng viên được phát cho ai và trong thời điểm nào theo quy định của Đảng?
+Ai có thẩm quyền quyết định phát thẻ đảng viên cho đảng viên?
+Đảng viên cần thực hiện thủ tục gì để nhận thẻ đảng viên theo quy định của Đảng?
+Khi nào đảng viên được nhận thẻ đảng viên theo quy định của Đảng?
+Quy định nào của Đảng yêu cầu đảng viên thực hiện đúng về việc sử dụng và bảo quản thẻ đảng viên?
+Đảng viên mất hoặc làm hỏng thẻ đảng viên cần thực hiện thủ tục gì?
+Ai là người có thẩm quyền xét cấp lại hoặc đổi thẻ đảng viên khi thẻ bị mất hoặc hỏng?
+Cấp ủy cấp trên của tổ chức cơ sở đảng có trách nhiệm gì liên quan đến việc phát thẻ đảng viên?
+Đảng viên thuộc Đảng bộ Ngoài nước được phát thẻ đảng viên do ai xem xét, ra quyết định?
+Ai có trách nhiệm chỉ đạo và kiểm tra việc phát thẻ đảng viên trong các tỉnh ủy, thành ủy, đảng ủy trực thuộc Trung ương?
+Ban Tổ chức Trung ương đóng vai trò gì trong việc phát thẻ và quản lý thẻ đảng viên trong toàn Đảng?
+Đảng viên sử dụng thẻ đảng viên để làm gì theo quy định của Đảng?
+Thẻ đảng viên có chức năng gì trong việc biểu quyết trong sinh hoạt đảng?
+Khi nào đảng viên sử dụng thẻ đảng viên trong đại hội đảng các cấp theo quy định của Đảng?
+Trường hợp nào đảng viên không sử dụng thẻ đảng viên để biểu quyết trong đại hội đảng các cấp?
+Ai có trách nhiệm hướng dẫn và kiểm tra việc phát thẻ, quản lý thẻ đảng viên trên toàn Đảng?
+Thẻ đảng viên có vai trò gì trong việc tham gia biểu quyết trong đại hội đảng các cấp?
+Quy định nào quy định về việc sử dụng thẻ đảng viên trong việc biểu quyết bằng phiếu kín?
+Nếu đảng viên mất thẻ đảng viên, người đó cần thực hiện thủ tục gì để được xem xét cấp lại hoặc đổi thẻ?
 
 #### Câu trả lời
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
@@ -138,6 +161,10 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
+Hồ sơ đảng viên được quản lý như thế nào?
+Quy định về quản lý hồ sơ đảng viên
+
 #### Câu trả lời
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng:
 - Cấp ủy cơ sở quản lý hồ sơ đảng viên và danh sách đảng viên, cấp ủy cơ sở nào không có điều kiện quản lý và bảo quản hồ sơ đảng viên thì cấp ủy cấp trên trực tiếp quản lý, bảo quản.
