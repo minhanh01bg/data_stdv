@@ -355,7 +355,32 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 question | 
 --- |
 Hình thức khen thưởng trong Đảng được quy định như thế nào?
-Quy định về các hình thức khen thưởng của Đảng
+Quy định về các hình thức khen thưởng của Đảng?
+Quy định về các hình thức khen thưởng của Đảng như thế nào?
+Hình thức khen thưởng của Đảng nào được áp dụng?
+Hình thức khen thưởng của Đảng?
+Hình thức khen thưởng trong Đảng?
+Quy định về hình thức khen thưởng của Đảng?
+Hình thức khen thưởng nào được áp dụng đối với tổ chức Đảng?
+Đối với tổ chức đảng, có những hình thức khen thưởng nào?
+Đảng ủy cấp trên có quyền thực hiện hình thức khen thưởng nào đối với tổ chức đảng cấp dưới?
+Đối với đảng viên, có những hình thức khen thưởng nào?
+Khi nào đảng viên được tặng Huy hiệu Đảng với thời gian 30 năm tuổi đảng?
+Với hình thức khen thưởng nào đảng viên được tặng Huy hiệu Đảng với số năm tuổi đảng là 40?
+Hình thức khen thưởng nào được áp dụng cho đảng viên đã đạt 45 năm tuổi đảng?
+Khi đảng viên đạt mốc 50 năm tuổi đảng, hình thức khen thưởng nào áp dụng cho họ?
+hình thức khen thưởng nào áp dụng cho đảng viên đã hoàn thành 55 năm tuổi đảng?
+Đảng viên đạt mốc 60 năm tuổi đảng sẽ được khen thưởng với hình thức như thế nào?
+Hình thức khen thưởng nào được áp dụng cho đảng viên đạt 65 năm tuổi đảng?
+Đảng viên đã gắn bó với Đảng trong 70 năm sẽ được tặng hình thức khen thưởng nào?
+Có những hình thức khen thưởng nào áp dụng cho đảng viên đã đạt 75 năm tuổi đảng?
+Hình thức khen thưởng nào được tặng cho đảng viên đã hoàn thành 80 năm tuổi đảng?
+Đảng viên gắn bó với Đảng trong 85 năm sẽ được khen thưởng với hình thức như thế nào?
+Khi nào đảng viên được tặng thưởng huân chương và huy chương của Đảng và Nhà nước?
+Có những danh hiệu vinh dự nào khác được tặng cho đảng viên?
+Cấp ủy cấp trên có quyền thực hiện hình thức khen thưởng nào đối với đảng viên?
+Khi nào tổ chức đảng có thể được tặng cờ khen thưởng?
+Đảng viên gắn bó với Đảng trong 90 năm sẽ nhận được hình thức khen thưởng gì?
 
 #### Câu trả lời 12
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng, hình thức khen thưởng trong Đảng được quy định như sau:
@@ -369,7 +394,24 @@ question |
 --- |
 Thẩm quyền khen thưởng được quy định như thế nào?
 Quy định về thẩm quyền khen thưởng?
-
+Thẩm quyền khen thưởng ở cấp nào được quy định đối với tổ đảng và đảng viên trong chi bộ?
+Đảng ủy bộ phận có thẩm quyền khen thưởng gì đối với tổ chức đảng và đảng viên trong đảng bộ?
+Cấp nào có thẩm quyền tặng giấy khen cho đảng viên trong chi bộ cơ sở?
+Huyện ủy và tương đương có thẩm quyền khen thưởng gì cho tổ chức đảng và đảng viên trong đảng bộ?
+Khi đảng viên đạt mốc 50 năm tuổi đảng, cấp nào có thẩm quyền tặng Huy hiệu Đảng?
+Việc tặng Huy hiệu Đảng với số năm tuổi đảng từ 55 đến 90 tuổi được thực hiện bởi cấp nào?
+Cấp nào có thẩm quyền tặng thưởng huân chương, huy chương và các danh hiệu vinh dự khác cho tổ chức đảng và đảng viên?
+Thẩm quyền khen thưởng ở cấp nào được quy định đối với đảng viên trong đảng bộ?
+Cấp nào có thẩm quyền tặng bằng khen cho đảng viên trong đảng bộ?
+Thẩm quyền khen thưởng ở cấp nào được quy định đối với tổ chức đảng ở cấp huyện?
+Cấp nào có thẩm quyền tặng Huy hiệu Đảng với số năm tuổi đảng từ 30 đến 90?
+Thẩm quyền khen thưởng ở cấp nào được quy định đối với tổ chức đảng ở cấp tỉnh?
+Tỉnh ủy và tương đương có thẩm quyền tặng thưởng huân chương, huy chương và danh hiệu vinh dự nào?
+Cấp nào có thẩm quyền thực hiện việc tặng thưởng huân chương, huy chương và danh hiệu khác cho tổ chức đảng và đảng viên trong đảng bộ?
+Theo Quy định số 24-QĐ/TW, Thẩm quyền khen thưởng được quy định như thế nào?
+Thẩm quyền khen thưởng được quy định như thế nào theo Quy định số 24-QĐ/TW?
+Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng, Thẩm quyền khen thưởng được quy định như thế nào?
+Thẩm quyền khen thưởng được quy định như thế nào theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng?
 #### Câu trả lời 13
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng, thẩm quyền khen thưởng được quy định như sau:
 - Chi bộ: Biểu dương tổ đảng và đảng viên trong chi bộ.
@@ -385,10 +427,31 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 question | 
 --- |
 Khen thưởng đối với tổ chức đảng được quy định như thế nào?
+Theo quy định, Khen thưởng đối với tổ chức đảng như thế nào?
 Đối với tổ chức đảng việc khen thưởng được quy định như thế nào?
 Có những quy định gì về việc khen thưởng đối với tổ chức đảng?
-Hướng dẫn về khen thưởng đối  với tổ chức đảng
-
+Hướng dẫn về khen thưởng đối với tổ chức đảng
+Tổ chức đảng nào được khen thưởng theo quy định?
+Theo quy định, tổ chức đảng được khen thưởng khi nào?
+Khi nào thì tổ chức đảng được khen thưởng theo quy định?
+Điều kiện nào tổ chức đảng được khen thưởng?
+Theo quy định, Điều kiện nào tổ chức đảng được khen thưởng?
+Điều kiện nào tổ chức đảng được khen thưởng theo quy định?
+Tổ chức đảng được khen thưởng khi đạt điều kiện nào?
+khi nào thì tổ chức đảng được khen thưởng?
+Tổ chức đảng nào được xét khen thưởng theo quy định?
+Quy định nào về việc xét khen thưởng cho tổ chức đảng và đảng viên trong chi bộ?
+Cấp nào có thẩm quyền xét khen thưởng tổ chức đảng và đảng viên theo định kỳ?
+Việc xét khen thưởng tổ chức đảng và đảng viên được gắn với việc gì?
+Khen thưởng theo nhiệm kỳ đại hội được áp dụng ở cấp nào trong tổ chức đảng?
+Tổ chức đảng nào sẽ nhận được giấy khen từ đảng ủy cơ sở khi đạt tiêu chuẩn "Hoàn thành xuất sắc nhiệm vụ" tiêu biểu trong năm?
+Tại cấp nào, tổ chức đảng sẽ nhận được tặng cờ khen thưởng?
+Xét khen thưởng tổ chức cơ sở đảng được thực hiện theo định kỳ ở cấp nào?
+Tổ chức cơ sở đảng đạt tiêu chuẩn "Hoàn thành xuất sắc nhiệm vụ" tiêu biểu trong 5 năm liền sẽ nhận được khen thưởng từ cấp nào?
+Khen thưởng đảng bộ huyện và tương đương được xét kỳ hạn ở cấp nào?
+Đảng bộ huyện và tương đương có thành tích trong nhiệm kỳ sẽ nhận được khen thưởng từ cấp nào?
+Ngoài việc xét khen thưởng theo định kỳ, cấp ủy đảng cấp trên có thẩm quyền xét khen thưởng những tổ chức đảng nào?
+Khen thưởng các cơ quan tham mưu giúp việc và đơn vị sự nghiệp của Đảng?
 #### Câu trả lời 14
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
  a) Tổ chức đảng có thành tích được xét khen thưởng gồm: Đảng bộ huyện và tương đương; tổ chức cơ sở đảng; đảng bộ bộ phận; chi bộ trực thuộc đảng ủy cơ sở; chi bộ trực thuộc đảng ủy bộ phận; tổ đảng trực thuộc chi bộ; các cơ quan tham mưu, giúp việc và đơn vị sự nghiệp của Đảng.
@@ -412,9 +475,34 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
  g) Tiêu chuẩn chi bộ trực thuộc đảng ủy bộ phận, chi bộ trực thuộc đảng ủy cơ sở, đảng bộ bộ phận, tổ chức cơ sở đảng, đảng bộ huyện và tương đương “Hoàn thành xuất sắc nhiệm vụ” tiêu biểu thực hiện theo Hướng dẫn của Ban Tổ chức Trung ương.
 
 ### Topic 15: Khen thưởng đối với đảng viên được quy định như thế nào?
-
+# topic này có câu hỏi gần giống với câu 12
 question | 
 --- |
+Khen thưởng đối với đảng viên được quy định như thế nào?
+Đối với đảng viên việc khen thưởng được quy định như thế nào?
+Có những quy định gì về việc khen thưởng đối với đảng viên?
+Hướng dẫn về khen thưởng với đảng viên
+Đảng viên nào được xét khen thưởng theo quy định?
+Quy định nào về việc xét khen thưởng cho đảng viên theo định kỳ?
+Cấp nào có thẩm quyền xét khen thưởng đảng viên theo định kỳ?
+Việc xét khen thưởng đảng viên được gắn với việc gì?
+Khen thưởng theo nhiệm kỳ đại hội được áp dụng ở cấp nào đối với đảng viên?
+Đảng viên nào sẽ nhận được giấy khen từ đảng ủy cơ sở khi đạt tiêu chuẩn "Hoàn thành xuất sắc nhiệm vụ" trong năm?
+Quy định nào về việc xét khen thưởng cho đảng viên đạt tiêu chuẩn "Hoàn thành xuất sắc nhiệm vụ" 5 năm liền?
+Tại cấp nào, đảng viên sẽ nhận được bằng khen từ ban thường vụ huyện ủy và tương đương?
+Đảng viên đạt "Hoàn thành xuất sắc nhiệm vụ" tiêu biểu 5 năm liền sẽ nhận được khen thưởng từ cấp nào?
+Quy định nào về việc khen thưởng đảng viên có thành tích đặc biệt xuất sắc?
+Ban thường vụ huyện ủy và tương đương xét tặng giấy khen cho đảng viên nào?
+Quy định nào về việc khen thưởng đảng viên đạt thành tích xuất sắc, được Nhà nước trao giải thưởng trong các kỳ thi tuyển, thi đấu quốc gia?
+Tại cấp nào, đảng viên có thành tích đặc biệt xuất sắc sẽ nhận được bằng khen từ ban thường vụ tỉnh ủy và tương đương?
+Khen thưởng đảng viên có thành tích đặc biệt xuất sắc, được các tổ chức quốc tế trao giải thưởng; được Nhà nước xét tặng danh hiệu anh hùng, chiến sĩ thi đua toàn quốc, đoạt giải nhất trong các kỳ thi tuyển, thi đấu quốc gia được thực hiện ở cấp nào?
+Khen thưởng đảng viên không theo định kỳ được thực hiện dựa trên tiêu chí gì?
+Đảng viên có hành động dũng cảm trong chiến đấu, lao động, phòng, chống thiên tai, chống tham nhũng, tiêu cực và tệ nạn xã hội sẽ nhận được khen thưởng gì?
+Cấp ủy đảng cấp trên xét khen thưởng cho đảng viên đạt thành tích đặc biệt xuất sắc, tiêu biểu trong từng lĩnh vực như thế nào?
+Hướng dẫn số 01-HD/TW ngày 28/9/2021 của Ban Bí thư áp dụng cho việc khen thưởng đảng viên tại cấp nào?
+heo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư, Khen thưởng đối với đảng viên được quy định như thế nào?
+Đảng viên nào được xét, khen thưởng kịp thời cho thành tích đặc biệt xuất sắc, tiêu biểu trong từng lĩnh vực như lao động sản xuất, học tập, nghiên cứu khoa học, hoạt động văn hóa, nghệ thuật, giáo dục, thể dục, thể thao, quốc phòng, an ninh...?
+
 #### Câu trả lời 15
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
  a) Khen thưởng đảng viên theo định kỳ:
@@ -431,6 +519,34 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 question | 
 --- |
+Lý lịch của người vào Đảng phải bảo đảm những yêu cầu gì?
+Điều kiện đảm bảo về lý lịch của người vào Đảng gồm những gì?
+Theo quy dịnh, Lý lịch của người vào Đảng phải bảo đảm những yêu cầu gì?
+Điều kiện đảm bảo lý lịch của người vào Đảng?
+Lý lịch của người vào Đảng?
+Người vào đảng cần khai báo lý lịch như thế nào?
+Lý lịch của nguời vào Đảng cần những gì?
+Theo quy định, người vào đảng cần khai báo lý lịch như thế nào?
+Yêu cầu nào phải được đảm bảo trong lý lịch của người muốn vào Đảng?
+Theo quy định, người vào Đảng phải thực hiện việc gì liên quan đến lý lịch?
+Quy định nào về việc người vào Đảng tự khai lý lịch?
+Người vào Đảng phải chịu trách nhiệm về việc gì liên quan đến lý lịch?
+Khi nào người vào Đảng cần báo cáo với chi bộ về vấn đề lý lịch?
+Lý lịch của người vào Đảng cần được thẩm tra và kết luận bởi cấp ủy nào?
+Trước khi ghi nội dung chứng nhận, người vào Đảng cần thực hiện gì liên quan đến lý lịch?
+Quy định nào về việc đóng dấu trong lý lịch của người vào Đảng?
+Lý lịch của người vào Đảng cần phải được khai báo như thế nào?
+Quy định nào đề cập đến việc người vào Đảng cần khai lý lịch trung thực?
+Nếu có vấn đề nào không hiểu hoặc không nhớ chính xác trong lý lịch, người vào Đảng cần thực hiện việc gì?
+Ai là cơ quan thẩm tra và kết luận lý lịch của người vào Đảng?
+Lý lịch của người vào Đảng cần được thẩm tra và kết luận ở giai đoạn nào?
+Quy định nào về việc cấp ủy cơ sở phải thẩm tra và kết luận lý lịch của người vào Đảng?
+Khi nào nội dung chứng nhận và ký tên đóng dấu vào lý lịch của người vào Đảng được thực hiện?
+Lý lịch của người vào Đảng cần phải đảm bảo tính gì trong việc khai báo?
+Ai là người chịu trách nhiệm về nội dung đã khai trong lý lịch của người vào Đảng?
+Để thực hiện việc đóng dấu vào lý lịch của người vào Đảng, cần tuân thủ quy định nào?
+Cấp ủy nào có trách nhiệm thẩm tra và kết luận lý lịch của người vào Đảng?
+Lý lịch của người vào Đảng cần phải được đảm bảo những yêu cầu gì liên quan đến thẩm tra và kết luận?
 #### Câu trả lời 16
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư  hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, lý lịch của người vào Đảng phải bảo đảm các yêu cầu sau:
 - Người vào Đảng tự khai lý lịch đầy đủ, rõ ràng, trung thực theo quy định, chịu trách nhiệm về nội dung đã khai; nếu có vấn đề nào không hiểu và không nhớ chính xác thì phải báo cáo với chi bộ.
