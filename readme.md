@@ -745,6 +745,44 @@ question |
 --- |
 Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những nội dung gì?
 Kết nạp đảng viên hồ sơ cần chuẩn bị những gì?
+Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những giấy tờ gì?
+Hồ sơ đảng viên khi được kết nạp vào Đảng được lập ra khi nào?
+Hồ sơ đảng viên khi được kết nạp vào Đảng được lập bởi ai?
+Hồ sơ đảng viên khi được kết nạp vào Đảng được lưu trữ ở đâu?
+Hồ sơ đảng viên khi được kết nạp vào Đảng có bao nhiêu tờ?
+Hồ sơ đảng viên khi được kết nạp vào Đảng có thể được thay đổi, bổ sung hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng có thể được hủy bỏ hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng có vai trò như thế nào?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là cơ sở để làm gì?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện để được kết nạp vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ tư cách, phẩm chất để được kết nạp vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ năng lực, trình độ để được kết nạp vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ nguyện vọng, động cơ vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn để được kết nạp vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn, phẩm chất, năng lực, nguyện vọng, động cơ vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn, phẩm chất, năng lực, nguyện vọng, động cơ, lý lịch vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn, phẩm chất, năng lực, nguyện vọng, động cơ, lý lịch, phẩm chất đạo đức vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn, phẩm chất, năng lực, nguyện vọng, động cơ, lý lịch, phẩm chất đạo đức, lối sống vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn, phẩm chất, năng lực, nguyện vọng, động cơ, lý lịch, phẩm chất đạo đức, lối sống, ý thức tổ chức kỷ luật vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng là căn cứ để xác định đảng viên đủ điều kiện, tiêu chuẩn, phẩm chất, năng lực, nguyện vọng, động cơ, lý lịch, phẩm chất đạo đức, lối sống, ý thức tổ chức kỷ luật, khả năng công tác vào Đảng hay không?
+Hồ sơ đảng viên khi được kết nạp vào Đảng bao gồm những giấy tờ nào?
+Khi chuẩn bị hồ sơ kết nạp đảng viên, giấy chứng nhận gì cần có?
+Hồ sơ kết nạp đảng viên cần có nghị quyết từ tổ chức nào về việc giới thiệu đoàn viên ưu tú vào Đảng?
+Nội dung gì cần được tổng hợp trong hồ sơ kết nạp đảng viên từ tổ chức chính trị - xã hội nơi làm việc?
+Nếu người vào Đảng đã từng là đoàn viên, hồ sơ kết nạp cần có nghị quyết từ tổ chức nào?
+Trong hồ sơ kết nạp đảng viên, nghị quyết xét, đề nghị kết nạp đảng viên của chi bộ được yêu cầu hay không?
+Đảng ủy bộ phận có liên quan đến việc thẩm định hồ sơ kết nạp đảng viên hay không?
+Đảng ủy cơ sở cần có nghị quyết gì đối với việc xét, đề nghị kết nạp đảng viên trong hồ sơ kết nạp?
+Điều gì cần có trong hồ sơ kết nạp đảng viên để chứng minh việc thẩm định từ đảng ủy bộ phận?
+Quyết định kết nạp đảng viên của cấp ủy có thẩm quyền phải xuất hiện trong hồ sơ kết nạp đảng viên hay không?
+Ngoài hồ sơ kết nạp, những văn bản gì khác cần có trong hồ sơ của đảng viên khi kết nạp?
+Đảng viên mới cần đối chiếu những văn bản nào trong hồ sơ khi kết nạp?
+Khi chuẩn bị hồ sơ kết nạp đảng viên, nghị quyết của Đoàn Thanh niên Cộng sản Hồ Chí Minh có ý nghĩa gì?
+Trong hồ sơ kết nạp đảng viên, nếu có nghị quyết xét, đề nghị từ đảng ủy cơ sở, điều này có tác động gì?
+Điều gì cần xuất hiện trong hồ sơ kết nạp đảng viên để chứng minh quyết định kết nạp của cấp ủy có thẩm quyền?
+Khi chuẩn bị hồ sơ kết nạp đảng viên, có cần có Phiếu đảng viên không?
+Trong hồ sơ kết nạp đảng viên, phiếu đảng viên có vai trò gì?
+Khi kết nạp đảng viên, việc chuẩn bị hồ sơ cần tuân thủ quy định nào từ Ban Bí thư?
 
 #### Câu trả lời 21
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, hồ sơ đảng viên khi được kết nạp vào Đảng gồm:
@@ -765,6 +803,46 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 question | 
 --- |
+Chỉ xem xét kết nạp vào Đảng những người trên 60 tuổi khi đủ các điều kiện nào?
+Người nào có thể được xem xét kết nạp vào Đảng khi đã trên 60 tuổi?
+Điều kiện gì cần được đáp ứng để người trên 60 tuổi được xem xét kết nạp vào Đảng?
+Người trên 60 tuổi muốn kết nạp vào Đảng phải đáp ứng những yêu cầu gì?
+Khi nào  người trên 60 tuổi đủ điều kiện có thể kết nạp vào Đảng?
+Người trên 60 tuổi có được xem xét kết nạp vào Đảng nếu đang cư trú ở cơ sở đã có tổ chức đảng?
+Để xem xét kết nạp vào Đảng, người trên 60 tuổi cần phải đạt điều kiện gì?
+Điều gì cần phải xảy ra trước khi cấp ủy có thẩm quyền ra quyết định kết nạp người trên 60 tuổi vào Đảng?
+Nếu người trên 60 tuổi muốn kết nạp vào Đảng, yêu cầu ban thường vụ cấp ủy trực thuộc Trung ương cần được thỏa mãn như thế nào?
+Quyết định kết nạp vào Đảng đối với người trên 60 tuổi phải được ai đồng ý trước?
+Để được xem xét kết nạp vào Đảng, người trên 60 tuổi cần có sự đồng ý từ ai?
+Ai có thẩm quyền ra quyết định kết nạp người trên 60 tuổi vào Đảng?
+Điều gì cần được văn bản từ ban thường vụ cấp ủy trực thuộc Trung ương trước khi cấp ủy có thẩm quyền ra quyết định kết nạp?
+Khi trên 60 tuổi và muốn kết nạp vào Đảng, người đó cần được ban thường vụ cấp ủy trực thuộc Trung ương đồng ý bằng cách nào?
+Người trên 60 tuổi có thể xem xét kết nạp vào Đảng nếu không đáp ứng yêu cầu về sức khoẻ và uy tín?
+Người trên 60 tuổi có thể kết nạp vào Đảng nếu không đang công tác hoặc cư trú ở cơ sở chưa có tổ chức đảng?
+Điều kiện nào cần được đáp ứng để người trên 60 tuổi có thể kết nạp vào Đảng?
+Người trên 60 tuổi cần có văn bản đồng ý từ đơn vị nào trước khi cấp ủy có thẩm quyền ra quyết định kết nạp?
+Khi muốn kết nạp vào Đảng và trên 60 tuổi, người đó cần thỏa mãn những điều kiện gì?
+Quy định về xem xét kết nạp vào Đảng đối với người trên 60 tuổi gồm những gì?
+Những người trên 60 tuổi được xem xét kết nạp vào Đảng khi có đủ các điều kiện gì?
+Những người trên 60 tuổi có sức khoẻ và uy tín được xem xét kết nạp vào Đảng khi có đủ các điều kiện gì?
+Những người trên 60 tuổi đang công tác, cư trú ở cơ sở chưa có tổ chức đảng, chưa có đảng viên được xem xét kết nạp vào Đảng khi có đủ các điều kiện gì?
+Những người trên 60 tuổi do yêu cầu đặc biệt được xem xét kết nạp vào Đảng khi có đủ các điều kiện gì?
+Những người trên 60 tuổi được ban thường vụ cấp ủy trực thuộc Trung ương đồng ý bằng văn bản trước khi cấp ủy có thẩm quyền ra quyết định kết nạp được xem xét kết nạp vào Đảng khi có đủ các điều kiện gì?
+Những người trên 60 tuổi có đủ các điều kiện trên có được xem xét kết nạp vào Đảng hay không?
+Những người trên 60 tuổi không có đủ các điều kiện trên có được xem xét kết nạp vào Đảng hay không?
+Những người trên 60 tuổi chỉ có sức khoẻ và uy tín có được xem xét kết nạp vào Đảng hay không?
+Những người trên 60 tuổi chỉ đang công tác, cư trú ở cơ sở chưa có tổ chức đảng, chưa có đảng viên có được xem xét kết nạp vào Đảng hay không?
+Những người trên 60 tuổi chỉ do yêu cầu đặc biệt có được xem xét kết nạp vào Đảng hay không?
+Những người trên 60 tuổi không được ban thường vụ cấp ủy trực thuộc Trung ương đồng ý bằng văn bản trước khi cấp ủy có thẩm quyền ra quyết định kết nạp có được xem xét kết nạp vào Đảng hay không?
+Những người trên 60 tuổi có đủ các điều kiện trên thì được xét kết nạp vào Đảng khi nào?
+Những người trên 60 tuổi không đủ các điều kiện trên thì không được xét kết nạp vào Đảng khi nào?
+Những người trên 60 tuổi chỉ có sức khoẻ và uy tín thì không được xét kết nạp vào Đảng khi nào?
+Những người trên 60 tuổi chỉ đang công tác, cư trú ở cơ sở chưa có tổ chức đảng, chưa có đảng viên thì không được xét kết nạp vào Đảng khi nào?
+Những người trên 60 tuổi chỉ do yêu cầu đặc biệt thì không được xét kết nạp vào Đảng khi nào?
+Những người trên 60 tuổi không được ban thường vụ cấp ủy trực thuộc Trung ương đồng ý bằng văn bản trước khi cấp ủy có thẩm quyền ra quyết định kết nạp thì không được xét kết nạp vào Đảng khi nào?
+Những người trên 60 tuổi có đủ các điều kiện trên thì được cấp ủy nào xem xét kết nạp vào Đảng?
+Những người trên 60 tuổi không đủ các điều kiện trên thì không được cấp ủy nào xem xét kết nạp vào Đảng?
+Những người trên 60 tuổi chỉ có sức khoẻ và uy tín thì không được cấp ủy nào xem xét kết nạp vào Đảng?
 
 #### Câu trả lời 22
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
@@ -774,6 +852,42 @@ Có sức khoẻ và uy tín; đang công tác, cư trú ở cơ sở chưa có 
 
 question | 
 --- |
+Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được quy định như thế nào?
+Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên do tổ chức đảng nào xem xét?
+Kết nạp đảng viên đối với người đang công tác biệt phái từ 12 tháng trở lên do tổ chức đảng nào xem xét, kết nạp?
+Tổ chức đảng đơn vị cử đi học, đi công tác biệt phái có trách nhiệm gì?
+Tổ chức đảng ở địa phương nơi người vào Đảng cư trú có trách nhiệm gì?
+Văn bản nhận xét của tổ chức đảng đơn vị cử đi học, đi công tác biệt phái và tổ chức đảng ở địa phương nơi người vào Đảng cư trú gửi về cấp ủy cơ sở đào tạo hoặc cấp ủy nơi người vào Đảng công tác biệt phái có nội dung gì?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được xét kết nạp vào Đảng khi nào?
+Người đang công tác biệt phái từ 12 tháng trở lên được xét kết nạp vào Đảng khi nào?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên không được xét kết nạp vào Đảng khi nào?
+Người đang công tác biệt phái từ 12 tháng trở lên không được xét kết nạp vào Đảng khi nào?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được xét kết nạp vào Đảng như thế nào?
+Người đang công tác biệt phái từ 12 tháng trở lên được xét kết nạp vào Đảng như thế nào?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên không được xét kết nạp vào Đảng như thế nào?
+Người đang công tác biệt phái từ 12 tháng trở lên không được xét kết nạp vào Đảng như thế nào?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được kết nạp vào Đảng ở đâu?
+Người đang công tác biệt phái từ 12 tháng trở lên được kết nạp vào Đảng ở đâu?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên không được kết nạp vào Đảng ở đâu?
+Người đang công tác biệt phái từ 12 tháng trở lên không được kết nạp vào Đảng ở đâu?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được kết nạp vào Đảng trong thời hạn bao nhiêu ngày?
+Người đang công tác biệt phái từ 12 tháng trở lên được kết nạp vào Đảng trong thời hạn bao nhiêu ngày?
+Người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên không được kết nạp vào Đảng trong thời hạn bao nhiêu ngày?
+Người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên có thể được kết nạp vào Đảng theo quy định nào?
+Điều kiện gì cần được đáp ứng để người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên có thể kết nạp vào Đảng?
+Ai có thẩm quyền xem xét kết nạp đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên?
+Người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên cần đáp ứng những yêu cầu gì để kết nạp vào Đảng?
+Quy định nào áp dụng cho việc kết nạp đảng viên đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên?
+Người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên muốn kết nạp vào Đảng cần thỏa mãn những điều kiện gì?
+Ai là người quyết định việc kết nạp đảng viên đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên?
+Người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên có thể kết nạp vào Đảng hay không?
+Người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên muốn kết nạp vào Đảng phải thỏa mãn điều kiện gì?
+Quy định về kết nạp đảng viên đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên được áp dụng như thế nào?
+Khi đang học tập tại cơ sở đào tạo từ 12 tháng trở lên và muốn kết nạp vào Đảng, người đó cần phải thỏa mãn yêu cầu gì?
+Quyết định kết nạp vào Đảng đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên phải được ai đồng ý trước?
+Để được xem xét kết nạp vào Đảng, người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên cần có văn bản nhận xét từ đơn vị nào?
+Khi muốn kết nạp vào Đảng và đang học tập tại cơ sở đào tạo từ 12 tháng trở lên, người đó cần thỏa mãn điều kiện gì?
+Ai có thẩm quyền xem xét kết nạp đảng viên đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên?
 
 #### Câu trả lời 23
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
@@ -784,6 +898,8 @@ Tổ chức đảng đơn vị cử đi học, đi công tác biệt phái và t
 
 question | 
 --- |
+Kết nạp đảng viên đối với người đã tốt nghiệp ra trường về địa phương chờ việc làm được quy định như thế nào?
+
 
 #### Câu trả lời 24
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: Việc kết nạp đảng viên đối với người đã tốt nghiệp ra trường về địa phương chờ việc làm thì tổ chức đảng ở địa phương xem xét kết nạp.
@@ -792,6 +908,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: Việc k�
 
 question | 
 --- |
+Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được quy định như thế nào?
+
 
 #### Câu trả lời 25
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
@@ -802,6 +920,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 question | 
 --- |
+Các bước trong một buổi sinh hoạt chi bộ thường kỳ?
+Buổi sinh hoạt chi bộ thường kỳ cần làm những bước gì?
 
 #### Câu trả lời 26
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -823,6 +943,8 @@ Bí thư chi bộ thực hiện các nội dung chủ yếu sau:
 
 question |
 --- |
+Các bước trong một buổi sinh hoạt chi bộ theo chuyên đề?
+Buổi sinh hoạt chi bộ theo chuyên đề cần làm những bước gì?
 
 #### Câu trả lời 27
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -844,6 +966,8 @@ Bí thư chi bộ đánh giá việc chuẩn bị, chất lượng của chuyên
 
 question | 
 --- |
+Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
+Buổi sinh hoạt chi bộ thường kỳ đạt chất lượng là như thế nào?
 
 #### Câu trả lời 28
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
