@@ -596,6 +596,12 @@ question |
 --- |
 Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì?
 Đối với người vào Đảng thì cần thẩm tra, xác minh những nội dung gì?
+Theo quy định, Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì?
+Thẩm tra, xác minh đối với người vào Đảng liên quan đến những nội dung gì?
+Thẩm tra, xác minh đối với người vào Đảng?
+Nội dung thẩm tra, xác minh đối với người vào đảng?
+Người vào Đảng cần thẩm tra, xác minh những nội dung gì?
+Thẩm tra, xác minh đối với người vào Đảng liên quan đến nội dung gì?
 Nội dung cụ thể nào cần thẩm tra và xác minh đối với người vào Đảng?
 Theo quy định, việc thẩm tra và xác minh đối với người vào Đảng liên quan đến những nội dung gì?
 Để đảm bảo việc vào Đảng, cần phải thẩm tra và xác minh những thông tin gì đối với người đó?
@@ -625,7 +631,41 @@ Khi thẩm tra và xác minh đối với người muốn gia nhập Đảng, c�
 
 question | 
 --- |
-
+Thủ tục xem xét kết nạp đảng viên gồm những nội dung gì?
+Người kết nạp lại đảng cần xem xét thủ tục gì?
+Quy định về thủ tục xem xét kết nạp đảng viên?
+Thủ tục xem xét kết nạp đảng viên bao gồm những nội dung cụ thể nào?
+Người muốn gia nhập Đảng cần thực hiện thủ tục gì theo quy định?
+Quy định nào liên quan đến thủ tục xem xét kết nạp đảng viên của người mong muốn gia nhập Đảng?
+Khi xem xét kết nạp đảng viên, cần chuẩn bị những tài liệu gì?
+Việc xem xét kết nạp đảng viên đối với người mong muốn gia nhập Đảng yêu cầu làm rõ những nội dung gì?
+Theo quy định, thủ tục xem xét kết nạp đảng viên liên quan đến việc bồi dưỡng nhận thức về Đảng. Điều này nghĩa là gì?
+Quy trình xem xét kết nạp đảng viên bắt đầu bằng thủ tục gì?
+Việc thẩm tra lý lịch của người mong muốn vào Đảng có liên quan đến thủ tục xem xét kết nạp đảng viên không?
+Nội dung nghị quyết của chi bộ và cấp ủy cơ sở trong thủ tục xem xét kết nạp đảng viên là gì?
+Để thực hiện thủ tục xem xét kết nạp đảng viên, cần phải có quyết định từ cấp ủy nào?
+Quy định về thủ tục xem xét kết nạp đảng viên đưa ra yêu cầu gì đối với tổ chức chính trị - xã hội nơi người mong muốn vào Đảng sinh hoạt?
+Khi xem xét kết nạp đảng viên, quy định về việc tổ chức lễ kết nạp đảng viên có được đề cập không?
+Nếu người đảng viên thay đổi đơn vị công tác hoặc nơi cư trú, thủ tục xem xét kết nạp đảng viên yêu cầu điều gì?
+Trong thủ tục xem xét kết nạp đảng viên, việc phân công đảng viên theo dõi, giúp đỡ đảng viên dự bị có ý nghĩa gì?
+Khi tham gia thủ tục xem xét kết nạp đảng viên, người đăng ký cần chuẩn bị những giấy tờ gì?
+Thủ tục xem xét kết nạp đảng viên đối với người có thay đổi đơn vị công tác yêu cầu làm rõ điều gì?
+Nội dung thủ tục xem xét kết nạp đảng viên liên quan đến việc lấy ý kiến nhận xét từ cấp ủy nơi người vào Đảng cư trú. Điều này có ý nghĩa gì?
+Theo quy định, người vào Đảng cần chuẩn bị những tài liệu gì để thực hiện thủ tục xem xét kết nạp đảng viên?
+Khi thực hiện thủ tục xem xét kết nạp đảng viên, việc lấy ý kiến nhận xét của tổ chức chính trị - xã hội nơi người vào Đảng sinh hoạt có ý nghĩa gì?
+Thủ tục xem xét kết nạp đảng viên có yêu cầu việc lập đơn xin vào Đảng không?
+Theo quy định của Đảng, người vào Đảng cần đáp ứng những điều kiện gì?
+Người vào Đảng cần được bồi dưỡng những nội dung gì?
+Đơn xin vào Đảng cần có những nội dung gì?
+Nghị quyết của chi bộ và cấp ủy cơ sở xét kết nạp người vào Đảng ra nghị quyết như thế nào?
+Quyết định của cấp ủy có thẩm quyền kết nạp đảng viên ra quyết định như thế nào?
+Lễ kết nạp đảng viên được tổ chức như thế nào?
+Việc xem xét, kết nạp đảng viên đối với người vào Đảng khi thay đổi đơn vị công tác hoặc nơi cư trú được thực hiện như thế nào?
+Quy trình xem xét kết nạp đảng viên gồm mấy bước?
+Bước đầu tiên trong quy trình xem xét kết nạp đảng viên là gì?
+Quy định về thủ tục xem xét kết nạp đảng viên được ban hành bởi cơ quan nào?
+Để được xem xét kết nạp Đảng, người vào Đảng phải đáp ứng những điều kiện nào?
+Trong thủ tục xem xét kết nạp Đảng, nội dung nào là quan trọng nhất?
 #### Câu trả lời 19
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, thủ tục xem xét kết nạp đảng viên (kể cả kết nạp lại) gồm những nội dung sau:
 - Bồi dưỡng nhận thức về Đảng.  
@@ -644,6 +684,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 question | 
 --- |
+Việc tổ chức lễ kết nạp đảng viên được quy định như thế nào?
+Quy định tổ chức lễ kết nạp đảng viên?
 
 #### Câu trả lời 20
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng:
@@ -662,19 +704,23 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 question | 
 --- |
+Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những nội dung gì?
+Kết nạp đảng viên hồ sơ cần chuẩn bị những gì?
 
 #### Câu trả lời 21
-Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng:
-- Lễ kết nạp Đảng viên phải tổ chức trang nghiêm; tiến hành kết nạp từng người một (nếu kết nạp từ hai người trở lên trong cùng một buổi lễ).  
-- Trang trí lễ kết nạp (nhìn từ dưới lên): Trên cùng là khẩu hiệu “Đảng Cộng sản Việt Nam quang vinh muôn năm”; cờ Đảng, cờ Tổ quốc; tượng hoặc ảnh Chủ tịch Hồ Chí Minh (bên trái); ảnh Mác – Lê nin (bên phải); tiêu đề “Lễ kết nạp đảng viên”.   
-- Chương trình buổi lễ kết nạp:
-+ Chào cờ (hát Quốc ca, Quốc tế ca). 
-+ Tuyên bố lý do; giới thiệu đại biểu.  
-+ Bí thư chi bộ hoặc đại diện chi ủy đọc quyết định kết nạp đảng viên của cấp ủy có thẩm quyền.  
-+ Đảng viên mới đọc lời tuyên thệ.  
-+ Đại diện chi ủy nêu rõ nhiệm vụ, quyền hạn của đảng viên, nhiệm vụ của chi bộ và phân công đảng viên chính thức giúp đỡ đảng viên dự bị.  
-+ Đại diện cấp ủy cấp trên phát biểu ý kiến (nếu có).  
-+ Bế mạc (hát Quốc ca, Quốc tế ca) .
+Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, hồ sơ đảng viên khi được kết nạp vào Đảng gồm:
+- Giấy chứng nhận học lớp bồi dưỡng nhận thức về Đảng.  
+- Đơn xin vào Đảng, Lý lịch của người vào Đảng và các văn bản thẩm tra kèm theo.  
+- Giấy giới thiệu của đảng viên chính thức được phân công giúp đỡ.  
+- Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng của Đoàn Thanh niên Cộng sản Hồ Chí Minh hoặc của công đoàn cơ sở.  
+- Tổng hợp ý kiến nhận xét của tổ chức chính trị - xã hội nơi làm việc và chi ủy (hoặc chi bộ) nơi cư trú đối với người vào Đảng.  
+- Nghị quyết xét, đề nghị kết nạp đảng viên của chi bộ.  
+- Báo cáo thẩm định của đảng ủy bộ phận (nếu có).  
+- Nghị quyết xét, đề nghị kết nạp đảng viên của đảng ủy cơ sở.  
+- Quyết định kết nạp đảng viên của cấp ủy có thẩm quyền.  
+- Lý lịch đảng viên, Phiếu đảng viên.  
+
+
 
 ### Topic 22: Chỉ xem xét kết nạp vào Đảng những người trên 60 tuổi khi đủ các điều kiện nào?
 
