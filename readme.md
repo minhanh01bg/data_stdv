@@ -297,7 +297,21 @@ question |
 --- |
 Giải quyết khiếu nại về xóa tên đảng viên được quy định như thế nào?
 Quy định giải quyết khiếu nại về việc xóa tên đảng viên?
-
+Khi nào đảng viên có thể khiếu nại về việc xóa tên?
+Thời hạn để đảng viên khiếu nại sau khi nhận quyết định xóa tên là bao lâu?
+Ai là người tiếp nhận khiếu nại của đảng viên?
+Cơ quan nào có trách nhiệm nghiên cứu và giúp cấp ủy giải quyết khiếu nại của đảng viên?
+Có những trường hợp nào không được giải quyết khiếu nại?
+Khiếu nại của đảng viên được giải quyết bởi cấp ủy cấp trên đến cấp nào?
+Ngoài việc nghiên cứu và giúp cấp ủy giải quyết khiếu nại, cơ quan tổ chức cấp ủy còn có trách nhiệm gì khác?
+Khiếu nại về xóa tên có thể được khiếu nại nhiều lần không?
+Quyết định xóa tên của cấp ủy có thể bị đảng viên khiếu nại ở cấp nào?
+Điều gì xảy ra nếu cá nhân hoặc tập thể khác khiếu nại thay cho đảng viên bị xóa tên?
+Điều gì xảy ra nếu khiếu nại được nộp khi chưa có quyết định xóa tên?
+Quy định giải quyết khiếu nại về xóa tên đối với đảng viên ở ngoài nước như thế nào?
+Khiếu nại về xóa tên có thể được nộp trực tiếp cho Ban Bí thư Trung ương Đảng không?
+Nếu đảng viên có khiếu nại về xóa tên nhưng đã bị xóa tên quá thời hạn, cơ quan nào sẽ giải quyết?
+Khiếu nại về xóa tên đảng viên có liên quan đến việc ở ngoài nước được giải quyết như thế nào?
 #### Câu trả lời 10
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Trong thời hạn 30 ngày làm việc kể từ ngày nhận được quyết định xóa tên, đảng viên có quyền khiếu nại với cấp ủy cấp trên cho đến Ban Bí thư Trung ương Đảng.
