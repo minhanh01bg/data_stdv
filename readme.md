@@ -245,6 +245,30 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+Việc xóa tên đảng viên được quy định như thế nào?
+Quy định về việc xóa tên đảng viên?
+Quy định về việc xóa tên đảng viên được thực hiện như thế nào theo Quy định của Đảng?
+Ai có thẩm quyền quyết định xóa tên đảng viên theo quy định của Đảng?
+Chi bộ có trách nhiệm gì trong việc xem xét việc xóa tên đảng viên?
+Trường hợp nào đảng viên có thể bị xóa tên trong danh sách đảng viên theo quy định của Đảng?
+Đảng viên bỏ sinh hoạt đảng hoặc không đóng đảng phí ba tháng trong năm mà không có lý do chính đáng có thể bị xóa tên không?
+Đảng viên tự ý trả thẻ đảng viên hoặc tự hủy thẻ đảng viên có thể bị xóa tên không?
+Khi nào đảng viên có thể bị xóa tên trong danh sách đảng viên nếu không đóng đảng phí?
+Đảng viên giảm sút ý chí phấn đấu và không làm nhiệm vụ đảng viên có thể bị xóa tên không?
+Đảng viên đã được chi bộ giáo dục nhưng sau thời gian bao lâu phấn đấu không tiến bộ có thể bị xóa tên?
+Đảng viên vi phạm tư cách đảng viên trong bao lâu có thể bị xóa tên?
+Đảng viên vi phạm tư cách đảng viên bao nhiêu lần liền có thể bị xóa tên?
+Đảng viên không bảo đảm tiêu chuẩn chính trị theo quy định của Bộ Chính trị có thể bị xóa tên không?
+Khi xóa tên đảng viên, cần thực hiện các thủ tục gì?
+Quy định nào yêu cầu chi bộ giáo dục đảng viên trước khi xóa tên?
+Cấp ủy cấp trên có thẩm quyền xem xét, thẩm định việc xóa tên đảng viên không?
+Đảng viên bị xóa tên khỏi danh sách đảng viên?
+đảng viên bị xóa tên đảng viên?
+Trong trường hợp xóa tên đảng viên, ai được thông báo trước về quyết định này?
+Cấp ủy cấp trên có quyền yêu cầu chi bộ xóa tên đảng viên không đáp ứng đủ tiêu chuẩn?
+Điều kiện để xóa tên đảng viên?
+Đảng viên bị xóa tên đảng viên khi nào?
+Đảng viên bị xóa tên theo quy định nào?
 
 #### Câu trả lời 9
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
@@ -487,20 +511,40 @@ Bí thư chi bộ thực hiện các nội dung chủ yếu sau:
 - Tổng hợp các ý kiến phát biểu tại buổi sinh hoạt; những ý kiến tiếp thu để bổ sung, hoàn thiện nội dung sinh hoạt chi bộ; phân công nhiệm vụ cho đảng viên và quy định thời gian hoàn thành.  
 - Định hướng tư tưởng đối với đảng viên; giải quyết hoặc phản ánh với cấp có thẩm quyền về tâm tư, nguyện vọng, những đề xuất, kiến nghị của đảng viên.  
 - Thông qua nghị quyết hoặc kết luận; đánh giá chất lượng buổi sinh hoạt; thư ký trình bày biên bản sinh hoạt chi bộ.
+### Topic 27: Các bước trong một buổi sinh hoạt chi bộ theo chuyên đề?
 
-### Topic 27: Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
-
-question | 
+question |
 --- |
 
 #### Câu trả lời 27
+Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
+a) Mở đầu   
+- Tuyên bố lý do, giới thiệu đại biểu (nếu có).
+- Cử thư ký ghi biên bản sinh hoạt chi bộ.
+- Thông báo tình hình đảng viên: Số đảng viên có mặt, vắng mặt (có lý do, không có lý do).
+- Thông qua nội dung, chương trình sinh hoạt chi bộ.
+b) Tiến hành sinh hoạt
+- Bí thư chi bộ nêu mục đích, yêu cầu buổi sinh hoạt chuyên đề.  
+- Đảng viên được phân công chuẩn bị, trình bày dự thảo chuyên đề.  
+- Các đảng viên phát biểu, nêu nhận thức của cá nhân đối với chuyên đề và tác dụng của chuyên đề đối với bản thân; liên hệ với chi bộ, cơ quan, đơn vị, địa phương; trao đổi, đóng góp ý kiến để hoàn thiện dự thảo chuyên đề.   
+- Đảng viên được phân công chuẩn bị chuyên đề tiếp thu ý kiến tham gia để hoàn thiện. Chuyên đề sau khi hoàn thiện phải gửi đảng viên trong chi bộ (chi bộ đông đảng viên có thể gửi tới tổ đảng) để nghiên cứu, học tập và báo cáo cấp ủy cấp trên trực tiếp.   
+c) Kết thúc
+Bí thư chi bộ đánh giá việc chuẩn bị, chất lượng của chuyên đề; ý nghĩa, tác dụng của chuyên đề đối với chi bộ, đảng viên. Kết luận các nội dung cần tiếp thu để bổ sung, hoàn thiện dự thảo chuyên đề.   
 
-### Topic 28: Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
+
+### Topic 28: Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
 
 question | 
 --- |
 
 #### Câu trả lời 28
+
+### Topic 29: Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
+
+question | 
+--- |
+
+#### Câu trả lời 29
 
 ### Topic 30: Tiêu chí đánh giá tổ chức sinh hoạt chi bộ?
 
