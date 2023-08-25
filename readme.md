@@ -312,6 +312,18 @@ question |
 --- |
 Nhiệm vụ của cấp ủy triệu tập đại hội được quy định như thế nào?
 Quy định nhiệm vụ cấp ủy triệu tập đại hội.
+Nhiệm vụ của cấp ủy triệu tập đại hội?
+Nhiệm vụ chính của cấp ủy khi triệu tập đại hội là gì?
+Cấp ủy phải chuẩn bị những gì cho đại hội đảng viên?
+Trong quá trình triệu tập đại hội, cấp ủy có trách nhiệm gì liên quan đến vấn đề nhân sự đại biểu?
+Đảng viên không phải là đại biểu chính thức của đại hội có thể ứng cử vào cấp ủy không?
+Thời gian khai mạc đại hội được quyết định bởi cấp ủy khi nào và phải tuân thủ quy định gì?
+Cấp ủy có nhiệm vụ gì sau khi bầu được cấp ủy mới trong đại hội?
+Nhiệm vụ chính của ban thẩm tra tư cách đại biểu là gì và tại sao cấp ủy cần cung cấp tài liệu cho ban này?
+Đoàn chủ tịch đại hội được hướng dẫn trả lời các vấn đề của đại biểu bằng tài liệu từ đâu?
+Cấp ủy có thể thay đổi thời gian khai mạc đại hội mà không thông báo trước được không?
+Điều gì xảy ra nếu cấp ủy không thực hiện đúng nhiệm vụ trong việc triệu tập đại hội?
+Cấp ủy cần làm gì sau khi đã phát thảo các báo cáo và đề án nhân sự cho đại hội?
 
 #### Câu trả lời 11
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
