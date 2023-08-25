@@ -686,6 +686,45 @@ question |
 --- |
 Việc tổ chức lễ kết nạp đảng viên được quy định như thế nào?
 Quy định tổ chức lễ kết nạp đảng viên?
+Lễ kết nạp đảng viên phải được tổ chức như thế nào?
+Lễ kết nạp đảng viên phải có những nội dung gì?
+Lễ kết nạp đảng viên phải có những thủ tục gì?
+Lễ kết nạp đảng viên phải tổ chức ở đâu?
+Lễ kết nạp đảng viên phải tổ chức khi nào?
+Lễ kết nạp đảng viên phải tổ chức bao lâu?
+Lễ kết nạp đảng viên phải có những người nào tham dự?
+Lễ kết nạp đảng viên có những nội dung gì cần chuẩn bị?
+Lễ kết nạp đảng viên có những thủ tục gì cần thực hiện?
+Lễ kết nạp đảng viên phải được tổ chức như thế nào để đảm bảo tính trang nghiêm?
+Lễ kết nạp đảng viên phải có những nội dung gì để đảm bảo tính chính xác, chặt chẽ?
+Lễ kết nạp đảng viên phải có những thủ tục gì để đảm bảo tính minh bạch, dân chủ?
+Lễ kết nạp đảng viên phải được tổ chức ở đâu để đảm bảo tính thuận tiện, tiết kiệm?
+Lễ kết nạp đảng viên phải được tổ chức khi nào để đảm bảo tính phù hợp, đúng thời điểm?
+Lễ kết nạp đảng viên phải tổ chức bao lâu để đảm bảo tính hiệu quả?
+Lễ kết nạp đảng viên có những người nào tham dự để đảm bảo tính chính thức, trang trọng?
+Lễ kết nạp đảng viên có những nội dung gì cần chuẩn bị để đảm bảo tính chu đáo, đầy đủ?
+Lễ kết nạp đảng viên có những thủ tục gì cần thực hiện để đảm bảo tính khoa học, chặt chẽ?
+Lễ kết nạp đảng viên phải được tổ chức như thế nào để đảm bảo tính trang nghiêm, trang trọng?
+Lễ kết nạp đảng viên phải có những nội dung gì để đảm bảo tính chính xác, chặt chẽ, minh bạch, dân chủ, thuận tiện, tiết kiệm, phù hợp, đúng thời điểm, hiệu quả, chính thức, chu đáo, đầy đủ, khoa học, chặt chẽ?
+Quy định về việc tổ chức lễ kết nạp đảng viên yêu cầu tuân thủ những điều gì?
+Lễ kết nạp đảng viên phải diễn ra trong trạng thái trang nghiêm hay không?
+Trang trí buổi lễ kết nạp đảng viên yêu cầu sắp xếp các yếu tố nào?
+Trong buổi lễ kết nạp đảng viên, những yếu tố trang trí cần xuất hiện như thế nào?
+Nội dung chương trình buổi lễ kết nạp đảng viên bao gồm những phần nào?
+Quy định về việc chào cờ trong buổi lễ kết nạp đảng viên được thực hiện như thế nào?
+Trong buổi lễ kết nạp đảng viên, người đại diện của chi bộ có nhiệm vụ gì?
+Quy định về việc đọc quyết định kết nạp đảng viên của cấp ủy có thẩm quyền được thực hiện ra sao?
+Trong buổi lễ kết nạp đảng viên, đảng viên mới cần thực hiện việc gì?
+Đại diện của chi ủy cần nêu rõ những nhiệm vụ và quyền hạn nào đối với đảng viên mới trong buổi lễ kết nạp đảng viên?
+Trong buổi lễ kết nạp đảng viên, có nhiệm vụ nào do đại diện cấp ủy cấp trên thực hiện không?
+Quy định về việc bế mạc trong buổi lễ kết nạp đảng viên được thực hiện ra sao?
+Trong lễ kết nạp đảng viên, khẩu hiệu "Đảng Cộng sản Việt Nam quang vinh muôn năm" được đặt ở vị trí nào?
+Việc trang trí lễ kết nạp đảng viên đưa ra yêu cầu gì đối với tượng hoặc ảnh Chủ tịch Hồ Chí Minh?
+Quy định về việc đọc quyết định kết nạp đảng viên của cấp ủy có thẩm quyền trong buổi lễ kết nạp đảng viên có ý nghĩa gì?
+Trong buổi lễ kết nạp đảng viên, vai trò của đại diện chi ủy như thế nào?
+Nếu buổi lễ kết nạp đảng viên diễn ra với một người tham gia, quy định gì cần tuân thủ?
+Trong buổi lễ kết nạp đảng viên, nếu có đại diện cấp ủy cấp trên tham gia, vai trò của họ là gì?
+Quy định về việc thực hiện buổi lễ kết nạp đảng viên được điều chỉnh như thế nào khi có nhiều người tham gia trong cùng một buổi lễ?
 
 #### Câu trả lời 20
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng:
@@ -698,7 +737,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 + Đảng viên mới đọc lời tuyên thệ.  
 + Đại diện chi ủy nêu rõ nhiệm vụ, quyền hạn của đảng viên, nhiệm vụ của chi bộ và phân công đảng viên chính thức giúp đỡ đảng viên dự bị.  
 + Đại diện cấp ủy cấp trên phát biểu ý kiến (nếu có).  
-+ Bế mạc (hát Quốc ca, Quốc tế ca) .
++ Bế mạc (hát Quốc ca, Quốc tế ca).
 
 ### Topic 21: Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những nội dung gì?
 
