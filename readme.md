@@ -525,7 +525,8 @@ Theo quy dịnh, Lý lịch của người vào Đảng phải bảo đảm nh�
 Điều kiện đảm bảo lý lịch của người vào Đảng?
 Lý lịch của người vào Đảng?
 Người vào đảng cần khai báo lý lịch như thế nào?
-Lý lịch của nguời vào Đảng cần những gì?
+Những yêu cầu gì được quy định về lý lịch của những người vào Đảng
+Lý lịch của người vào Đảng cần những gì?
 Theo quy định, người vào đảng cần khai báo lý lịch như thế nào?
 Yêu cầu nào phải được đảm bảo trong lý lịch của người muốn vào Đảng?
 Theo quy định, người vào Đảng phải thực hiện việc gì liên quan đến lý lịch?
@@ -555,9 +556,35 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư  hướng 
 
 
 ### Topic 17: Những người cần thẩm tra về lý lịch người vào Đảng gồm?
-
+# Trùng từ khóa lý lịch với câu 16
 question | 
 --- |
+Những người cần thẩm tra về lý lịch người vào Đảng gồm?
+Lý lịch người vào Đảng cần thẩm tra những ai?
+Thẩm tra lý lịch của người vào Đảng?
+Người vào Đảng được thẩm tra lý lịch như thế nào?
+Theo quy định, Người vào Đảng được thẩm tra lý lịch như thế nào?
+Theo quy định, Thẩm tra lý lịch của người vào Đảng? 
+Ai là những người cần thực hiện việc thẩm tra về lý lịch của người muốn vào Đảng?
+Theo quy định, người vào Đảng cần thẩm tra lý lịch của những ai?
+Cụ thể, người nào cần phải thực hiện việc thẩm tra lý lịch của người vào Đảng?
+Quy định nào đề cập đến việc ai phải thực hiện thẩm tra về lý lịch của người vào Đảng?
+Điều gì được nêu rõ về việc thẩm tra lý lịch của người muốn gia nhập Đảng?
+Trong trường hợp thẩm tra lý lịch, người vào Đảng cần đề cập đến những người nào?
+Ai được coi là "người thân" khi thẩm tra lý lịch của người vào Đảng?
+Lý lịch của người vào Đảng cần được thẩm tra bởi người nào liên quan đến người thân?
+Quy định nào nêu rõ về việc người vào Đảng cần thẩm tra lý lịch của người thân?
+Để xác định lý lịch của người vào Đảng, cần tiến hành thẩm tra lý lịch của ai?
+Quy trình thẩm tra lý lịch của người vào Đảng liên quan đến việc nào?
+Trong trường hợp thẩm tra lý lịch, có những người nào được xem xét?
+Người vào Đảng cần thực hiện thẩm tra lý lịch của những ai?
+Khi thẩm tra lý lịch, việc xác định người thân liên quan đến việc gì?
+Người vào Đảng cần xác minh lý lịch của người thân nào?
+Quy định nào yêu cầu người vào Đảng thẩm tra lý lịch của người thân?
+Ai là người chịu trách nhiệm thẩm tra lý lịch của người vào Đảng?
+Việc thẩm tra lý lịch của người vào Đảng liên quan đến việc gì?
+Người vào Đảng cần có thông tin đối với những người nào khi thẩm tra lý lịch?
+Điều gì được nêu rõ về người thân trong việc thẩm tra lý lịch của người vào Đảng?
 #### Câu trả lời 17
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
 Người vào Đảng. Cha, mẹ đẻ, cha, mẹ vợ (chồng) hoặc người trực tiếp nuôi dưỡng bản thân; vợ hoặc chồng, con đẻ của người vào Đảng có năng lực hành vi dân sự đầy đủ (gọi chung là người thân).
@@ -567,6 +594,28 @@ Người vào Đảng. Cha, mẹ đẻ, cha, mẹ vợ (chồng) hoặc người
 
 question | 
 --- |
+Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì?
+Đối với người vào Đảng thì cần thẩm tra, xác minh những nội dung gì?
+Nội dung cụ thể nào cần thẩm tra và xác minh đối với người vào Đảng?
+Theo quy định, việc thẩm tra và xác minh đối với người vào Đảng liên quan đến những nội dung gì?
+Để đảm bảo việc vào Đảng, cần phải thẩm tra và xác minh những thông tin gì đối với người đó?
+Khi thẩm tra và xác minh đối với người vào Đảng, cần tìm hiểu về những khía cạnh nào?
+Quy trình thẩm tra và xác minh đối với người vào Đảng đòi hỏi làm rõ những thông tin gì?
+Nội dung thẩm tra và xác minh đối với người vào Đảng liên quan đến các khía cạnh nào?
+Quy định nào quy định về việc thẩm tra và xác minh đối với người muốn gia nhập Đảng?
+Để đảm bảo chất lượng Đảng viên, việc thẩm tra và xác minh đối với người vào Đảng phải tập trung vào những gì?
+Trong việc thẩm tra và xác minh đối với người vào Đảng, cần làm rõ về những mặt nào?
+Việc thẩm tra và xác minh đối với người vào Đảng liên quan đến việc nắm thông tin về điều gì?
+Khi thẩm tra và xác minh đối với người vào Đảng, cần làm rõ về lịch sử chính trị của người đó trong lĩnh vực nào?
+Quy định nào nêu rõ về nội dung thẩm tra và xác minh đối với người vào Đảng?
+Để đảm bảo người vào Đảng thỏa mãn yêu cầu, việc thẩm tra và xác minh cần tập trung vào các khía cạnh nào?
+Khi thẩm tra và xác minh đối với người muốn gia nhập Đảng, cần xem xét về những gì?
+Nội dung thẩm tra và xác minh đối với người vào Đảng bao gồm các khía cạnh nào?
+Quy định nào quy định về việc thẩm tra và xác minh đối với người vào Đảng?
+Khi thẩm tra và xác minh đối với người vào Đảng, cần xem xét về việc chấp hành những gì?
+Nội dung thẩm tra và xác minh đối với người vào Đảng liên quan đến các khía cạnh gì?
+Việc thẩm tra và xác minh đối với người vào Đảng yêu cầu làm rõ về những điểm nào?
+Khi thẩm tra và xác minh đối với người muốn gia nhập Đảng, cần làm rõ về nội dung gì?
 
 #### Câu trả lời 18
 - Đối với người vào Đảng: Làm rõ những vấn đề về lịch sử chính trị và chính trị hiện nay; về chấp hành đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước; về phẩm chất chính trị, đạo đức, lối sống. 
