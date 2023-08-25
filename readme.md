@@ -248,7 +248,7 @@ Trong thời gian được miễn công tác và sinh hoạt, đảng viên có 
 Đảng viên được miễn công tác và sinh hoạt có quyền yêu cầu được cung cấp thông tin không?
 Đảng viên được miễn công tác và sinh hoạt có trách nhiệm tham gia vào việc xây dựng Đảng như thế nào?
  
-=-#### Câu trả lời 8
+#### Câu trả lời 8
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Được dự đại hội đảng viên; được cung cấp thông tin theo quy định nếu đảng viên đó có yêu cầu.
 -  Được xét tặng Huy hiệu Đảng khi có đủ tiêu chuẩn.
