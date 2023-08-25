@@ -232,8 +232,23 @@ question |
 --- |
 Quyền hạn và trách nhiệm của đảng viên được miễn công tác và sinh hoạt đảng?
 Đảng viên được miễn công tác và sinh hoạt có trách nhiệm gì?
-
-#### Câu trả lời 8
+Đảng viên được miễn công tác và sinh hoạt đảng có quyền làm gì?
+Khi được miễn công tác và sinh hoạt đảng, đảng viên có quyền tham gia vào hoạt động gì?
+Đảng viên được miễn công tác và sinh hoạt có quyền dự đại hội đảng viên không?
+Đảng viên được miễn công tác và sinh hoạt có quyền được xét tặng Huy hiệu Đảng không?
+Đảng viên được miễn công tác và sinh hoạt có trách nhiệm gì đối với việc làm gương mẫu?
+Gia đình của đảng viên được miễn công tác và sinh hoạt có trách nhiệm gì đối với việc chấp hành chủ trương, chính sách của Đảng và pháp luật của Nhà nước?
+Đảng viên được miễn công tác và sinh hoạt có thể dự các sự kiện đảng không?
+Trách nhiệm chính của đảng viên được miễn công tác và sinh hoạt là gì?
+Trong thời gian được miễn công tác và sinh hoạt, đảng viên có quyền được đánh giá chất lượng đảng viên không?
+Đảng viên được miễn công tác và sinh hoạt có trách nhiệm thực hiện nghĩa vụ gì đối với Đảng?
+Đảng viên được miễn công tác và sinh hoạt phải tuân thủ các quy định của Đảng trong việc nào?
+Đảng viên được miễn công tác và sinh hoạt có trách nhiệm thực hiện các quyết định của cấp ủy cấp trên không?
+Đảng viên được miễn công tác và sinh hoạt có quyền tham gia bỏ phiếu trong các cuộc biểu quyết đảng không?
+Đảng viên được miễn công tác và sinh hoạt có quyền yêu cầu được cung cấp thông tin không?
+Đảng viên được miễn công tác và sinh hoạt có trách nhiệm tham gia vào việc xây dựng Đảng như thế nào?
+ 
+=-#### Câu trả lời 8
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Được dự đại hội đảng viên; được cung cấp thông tin theo quy định nếu đảng viên đó có yêu cầu.
 -  Được xét tặng Huy hiệu Đảng khi có đủ tiêu chuẩn.
@@ -280,6 +295,9 @@ Chi bộ xem xét, đề nghị cấp ủy có thẩm quyền quyết định x�
 
 question | 
 --- |
+Giải quyết khiếu nại về xóa tên đảng viên được quy định như thế nào?
+Quy định giải quyết khiếu nại về việc xóa tên đảng viên?
+
 #### Câu trả lời 10
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Trong thời hạn 30 ngày làm việc kể từ ngày nhận được quyết định xóa tên, đảng viên có quyền khiếu nại với cấp ủy cấp trên cho đến Ban Bí thư Trung ương Đảng.
@@ -292,6 +310,9 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+Nhiệm vụ của cấp ủy triệu tập đại hội được quy định như thế nào?
+Quy định nhiệm vụ cấp ủy triệu tập đại hội.
+
 #### Câu trả lời 11
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Chuẩn bị dự thảo các báo cáo, các vấn đề về nhân sự đại biểu, đề án nhân sự cấp ủy, ủy ban kiểm tra và kế hoạch tổ chức đại hội.
@@ -307,6 +328,9 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+Hình thức khen thưởng trong Đảng được quy định như thế nào?
+Quy định về các hình thức khen thưởng của Đảng
+
 #### Câu trả lời 12
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng, hình thức khen thưởng trong Đảng được quy định như sau:
 - Đối với tổ chức đảng: Biểu dương, tặng giấy khen, bằng khen, tặng cờ, tặng thưởng huân chương, huy chương và các danh hiệu vinh dự khác của Đảng và Nhà nước.
@@ -317,6 +341,9 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+Thẩm quyền khen thưởng được quy định như thế nào?
+Quy định về thẩm quyền khen thưởng?
+
 #### Câu trả lời 13
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng, thẩm quyền khen thưởng được quy định như sau:
 - Chi bộ: Biểu dương tổ đảng và đảng viên trong chi bộ.
@@ -331,6 +358,11 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+Khen thưởng đối với tổ chức đảng được quy định như thế nào?
+Đối với tổ chức đảng việc khen thưởng được quy định như thế nào?
+Có những quy định gì về việc khen thưởng đối với tổ chức đảng?
+Hướng dẫn về khen thưởng đối  với tổ chức đảng
+
 #### Câu trả lời 14
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
  a) Tổ chức đảng có thành tích được xét khen thưởng gồm: Đảng bộ huyện và tương đương; tổ chức cơ sở đảng; đảng bộ bộ phận; chi bộ trực thuộc đảng ủy cơ sở; chi bộ trực thuộc đảng ủy bộ phận; tổ đảng trực thuộc chi bộ; các cơ quan tham mưu, giúp việc và đơn vị sự nghiệp của Đảng.
@@ -538,6 +570,17 @@ question |
 --- |
 
 #### Câu trả lời 28
+Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
+- Khung tiêu chí đánh giá chất lượng sinh hoạt chi bộ, gồm:
++ Tỷ lệ đảng viên dự sinh hoạt chi bộ.  
++ Công tác chuẩn bị sinh hoạt chi bộ.  
++ Tổ chức sinh hoạt chi bộ. 
++ Thực hiện nguyên tắc tổ chức, sinh hoạt đảng.  
++ Kết quả lãnh đạo thực hiện kết luận hoặc nghị quyết của chi bộ.
+
+Đồng chí vui lòng chọn nội dung thông tin cần giải đáp dưới đây:
+Công tác chuẩn bị sinh hoạt chi bộ
+Tổ chức sinh hoạt chi bộ
 
 ### Topic 29: Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
 
@@ -545,6 +588,14 @@ question |
 --- |
 
 #### Câu trả lời 29
+Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
+- Bí thư hoặc phó bí thư chi bộ trực tiếp chuẩn bị nội dung sinh hoạt.  
+- Họp chi ủy (bí thư, phó bí thư ở những nơi không có chi ủy) trước khi sinh hoạt chi bộ.  
+- Nội dung sinh hoạt được chuẩn bị đúng, đủ theo hướng dẫn của cấp ủy cấp trên; xác định được nội dung trọng tâm cần trao đổi, thảo luận để chi bộ lãnh đạo, chỉ đạo giải quyết kịp thời, nhất là những vấn đề mới nổi lên có tính cấp bách ở địa phương, cơ quan, đơn vị. 
+- Xây dựng dự thảo nghị quyết của chi bộ.
+
+
+
 
 ### Topic 30: Tiêu chí đánh giá tổ chức sinh hoạt chi bộ?
 
@@ -552,6 +603,13 @@ question |
 --- |
 
 #### Câu trả lời 30
+Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
+- Thời điểm tổ chức sinh hoạt đúng quy định của cấp ủy có thẩm quyền. Thực hiện đầy đủ nội dung, trình tự buổi sinh hoạt chi bộ theo quy định. Phương pháp điều hành của người chủ trì linh hoạt, hiệu quả.  
+- Có biểu dương đảng viên tiêu biểu trong tháng; nhắc nhở, phê bình đảng viên chưa hoàn thành nhiệm vụ được giao, đảng viên không thực hiện đúng cam kết tu dưỡng, rèn luyện, phấn đấu hằng năm hoặc có khuyết điểm trong thực hiện chủ trương, nghị quyết, chỉ thị, quy định của Đảng và cấp ủy cấp trên nhưng chưa đến mức phải xử lý kỷ luật (nếu có).  
+- Có nhiều đảng viên tham gia phát biểu ý kiến.  
+- Thời gian sinh hoạt chi bộ: Phải bảo đảm từ 90 phút trở lên. Nếu kết hợp sinh hoạt chuyên đề với sinh hoạt chi bộ thường kỳ trong cùng một buổi thì phải bảo đảm thời gian tối thiểu 120 phút. Đối với chi bộ có quá ít đảng viên thì cấp ủy có thẩm quyền quy định cụ thể thời gian sinh hoạt.  
+- Sổ biên bản sinh hoạt chi bộ ghi chép đầy đủ diễn biến của buổi sinh hoạt và được lưu giữ, bảo quản lâu dài để làm tài liệu tham khảo, giáo dục truyền thống cho đảng viên.
+
 
 ### Topic 31: Tuổi đời của người vào Đảng được quy định như thế nào?
 
@@ -559,6 +617,10 @@ question |
 --- |
 
 #### Câu trả lời 31
+Căn cứ mục 1 Quy định sô" 24-QD/TW. ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
+
+- Tại thời điểm chi bộ xét kết nạp, người vào Đảng phải đủ 18 tuổi đến đủ 60 tuổi (tính theo tháng).
+- Việc kết nạp vào Đảng những người trên 60 tuổi do cấp uỷ trực thuộc Trung ưong xem xét, quyết định.
 
 ### Topic 32: Trình độ học vấn của người vào Đảng được quy định như thế nào?
 
@@ -566,6 +628,11 @@ question |
 --- |
 
 #### Câu trả lời 32
+Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
+- Về trình độ học vấn:
++ Người vào Đảng phải có bằng tốt nghiệp trung học cơ sở trở lên.
++ Học vấn của ngưòi vào Đảng đang sinh sống ồ miền núi, hải đảo, vùng đồng bào dân tộc thiểu sô' vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và những trưòng hợp cụ thể khác do yêu cầu phát triển đảng mà không bảo đảm được quy định chung thì thực hiện theo hướng dẫn của Ban Bí thư.
+
 
 ### Topic :  Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú như thế nào?
 # Đã có trong tập dữ liệu cũ
