@@ -33,6 +33,7 @@ Theo quy định tại Điều lệ Đảng Cộng sản Việt Nam:
 
 question | 
 --- |
+```md
 Các quyền của đảng viên?
 Đảng viên có quyền gì?
 Quy định về quyền của đảng viên?
@@ -48,8 +49,7 @@ Quyền nào cho phép đảng viên đề xuất kiến nghị và yêu cầu t
 Đảng viên dự bị có quyền gì liên quan đến việc phê bình và chất vấn tổ chức đảng tại các cấp?
 Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đảng viên, quyền gì cho phép đảng viên đề xuất ý kiến của mình?
 Đảng viên có quyền gì liên quan đến việc ứng cử và đề cử cơ quan lãnh đạo của Đảng?
-
-
+```
 #### Câu trả lời 2
 Được quy định tại Điều lệ Đảng Cộng sản Việt Nam như sau:
 1. Được thông tin và thảo luận các vấn đề về Cương lĩnh chính trị, Điều lệ Đảng, đường lối, chủ trương, chính sách của Đảng; biểu quyết công việc của Đảng.
@@ -63,6 +63,7 @@ Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đả
 
 question | 
 --- |
+```md
 Nhiệm vụ của tổ chức cơ sở đảng là gì? 
 Những nhiệm vụ của tổ chức cơ sở đảng?
 Tổ chức cơ sở đảng có nhiệm vụ gì?
@@ -79,6 +80,7 @@ Tổ chức cơ sở đảng có nhiệm vụ gì?
 Theo Điều lệ Đảng, tổ chức cơ sở đảng phải liên hệ với ai và thực hiện nhiệm vụ gì?
 Nhiệm vụ nào gắn với việc thực hiện đúng pháp luật và phát huy quyền làm chủ của nhân dân do tổ chức cơ sở đảng chịu trách nhiệm?
 Nhiệm vụ nào của tổ chức cơ sở đảng liên quan đến việc kết nạp và khai trừ đảng viên?
+```
 #### Câu trả lời 3
 Theo quy định của Điều lệ Đảng Cộng sản Việt Nam:
 1. Chấp hành đường lối chính sách của Đảng, pháp luật của Nhà nước, đề ra chủ trương, nhiệm vụ chính trị của đảng bộ, chi bộ và lãnh đạo thực hiện có hiệu quả.  
@@ -93,6 +95,7 @@ Theo quy định của Điều lệ Đảng Cộng sản Việt Nam:
 
 question | 
 --- |
+```md
 Những nội dung cơ bản của nguyên tắc tập trung dân chủ?
 Nguyên tắc tập trung dân chủ có những nội dung gì?
 Quy định về nguyên tắc tập trung dân chủ?
@@ -110,7 +113,7 @@ Bao nhiêu nội dung cơ bản được quy định trong nguyên tắc tập t
 Những nội dung cơ bản nào được quy định trong nguyên tắc tập trung dân chủ?
 Nguyên tắc tập trung dân chủ yêu cầu cơ quan lãnh đạo các cấp phải thực hiện như thế nào để đảm bảo tính dân chủ?
 Nguyên tắc tập trung dân chủ yêu cầu cơ quan lãnh đạo các cấp phải thực hiện như thế nào để đảm bảo tính dân chủ?
-
+```
 #### Câu trả lời 4
 Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định của Điều lệ Đảng Cộng sản Việt Nam đó là:
 - Cơ quan lãnh đạo các cấp của Đảng do bầu cử lập ra, thực hiện tập thể lãnh đạo, cá nhân phụ trách.  
@@ -125,6 +128,7 @@ Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định
 
 question | 
 --- |
+```md
 Nội dung phát thẻ và quản lý thẻ đảng viên được quy định như thế nào?
 Quy định về phát thẻ và quản lý thẻ đảng viên?
 Thẻ đảng viên được phát và quản lí như thế nào?
@@ -148,7 +152,7 @@ Ai có trách nhiệm hướng dẫn và kiểm tra việc phát thẻ, quản l
 Thẻ đảng viên có vai trò gì trong việc tham gia biểu quyết trong đại hội đảng các cấp?
 Quy định nào quy định về việc sử dụng thẻ đảng viên trong việc biểu quyết bằng phiếu kín?
 Nếu đảng viên mất thẻ đảng viên, người đó cần thực hiện thủ tục gì để được xem xét cấp lại hoặc đổi thẻ?
-
+```
 #### Câu trả lời 5
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Thẻ đảng viên được phát cho đảng viên chính thức, chi bộ tổ chức phát thẻ cho đảng viên trong kỳ sinh hoạt chi bộ gần nhất, sau khi có quyết định của cấp có thẩm quyền.
@@ -163,6 +167,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+```md
 Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
 Hồ sơ đảng viên được quản lý như thế nào?
 Quy định về quản lý hồ sơ đảng viên
@@ -190,6 +195,7 @@ Quản lý hồ sơ đảng viên là trách nhiệm của cấp ủy cấp trê
 Cấp ủy cơ sở nào sẽ quản lý hồ sơ đảng viên nếu cấp ủy cơ sở không có điều kiện?
 Hồ sơ đảng viên là tài liệu mật của Đảng có được chia sẻ không?
 Quy định nào yêu cầu Tổ chức đảng phải quản lý chặt chẽ hồ sơ đảng viên theo chế độ bảo mật?
+```
 #### Câu trả lời 6
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng:
 - Cấp ủy cơ sở quản lý hồ sơ đảng viên và danh sách đảng viên, cấp ủy cơ sở nào không có điều kiện quản lý và bảo quản hồ sơ đảng viên thì cấp ủy cấp trên trực tiếp quản lý, bảo quản.
@@ -204,6 +210,7 @@ Ban Tổ chức Trung ương giúp Trung ương hướng dẫn, kiểm tra việ
 
 question | 
 --- |
+```md
 Trường hợp nào đảng viên được miễn công tác và sinh hoạt đảng?
 Đảng viên được miễn công tác và sinh hoạt đảng trong trường hợp nào?
 Đảng viên được miễn công tác và sinh hoạt đảng trong những trường hợp nào?
@@ -224,6 +231,7 @@ Quy định nào quy định cấp ủy hoặc bí thư chi bộ báo cáo về 
 Đảng viên muốn xin miễn công tác và sinh hoạt đảng cần thực hiện bước nào sau khi gửi đơn xin?
 Theo Quy định của Đảng, việc miễn công tác và sinh hoạt đảng dựa vào tiêu chí gì?
 Đảng viên muốn xin giảm, miễn công tác và sinh hoạt đảng phải tuân thủ các quy định nào?
+```
 #### Câu trả lời 7
 -Đảng viên công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt, phải giữ bí mật về nhân thân; đảng viên ở các đơn vị thường trực sẵn sàng chiến đấu. - Đảng viên đang công tác ở vùng sâu, vùng xa, nơi biên giới, hải đảo do yêu cầu nhiệm vụ hằng năm không thường xuyên về nơi cư trú. - Đảng viên đang công tác tại các cơ quan ngoại giao, văn phòng đại diện, đơn vị kinh tế ở ngoài nước; đảng viên tham gia lực lượng gìn giữ hòa bình của Liên Hợp Quốc; đảng viên ra ngoài nước lao động, làm việc, học tập 12 tháng trong năm. - Đảng viên đang công tác nhưng mắc bệnh phải điều trị hoặc dưỡng bệnh 12 tháng liên tục trong năm. Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 6, Điều 2 Quy định 213
 
@@ -232,6 +240,7 @@ Theo Quy định của Đảng, việc miễn công tác và sinh hoạt đảng
 
 question | 
 --- |
+```md
 Quyền hạn và trách nhiệm của đảng viên được miễn công tác và sinh hoạt đảng?
 Đảng viên được miễn công tác và sinh hoạt có trách nhiệm gì?
 Đảng viên được miễn công tác và sinh hoạt đảng có quyền làm gì?
@@ -249,7 +258,7 @@ Trong thời gian được miễn công tác và sinh hoạt, đảng viên có 
 Đảng viên được miễn công tác và sinh hoạt có quyền tham gia bỏ phiếu trong các cuộc biểu quyết đảng không?
 Đảng viên được miễn công tác và sinh hoạt có quyền yêu cầu được cung cấp thông tin không?
 Đảng viên được miễn công tác và sinh hoạt có trách nhiệm tham gia vào việc xây dựng Đảng như thế nào?
- 
+```
 #### Câu trả lời 8
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Được dự đại hội đảng viên; được cung cấp thông tin theo quy định nếu đảng viên đó có yêu cầu.
@@ -262,6 +271,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+```md
 Việc xóa tên đảng viên được quy định như thế nào?
 Quy định về việc xóa tên đảng viên?
 Quy định về việc xóa tên đảng viên được thực hiện như thế nào theo Quy định của Đảng?
@@ -286,7 +296,7 @@ Cấp ủy cấp trên có quyền yêu cầu chi bộ xóa tên đảng viên k
 Điều kiện để xóa tên đảng viên?
 Đảng viên bị xóa tên đảng viên khi nào?
 Đảng viên bị xóa tên theo quy định nào?
-
+```
 #### Câu trả lời 9
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 Chi bộ xem xét, đề nghị cấp ủy có thẩm quyền quyết định xóa tên trong danh sách đảng viên đối với các trường hợp sau: Đảng viên bỏ sinh hoạt đảng hoặc không đóng đảng phí ba tháng trong năm mà không có lý do chính đáng; đảng viên tự ý trả thẻ đảng viên hoặc tự hủy thẻ đảng viên; đảng viên giảm sút ý chí phấn đấu, không làm nhiệm vụ đảng viên, đã được chi bộ giáo dục nhưng sau thời gian 12 tháng phấn đấu không tiến bộ; đảng viên hai năm liền vi phạm tư cách đảng viên; đảng viên không bảo đảm tiêu chuẩn chính trị theo quy định của Bộ Chính trị.
@@ -297,6 +307,7 @@ Chi bộ xem xét, đề nghị cấp ủy có thẩm quyền quyết định x�
 
 question | 
 --- |
+```md
 Giải quyết khiếu nại về xóa tên đảng viên được quy định như thế nào?
 Quy định giải quyết khiếu nại về việc xóa tên đảng viên?
 Khi nào đảng viên có thể khiếu nại về việc xóa tên?
@@ -314,6 +325,7 @@ Quy định giải quyết khiếu nại về xóa tên đối với đảng vi�
 Khiếu nại về xóa tên có thể được nộp trực tiếp cho Ban Bí thư Trung ương Đảng không?
 Nếu đảng viên có khiếu nại về xóa tên nhưng đã bị xóa tên quá thời hạn, cơ quan nào sẽ giải quyết?
 Khiếu nại về xóa tên đảng viên có liên quan đến việc ở ngoài nước được giải quyết như thế nào?
+```
 #### Câu trả lời 10
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Trong thời hạn 30 ngày làm việc kể từ ngày nhận được quyết định xóa tên, đảng viên có quyền khiếu nại với cấp ủy cấp trên cho đến Ban Bí thư Trung ương Đảng.
@@ -326,6 +338,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+```md
 Nhiệm vụ của cấp ủy triệu tập đại hội được quy định như thế nào?
 Quy định nhiệm vụ cấp ủy triệu tập đại hội.
 Nhiệm vụ của cấp ủy triệu tập đại hội?
@@ -340,7 +353,7 @@ Nhiệm vụ chính của ban thẩm tra tư cách đại biểu là gì và t�
 Cấp ủy có thể thay đổi thời gian khai mạc đại hội mà không thông báo trước được không?
 Điều gì xảy ra nếu cấp ủy không thực hiện đúng nhiệm vụ trong việc triệu tập đại hội?
 Cấp ủy cần làm gì sau khi đã phát thảo các báo cáo và đề án nhân sự cho đại hội?
-
+```
 #### Câu trả lời 11
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng:
 - Chuẩn bị dự thảo các báo cáo, các vấn đề về nhân sự đại biểu, đề án nhân sự cấp ủy, ủy ban kiểm tra và kế hoạch tổ chức đại hội.
@@ -356,6 +369,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+```md
 Hình thức khen thưởng trong Đảng được quy định như thế nào?
 Quy định về các hình thức khen thưởng của Đảng?
 Quy định về các hình thức khen thưởng của Đảng như thế nào?
@@ -383,7 +397,7 @@ Có những danh hiệu vinh dự nào khác được tặng cho đảng viên?
 Cấp ủy cấp trên có quyền thực hiện hình thức khen thưởng nào đối với đảng viên?
 Khi nào tổ chức đảng có thể được tặng cờ khen thưởng?
 Đảng viên gắn bó với Đảng trong 90 năm sẽ nhận được hình thức khen thưởng gì?
-
+```
 #### Câu trả lời 12
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng, hình thức khen thưởng trong Đảng được quy định như sau:
 - Đối với tổ chức đảng: Biểu dương, tặng giấy khen, bằng khen, tặng cờ, tặng thưởng huân chương, huy chương và các danh hiệu vinh dự khác của Đảng và Nhà nước.
@@ -394,6 +408,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+```md
 Thẩm quyền khen thưởng được quy định như thế nào?
 Quy định về thẩm quyền khen thưởng?
 Thẩm quyền khen thưởng ở cấp nào được quy định đối với tổ đảng và đảng viên trong chi bộ?
@@ -414,6 +429,7 @@ Theo Quy định số 24-QĐ/TW, Thẩm quyền khen thưởng được quy đ�
 Thẩm quyền khen thưởng được quy định như thế nào theo Quy định số 24-QĐ/TW?
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng, Thẩm quyền khen thưởng được quy định như thế nào?
 Thẩm quyền khen thưởng được quy định như thế nào theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng?
+```
 #### Câu trả lời 13
 Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng quy định thi hành Điều lệ Đảng, thẩm quyền khen thưởng được quy định như sau:
 - Chi bộ: Biểu dương tổ đảng và đảng viên trong chi bộ.
@@ -428,6 +444,7 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 question | 
 --- |
+```md
 Khen thưởng đối với tổ chức đảng được quy định như thế nào?
 Theo quy định, Khen thưởng đối với tổ chức đảng như thế nào?
 Đối với tổ chức đảng việc khen thưởng được quy định như thế nào?
@@ -454,6 +471,7 @@ Khen thưởng đảng bộ huyện và tương đương được xét kỳ hạ
 Đảng bộ huyện và tương đương có thành tích trong nhiệm kỳ sẽ nhận được khen thưởng từ cấp nào?
 Ngoài việc xét khen thưởng theo định kỳ, cấp ủy đảng cấp trên có thẩm quyền xét khen thưởng những tổ chức đảng nào?
 Khen thưởng các cơ quan tham mưu giúp việc và đơn vị sự nghiệp của Đảng?
+```
 #### Câu trả lời 14
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
  a) Tổ chức đảng có thành tích được xét khen thưởng gồm: Đảng bộ huyện và tương đương; tổ chức cơ sở đảng; đảng bộ bộ phận; chi bộ trực thuộc đảng ủy cơ sở; chi bộ trực thuộc đảng ủy bộ phận; tổ đảng trực thuộc chi bộ; các cơ quan tham mưu, giúp việc và đơn vị sự nghiệp của Đảng.
@@ -480,6 +498,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 # topic này có câu hỏi gần giống với câu 12
 question | 
 --- |
+```md
 Khen thưởng đối với đảng viên được quy định như thế nào?
 Đối với đảng viên việc khen thưởng được quy định như thế nào?
 Có những quy định gì về việc khen thưởng đối với đảng viên?
@@ -504,7 +523,7 @@ Cấp ủy đảng cấp trên xét khen thưởng cho đảng viên đạt thà
 Hướng dẫn số 01-HD/TW ngày 28/9/2021 của Ban Bí thư áp dụng cho việc khen thưởng đảng viên tại cấp nào?
 heo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư, Khen thưởng đối với đảng viên được quy định như thế nào?
 Đảng viên nào được xét, khen thưởng kịp thời cho thành tích đặc biệt xuất sắc, tiêu biểu trong từng lĩnh vực như lao động sản xuất, học tập, nghiên cứu khoa học, hoạt động văn hóa, nghệ thuật, giáo dục, thể dục, thể thao, quốc phòng, an ninh...?
-
+```
 #### Câu trả lời 15
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
  a) Khen thưởng đảng viên theo định kỳ:
@@ -521,6 +540,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 question | 
 --- |
+```md
 Lý lịch của người vào Đảng phải bảo đảm những yêu cầu gì?
 Điều kiện đảm bảo về lý lịch của người vào Đảng gồm những gì?
 Theo quy dịnh, Lý lịch của người vào Đảng phải bảo đảm những yêu cầu gì?
@@ -550,6 +570,7 @@ Ai là người chịu trách nhiệm về nội dung đã khai trong lý lịch
 Để thực hiện việc đóng dấu vào lý lịch của người vào Đảng, cần tuân thủ quy định nào?
 Cấp ủy nào có trách nhiệm thẩm tra và kết luận lý lịch của người vào Đảng?
 Lý lịch của người vào Đảng cần phải được đảm bảo những yêu cầu gì liên quan đến thẩm tra và kết luận?
+```
 #### Câu trả lời 16
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư  hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, lý lịch của người vào Đảng phải bảo đảm các yêu cầu sau:
 - Người vào Đảng tự khai lý lịch đầy đủ, rõ ràng, trung thực theo quy định, chịu trách nhiệm về nội dung đã khai; nếu có vấn đề nào không hiểu và không nhớ chính xác thì phải báo cáo với chi bộ.
@@ -561,6 +582,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư  hướng 
 # Trùng từ khóa lý lịch với câu 16
 question | 
 --- |
+```md
 Những người cần thẩm tra về lý lịch người vào Đảng gồm?
 Lý lịch người vào Đảng cần thẩm tra những ai?
 Thẩm tra lý lịch của người vào Đảng?
@@ -587,6 +609,7 @@ Ai là người chịu trách nhiệm thẩm tra lý lịch của người vào 
 Việc thẩm tra lý lịch của người vào Đảng liên quan đến việc gì?
 Người vào Đảng cần có thông tin đối với những người nào khi thẩm tra lý lịch?
 Điều gì được nêu rõ về người thân trong việc thẩm tra lý lịch của người vào Đảng?
+```
 #### Câu trả lời 17
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
 Người vào Đảng. Cha, mẹ đẻ, cha, mẹ vợ (chồng) hoặc người trực tiếp nuôi dưỡng bản thân; vợ hoặc chồng, con đẻ của người vào Đảng có năng lực hành vi dân sự đầy đủ (gọi chung là người thân).
@@ -596,6 +619,7 @@ Người vào Đảng. Cha, mẹ đẻ, cha, mẹ vợ (chồng) hoặc người
 
 question | 
 --- |
+```md
 Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì?
 Đối với người vào Đảng thì cần thẩm tra, xác minh những nội dung gì?
 Theo quy định, Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì?
@@ -624,7 +648,7 @@ Khi thẩm tra và xác minh đối với người vào Đảng, cần xem xét 
 Nội dung thẩm tra và xác minh đối với người vào Đảng liên quan đến các khía cạnh gì?
 Việc thẩm tra và xác minh đối với người vào Đảng yêu cầu làm rõ về những điểm nào?
 Khi thẩm tra và xác minh đối với người muốn gia nhập Đảng, cần làm rõ về nội dung gì?
-
+```
 #### Câu trả lời 18
 - Đối với người vào Đảng: Làm rõ những vấn đề về lịch sử chính trị và chính trị hiện nay; về chấp hành đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước; về phẩm chất chính trị, đạo đức, lối sống. 
 - Đối với người thân: Làm rõ những vấn đề về lịch sử chính trị và chính trị hiện nay; việc chấp hành đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước.
@@ -633,6 +657,7 @@ Khi thẩm tra và xác minh đối với người muốn gia nhập Đảng, c�
 
 question | 
 --- |
+```md
 Thủ tục xem xét kết nạp đảng viên gồm những nội dung gì?
 Người kết nạp lại đảng cần xem xét thủ tục gì?
 Quy định về thủ tục xem xét kết nạp đảng viên?
@@ -668,6 +693,7 @@ Bước đầu tiên trong quy trình xem xét kết nạp đảng viên là gì
 Quy định về thủ tục xem xét kết nạp đảng viên được ban hành bởi cơ quan nào?
 Để được xem xét kết nạp Đảng, người vào Đảng phải đáp ứng những điều kiện nào?
 Trong thủ tục xem xét kết nạp Đảng, nội dung nào là quan trọng nhất?
+```
 #### Câu trả lời 19
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, thủ tục xem xét kết nạp đảng viên (kể cả kết nạp lại) gồm những nội dung sau:
 - Bồi dưỡng nhận thức về Đảng.  
@@ -686,6 +712,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 question | 
 --- |
+```md
 Việc tổ chức lễ kết nạp đảng viên được quy định như thế nào?
 Quy định tổ chức lễ kết nạp đảng viên?
 Lễ kết nạp đảng viên phải được tổ chức như thế nào?
@@ -727,7 +754,7 @@ Trong buổi lễ kết nạp đảng viên, vai trò của đại diện chi �
 Nếu buổi lễ kết nạp đảng viên diễn ra với một người tham gia, quy định gì cần tuân thủ?
 Trong buổi lễ kết nạp đảng viên, nếu có đại diện cấp ủy cấp trên tham gia, vai trò của họ là gì?
 Quy định về việc thực hiện buổi lễ kết nạp đảng viên được điều chỉnh như thế nào khi có nhiều người tham gia trong cùng một buổi lễ?
-
+```
 #### Câu trả lời 20
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng:
 - Lễ kết nạp Đảng viên phải tổ chức trang nghiêm; tiến hành kết nạp từng người một (nếu kết nạp từ hai người trở lên trong cùng một buổi lễ).  
@@ -745,6 +772,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 question | 
 --- |
+```md
 Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những nội dung gì?
 Kết nạp đảng viên hồ sơ cần chuẩn bị những gì?
 Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những giấy tờ gì?
@@ -785,7 +813,7 @@ Trong hồ sơ kết nạp đảng viên, nếu có nghị quyết xét, đề n
 Khi chuẩn bị hồ sơ kết nạp đảng viên, có cần có Phiếu đảng viên không?
 Trong hồ sơ kết nạp đảng viên, phiếu đảng viên có vai trò gì?
 Khi kết nạp đảng viên, việc chuẩn bị hồ sơ cần tuân thủ quy định nào từ Ban Bí thư?
-
+```
 #### Câu trả lời 21
 Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng dẫn một số vấn đề cụ thể thi hành Điều lệ Đảng, hồ sơ đảng viên khi được kết nạp vào Đảng gồm:
 - Giấy chứng nhận học lớp bồi dưỡng nhận thức về Đảng.  
@@ -805,6 +833,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 question | 
 --- |
+```md
 Chỉ xem xét kết nạp vào Đảng những người trên 60 tuổi khi đủ các điều kiện nào?
 Người nào có thể được xem xét kết nạp vào Đảng khi đã trên 60 tuổi?
 Điều kiện gì cần được đáp ứng để người trên 60 tuổi được xem xét kết nạp vào Đảng?
@@ -845,7 +874,7 @@ Những người trên 60 tuổi không được ban thường vụ cấp ủy t
 Những người trên 60 tuổi có đủ các điều kiện trên thì được cấp ủy nào xem xét kết nạp vào Đảng?
 Những người trên 60 tuổi không đủ các điều kiện trên thì không được cấp ủy nào xem xét kết nạp vào Đảng?
 Những người trên 60 tuổi chỉ có sức khoẻ và uy tín thì không được cấp ủy nào xem xét kết nạp vào Đảng?
-
+```
 #### Câu trả lời 22
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
 Có sức khoẻ và uy tín; đang công tác, cư trú ở cơ sở chưa có tổ chức đảng, chưa có đảng viên hoặc do yêu cầu đặc biệt; được ban thường vụ cấp ủy trực thuộc Trung ương đồng ý bằng văn bản trước khi cấp ủy có thẩm quyền ra quyết định kết nạp.
@@ -854,6 +883,7 @@ Có sức khoẻ và uy tín; đang công tác, cư trú ở cơ sở chưa có 
 
 question | 
 --- |
+```md
 Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được quy định như thế nào?
 Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên do tổ chức đảng nào xem xét?
 Kết nạp đảng viên đối với người đang công tác biệt phái từ 12 tháng trở lên do tổ chức đảng nào xem xét, kết nạp?
@@ -890,7 +920,7 @@ Quyết định kết nạp vào Đảng đối với người đang học tập
 Để được xem xét kết nạp vào Đảng, người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên cần có văn bản nhận xét từ đơn vị nào?
 Khi muốn kết nạp vào Đảng và đang học tập tại cơ sở đào tạo từ 12 tháng trở lên, người đó cần thỏa mãn điều kiện gì?
 Ai có thẩm quyền xem xét kết nạp đảng viên đối với người đang học tập tại cơ sở đào tạo từ 12 tháng trở lên?
-
+```
 #### Câu trả lời 23
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
 Do tổ chức đảng ở cơ sở đào tạo xem xét kết nạp. Người đang công tác biệt phái từ 12 tháng trở lên, do tổ chức đảng nơi công tác biệt phái xem xét, kết nạp. 
@@ -900,6 +930,7 @@ Tổ chức đảng đơn vị cử đi học, đi công tác biệt phái và t
 
 question | 
 --- |
+```md
 Kết nạp đảng viên đối với người đã tốt nghiệp ra trường về địa phương chờ việc làm được quy định như thế nào?
 Người đã tốt nghiệp ra trường và trở về địa phương chờ việc làm có thể được xem xét kết nạp đảng viên theo quy định nào?
 Người đã tốt nghiệp ra trường và quay trở về địa phương để chờ việc làm cần thực hiện thủ tục gì để được kết nạp đảng viên?
@@ -936,7 +967,7 @@ Người đã tốt nghiệp ra trường về địa phương chờ việc làm
 Việc kết nạp đảng viên đối với người đã tốt nghiệp ra trường và quay trở về địa phương chờ việc làm có được quy định chi tiết trong văn bản nào?
 Khi người đã tốt nghiệp ra trường và trở về địa phương chờ việc làm mong muốn vào Đảng, thủ tục kết nạp đảng viên sẽ do ai tiến hành?
 Khi người đã tốt nghiệp ra trường và quay trở về địa phương chờ việc làm muốn gia nhập Đảng, họ cần thực hiện thủ tục gì để được xem xét kết nạp đảng viên?
-
+```
 #### Câu trả lời 24
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: Việc kết nạp đảng viên đối với người đã tốt nghiệp ra trường về địa phương chờ việc làm thì tổ chức đảng ở địa phương xem xét kết nạp.
 
@@ -944,6 +975,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: Việc k�
 
 question | 
 --- |
+```md
 Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được quy định như thế nào?
 Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp do tổ chức đảng nào xem xét?
 Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được xét kết nạp vào Đảng khi nào?
@@ -976,7 +1008,7 @@ Việc kết nạp đảng viên đối với người đang làm hợp đồng 
 Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp muốn vào Đảng?
 Việc kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp có được quy định như thế nào?
 Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp cần thỏa mãn những yêu cầu gì để được kết nạp vào Đảng?
-
+```
 #### Câu trả lời 25
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
 - Nếu làm hợp đồng có thời hạn, thời gian thực tế làm việc tại cơ quan, doanh nghiệp, đơn vị sự nghiệp dưới 12 tháng thì tổ chức đảng nơi cư trú xem xét kết nạp; trước khi làm thủ tục xem xét kết nạp phải có nhận xét của cơ quan, doanh nghiệp, đơn vị sự nghiệp nơi người vào Đảng đang làm việc. 
@@ -986,6 +1018,7 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 question | 
 --- |
+```md
 Các bước trong một buổi sinh hoạt chi bộ thường kỳ?
 Buổi sinh hoạt chi bộ thường kỳ cần làm những bước gì?
 Một buổi sinh hoạt chi bộ thường kỳ cần làm bao nhiêu bước?
@@ -1010,7 +1043,7 @@ Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên có t�
 Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên có đề xuất, kiến nghị cần giải quyết thì cần xử lý như thế nào?
 Buổi sinh hoạt chi bộ thường kỳ bắt đầu với những hoạt động gì?
 Trong buổi sinh hoạt chi bộ thường kỳ, thông tin gì cần được thông báo về tình hình đảng viên?
-
+```
 #### Câu trả lời 26
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
 1. Mở đầu   
@@ -1031,6 +1064,7 @@ Bí thư chi bộ thực hiện các nội dung chủ yếu sau:
 
 question |
 --- |
+```md
 Các bước trong một buổi sinh hoạt chi bộ theo chuyên đề?
 Buổi sinh hoạt chi bộ theo chuyên đề cần làm những bước gì?
 Một buổi sinh hoạt chi bộ theo chuyên đề cần làm bao nhiêu bước?
@@ -1073,7 +1107,7 @@ Trong buổi sinh hoạt chi bộ theo chuyên đề, nhiệm vụ của đảng
 Trong buổi sinh hoạt chi bộ theo chuyên đề, bí thư chi bộ có nhiệm vụ gì sau khi đánh giá việc chuẩn bị, chất lượng của chuyên đề?
 Trong buổi sinh hoạt chi bộ theo chuyên đề, nhiệm vụ của bí thư chi bộ liên quan đến mục đích và yêu cầu của buổi sinh hoạt là gì?
 Buổi sinh hoạt chi bộ theo chuyên đề có những bước chính nào và các hoạt động gì được thực hiện trong mỗi bước?
-
+```
 #### Câu trả lời 27
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
 a) Mở đầu   
@@ -1094,11 +1128,12 @@ Bí thư chi bộ đánh giá việc chuẩn bị, chất lượng của chuyên
 
 question | 
 --- |
+```md
 Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
 Buổi sinh hoạt chi bộ thường kỳ đạt chất lượng là như thế nào?
 Khung tiêu chí đánh giá chất lượng Buổi sinh hoạt chi bộ thường kỳ?
 Trong khung tiêu chí đánh giá chất lượng, Buổi sinh hoạt chi bộ thường kỳ cần những tiêu chí gì?
-
+```
 #### Câu trả lời 28
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
 - Khung tiêu chí đánh giá chất lượng sinh hoạt chi bộ, gồm:
@@ -1116,9 +1151,10 @@ Tổ chức sinh hoạt chi bộ
 
 question | 
 --- |
+```md
 Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
 Công tác chuẩn bị sinh hoạt chi bộ cần những tiêu chí gì?
-
+```
 #### Câu trả lời 29
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
 - Bí thư hoặc phó bí thư chi bộ trực tiếp chuẩn bị nội dung sinh hoạt.  
@@ -1133,9 +1169,10 @@ Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trun
 
 question | 
 --- |
+```md
 Tiêu chí đánh giá tổ chức sinh hoạt chi bộ?
 Tổ chức sinh hoạt chi bộ cần những tiêu chí gì?
-
+```
 #### Câu trả lời 30
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
 - Thời điểm tổ chức sinh hoạt đúng quy định của cấp ủy có thẩm quyền. Thực hiện đầy đủ nội dung, trình tự buổi sinh hoạt chi bộ theo quy định. Phương pháp điều hành của người chủ trì linh hoạt, hiệu quả.  
@@ -1149,6 +1186,7 @@ Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trun
 
 question | 
 --- |
+```md
 Bao nhiêu tuổi được vào đảng?
 Quần chúng bao nhiêu tuổi được vào đảng?
 Chưa đủ 18 tuổi có được vào đảng không?
@@ -1168,7 +1206,7 @@ Việc kết nạp vào Đảng đối với người dưới 18 tuổi có đư
 Có quy định gì về độ tuổi của người vào Đảng tại thời điểm xét kết nạp?
 Tuổi đời của người vào Đảng được quy định như thế nào?
 Tại thời điểm chi bộ xét kết nạp, người vào Đảng phải đủ bao nhiêu tuổi đến bao nhiêu tuổi?
-
+```
 #### Câu trả lời 31
 Căn cứ mục 1 Quy định sô" 24-QD/TW. ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
 
@@ -1179,6 +1217,7 @@ Căn cứ mục 1 Quy định sô" 24-QD/TW. ngày 30/7/2021 của Ban Chấp h�
 
 question | 
 --- |
+```md
 Người vào đảng học lớp mấy?
 Học hết lớp 9 có được vào đảng không?
 Quy định trình học của người vào đảng là lớp mấy?
@@ -1220,7 +1259,7 @@ Trình độ học vấn cần có để vào Đảng là gì?
 Người vào Đảng cần phải tốt nghiệp lớp nào trở lên?
 Học vấn yêu cầu của người vào Đảng đang sống ở các vùng đặc biệt khó khăn như thế nào?
 Trình độ học vấn của người vào Đảng cần thỏa mãn điều kiện gì?
-
+```
 #### Câu trả lời 32
 Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
 - Về trình độ học vấn:
@@ -1232,6 +1271,7 @@ Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hà
 # Đã có trong tập dữ liệu cũ
 question | 
 --- |
+```md
 Trách nhiệm của đảng viên là gì
 Trách nhiệm của đảng viên đang công tác
 Trách nhiệm của đảng viên đang công tác ở các cơ quan
@@ -1276,7 +1316,7 @@ Trách nhiệm của đảng viên nơi cư trú?
 Trách nhiệm của đảng viên đang công tác  giữ mối liên hệ như thế nào?
 Trách nhiệm của đảng viên đang công tác xuyên giữ mối liện hệ với nhân dân nơi cư chú như thế nào?
 Trách nhiệm của đảng viên tại nơi ở?
-
+```
 #### Câu trả lời 33
 Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về trách nhiệm của đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú:
 Đảng viên đang công tác ở các cơ quan, doanh nghiệp, đơn vị sự nghiệp, lực lượng vũ trang (gọi tắt là đảng viên đang công tác) vừa thực hiện quy định của Điều lệ Đảng về sinh hoạt đảng tại nơi làm việc, vừa có trách nhiệm thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú; gần gũi, gắn bó với nhân dân; khắc phục những biểu hiện sống xa dân, thiếu trách nhiệm trong các công việc của nhân dân nơi cư trú; củng cố mối quan hệ mật thiết giữa Đảng với nhân dân; nêu cao vai trò, trách nhiệm của người đảng viên trong xây dựng Đảng, xây dựng hệ thống chính trị cơ sở.
@@ -1286,6 +1326,7 @@ Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về 
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+```md
 Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
 Theo Quy định số 213, tổ chức cơ sở đảng cần thực hiện những nhiệm vụ và trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
 Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
@@ -1310,7 +1351,7 @@ Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tham g
 Để thúc đẩy tinh thần tương tác và giao lưu giữa các tổ chức cơ sở đảng khác nhau, làm thế nào tổ chức này có thể tạo điều kiện thuận lợi?
 Theo Quy định số 213, tổ chức cơ sở đảng cần có trách nhiệm gì đối với việc đảm bảo tuân thủ nguyên tắc dân chủ trong hoạt động của mình?
 Trách nhiệm của tổ chức cơ sở đảng là gì
-
+```
 #### Câu trả lời 34
 Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đảng viên cư trú có trách nhiệm tạo điều kiện cho đảng viên đang công tác thực hiện trách nhiệm, nhiệm vụ nơi cư trú, đồng thời kiểm tra, giám sát, nhận xét, đánh giá việc thực hiện của đảng viên.
 
@@ -1319,6 +1360,7 @@ Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đản
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+```md
 |Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
 |Theo Quy định số 213, đảng viên đang làm việc tại nơi cư trú cần thực hiện những nhiệm vụ gì để thể hiện tinh thần đảng và gắn kết với cộng đồng?
 |Nhiệm vụ chính của đảng viên tại nơi cư trú theo Quy định số 213 là gì trong việc duy trì và thúc đẩy liên hệ với tổ chức đảng và cộng đồng?
@@ -1338,7 +1380,7 @@ Theo Quy định số 213, đảng viên đang làm việc tại nơi cư trú c
 Nhiệm vụ chính của đảng viên tại nơi cư trú theo Quy định số 213 là gì trong việc duy trì và thúc đẩy liên hệ với tổ chức đảng và cộng đồng?
 Trách nhiệm của đảng viên tại nơi cư trú là gì khi cần phải thực hiện việc giới thiệu và thảo luận về các chính sách mới từ tổ chức đảng trung ương?
 Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng đối với cộng đồng?
-
+```
 #### Câu trả lời 35
 1. Nêu gương về phẩm chất chính trị, đạo đức, lối sống và vai trò tiền phong, gương mẫu của người cán bộ, đảng viên trước nhân dân nơi cư trú.
 2. Gương mẫu thực hiện nghĩa vụ công dân; tuyên truyền, vận động gia đình và nhân dân trên địa bàn dân cư thực hiện các chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước và các quy định của địa phương nơi cư trú.
@@ -1353,6 +1395,7 @@ Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc tuyên
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+```md
 | Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
 | Cấp ủy cơ sở theo Quy định số 213 cần thực hiện những nhiệm vụ gì để đảm bảo đảng viên đang công tác tại nơi cư trú thực hiện đầy đủ trách nhiệm của mình?
 | Nhiệm vụ chính của cấp ủy cơ sở là gì trong việc thúc đẩy việc tuyên truyền và giải thích về quan điểm, chính sách của đảng cho đảng viên tại địa phương?
@@ -1365,6 +1408,7 @@ question |
 | Nhiệm vụ của cấp ủy cơ sở là gì
 | Theo quy định 213, Nhiệm vụ của cấp ủy cơ sở là gì
 | Nhiệm vụ của cấp ủy cơ sở
+```
 #### Câu trả lời 36
 1. Chỉ đạo chi ủy, chi bộ trực thuộc lập danh sách đảng viên theo nơi cư trú và chủ động liên hệ với đảng ủy cơ sở và chi ủy, chi bộ nơi đảng viên cư trú để giới thiệu đảng viên về sinh hoạt, thường xuyên giữ mối liên hệ với chi ủy và nhân dân nơi cư trú theo đúng quy định.
 Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư trú được biết về những đảng viên của đơn vị mình thường xuyên đi công tác xa nơi cư trú, lưu động hoặc có công tác đặc biệt để phối hợp tạo điều kiện cho đảng viên thực hiện nhiệm vụ nơi cư trú khi đảng viên đó có điều kiện.
@@ -1378,6 +1422,7 @@ Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư t
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+```md
 | Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
 | Cấp ủy xã, phường, thị trấn thực hiện nhiệm vụ gì để đảm bảo sự kết nối và giữ mối liên hệ chặt chẽ giữa đảng viên đang công tác cư trú và tổ chức đảng?
 | Làm thế nào cấp ủy xã, phường, thị trấn tạo điều kiện cho việc họp đảng viên đang công tác cư trú để thông báo tình hình và tham gia góp ý vào các vấn đề quan trọng? 
@@ -1397,7 +1442,7 @@ Làm thế nào cấp ủy xã, phường, thị trấn tạo điều kiện cho
 Đảng ủy xã, phường, thị trấn có nhiệm vụ gì trong việc đánh giá thành tích của đảng viên đang công tác?
 Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú là gì
 Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
-
+```
 #### Câu trả lời 37
 1. Đảng ủy xã, phường, thị trấn tiếp nhận và lập danh sách đảng viên đang công tác được giới thiệu về sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở địa phương mình; giới thiệu về cho các chi ủy, chi bộ thôn, bản, khối phố.
 2. Chi bộ thôn, bản, khu dân cư tiếp nhận và lập danh sách đảng viên đang công tác tham gia sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở đơn vị mình và thông báo cho từng đảng viên biết để liên hệ trong việc thực hiện nhiệm vụ đảng viên nơi cư trú; đồng thời, tạo điều kiện cho đảng viên thực hiện nhiệm vụ.
@@ -1411,6 +1456,7 @@ Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
 
 question | 
 --- |
+```md
 | Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
 | Điều kiện được miễn sinh hoạt nơi cư trú?
 | Trong những trường hợp nào đảng viên được miễn sinh hoạt nơi cư trú?
@@ -1430,7 +1476,7 @@ question |
 Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
 Điều kiện được miễn sinh hoạt nơi cư trú?
 Trong những trường hợp nào đảng viên được miễn sinh hoạt nơi cư trú?
-
+```
 #### Câu trả lời 38
 Theo Hướng dẫn số 33-HD/BTCTW, ngày 30/10/2020 của Ban Tổ chức Trung ương hướng dẫn thực hiện một số nội dung trong Quy định số 213:
 - Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân do điều kiện công tác xa nhà hoặc do yêu cầu, nhiệm vụ phải ở tập trung tại doanh trại, nhà công vụ ngoài giờ làm việc hằng ngày không thường xuyên về nơi cư trú.
@@ -1443,6 +1489,7 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, Đi�
 
 question | 
 --- |
+```md
 Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
 Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt nào khiến họ được miễn giới thiệu về tổ chức đảng nơi cư trú?
 Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú?
@@ -1459,7 +1506,7 @@ question |
 | Đảng viên ở các đơn vị quân sự thường trực sẵn sàng chiến đấu có được miễn giới thiệu về tổ chức đảng tại nơi cư trú không?
 | Đảng viên đang công tác ở vùng biên giới, hải đảo có trách nhiệm gì liên quan đến việc duy trì liên hệ với tổ chức đảng tại nơi cư trú?
 
-
+```
 #### Câu trả lời 39
  `-Đảng viên công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt, phải giữ bí mật về nhân thân; đảng viên ở các đơn vị thường trực sẵn sàng chiến đấu.
 - Đảng viên đang công tác ở vùng sâu, vùng xa, nơi biên giới, hải đảo do yêu cầu nhiệm vụ hằng năm không thường xuyên về nơi cư trú.
@@ -1471,7 +1518,9 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 6
 
 question | 
 --- |
+```md
 
+```
 #### Câu trả lời 40
 Đảng ủy cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trên cơ sở đề nghị của chi bộ nơi đảng viên đang công tác, học tập.
 - Chi bộ cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú.
@@ -1481,6 +1530,7 @@ question |
 
 question | 
 --- |
+```md
 Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 | Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 | Xử lý kỷ luật đảng thì còn được xét tặng huy hiệu hay không
@@ -1492,6 +1542,7 @@ question |
 |  Xét tặng Huy hiệu đảng hay không đảng viên bị kỷ luật
 | Vi phạm kỷ luật
 | Đảng viên bị xử lý kỷ luật
+```
 #### Câu trả lời 41
 Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Đảng viên có đủ 30 năm, 40 năm, 45 năm, 50 năm, 55 năm, 60 năm, 65 năm, 70 năm, 75 năm, 80 năm, 85 năm, 90 năm tuổi đảng trở lên thì được tặng Huy hiệu đảng”.
 Tuy nhiên, đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì chưa được xét tặng Huy hiệu đảng. Cụ thể, tại điểm 27.3.1 (c) Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Tại thời điểm xét tặng Huy hiệu đảng, đảng viên bị kỷ luật về đảng thì chưa được xét tặng; sau 06 tháng (đối với kỷ luật khiển trách), 09 tháng (đối với kỷ luật cảnh cáo), 01 năm (đối với kỷ luật cách chức), nếu sửa chữa tốt khuyết điểm, được chi bộ công nhận sẽ được xét tặng Huy hiệu đảng”.
@@ -1501,6 +1552,7 @@ Tuy nhiên, đảng viên đến thời điểm được xét tặng Huy hiệu 
 
 question | 
 --- |
+```md
 Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
 Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 Xử lý kỷ luật đảng thì còn được xét tặng huy hiệu hay không
@@ -1512,7 +1564,7 @@ Vi phạm kỷ thuật thì có được xét tặng huy hiệu đảng không
  Xét tặng Huy hiệu đảng hay không đảng viên bị kỷ luật
 Vi phạm kỷ luật
 Đảng viên bị xử lý kỷ luật
-
+```
 #### Câu trả lời 42
 Điểm 7.2.4, Khoản 7.2, Điều 7, Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định về quyền và trách nhiệm của đảng viên được miễn sinh hoạt như sau: “Bản thân phải gương mẫu và vận động gia đình chấp hành chủ trương, chính sách của đảng, pháp luật của Nhà nước và các quy định của địa phương, nếu vi phạm kỷ luật đảng thì xử lý kỷ luật như đảng viên đang sinh hoạt theo quy định của Điều lệ Đảng”.
 Căn cứ quy định trên, đảng viên được miễn sinh hoạt vi phạm kỷ luật thì tổ chức đảng có thẩm quyền vẫn xem xét, xử lý kỷ luật đảng như đối với đảng viên đang sinh hoạt theo quy định.
@@ -1525,6 +1577,7 @@ Căn cứ quy định trên, đảng viên được miễn sinh hoạt vi phạm
 
 question | 
 --- |
+```md
 | Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
 | Chuyển sinh hoạt đảng
 | Theo quy định, khi chuyển sinh hoạt đảng, ai phải tự mang hồ sơ từ Đảng ủy cơ sở lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng?
@@ -1537,6 +1590,7 @@ question |
 | Trách nhiệm chính của đảng viên khi chuyển sinh hoạt đảng là gì?
 | Đảng viên khi chuyển sinh hoạt đảng cần phải thực hiện những biện pháp gì để đảm bảo tính minh bạch và đúng quy định?
 | Khi chuyển sinh hoạt đảng, đảng viên phải tuân theo những hướng dẫn nào từ Ban Tổ chức Trung ương để thực hiện đúng thủ tục và quy định?
+```
 #### Câu trả lời 43
 Điểm 6.3.1 (d) Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Khi chuyển sinh hoạt đảng chính thức cho đảng viên, cấp ủy nơi đang sinh hoạt và công tác làm đầy đủ thủ tục, niêm phong hồ sơ, giao cho đảng viên trực tiếp mang theo để báo cáo với tổ chức đảng làm thủ tục giới thiệu và tiếp nhận sinh hoạt đảng theo hướng dẫn của Ban Tổ chức Trung ương”.
 Như vậy, khi chuyển sinh hoạt đảng thì cấp ủy nơi đi làm thủ tục chuyển sinh hoạt, giao cho đảng viên, đảng viên phải tự mang hồ sơ đến các tổ chức đảng để làm thủ tục chuyển sinh hoạt đảng tới tổ chức đảng nơi đến theo đúng quy định.Thủ tục giới thiệu chuyển sinh hoạt đảng đã được nêu cụ thể từng trường hợp tại Điểm 4, mục II Hướng dẫn số 12-HD/BTCTW, ngày 18/01/2022 của Ban Tổ chức Trung ương về hướng dẫn nghiệp vụ công tác đảng viên.
@@ -1545,6 +1599,7 @@ Như vậy, khi chuyển sinh hoạt đảng thì cấp ủy nơi đi làm thủ
 
 question |
 --- |
+```md
 Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
 Thời hạn khiếu nại kỷ luật đảng của đảng viên được quy định như thế nào?
 Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
@@ -1587,6 +1642,7 @@ Tính từ ngày nào đến ngày nào là thời hạn khiếu nại kỷ lu�
 Quy định về thời hạn khiếu nại kỷ luật của đảng viên được nêu ở mục nào?
 Thời hạn khiếu nại kỷ luật tính từ sự kiện gì?
 
+```
 #### Câu trả lời 44
 Khoản 1, Điều 26 Quy định số 22-QĐ/TW, ngày 28/7/2021 của Ban Chấp hành Trung ương về công tác kiểm tra, giám sát và kỷ luật của Đảng “Thời hạn khiếu nại trong vòng 30 ngày, tính từ ngày nhận quyết định kỷ luật hoặc quyết định giải quyết khiếu nại kỷ luật (căn cứ biên bản công bố) đến ngày đảng viên bị kỷ luật gửi đơn khiếu nại trực tiếp hoặc theo dấu bưu điện chuyển đến”.
 
