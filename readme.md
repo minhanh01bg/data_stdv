@@ -943,7 +943,37 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: Việc k�
 question | 
 --- |
 Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được quy định như thế nào?
-
+Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp do tổ chức đảng nào xem xét?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được xét kết nạp vào Đảng khi nào?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được xét kết nạp vào Đảng khi nào?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được xét kết nạp vào Đảng như thế nào?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được xét kết nạp vào Đảng như thế nào?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng ở đâu?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng ở đâu?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng trong thời hạn bao nhiêu ngày?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng trong thời hạn bao nhiêu ngày?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng phải đáp ứng những điều kiện gì?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng phải đáp ứng những điều kiện gì?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng phải có giấy tờ gì?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng phải có giấy tờ gì?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng phải có ý kiến nhận xét của những ai?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng phải có ý kiến nhận xét của những ai?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng phải có văn bản giới thiệu của những ai?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng phải có văn bản giới thiệu của những ai?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng phải được chi bộ nơi cư trú xét và ra nghị quyết đề nghị kết nạp?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp không được kết nạp vào Đảng phải được chi bộ nơi cư trú xét và ra nghị quyết đề nghị kết nạp?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được kết nạp vào Đảng phải được đảng ủy cơ sở xét và ra nghị quyết đề nghị kết nạp?
+Khi người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp muốn vào Đảng, thủ tục kết nạp sẽ được tiến hành như thế nào?
+Việc kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp có được quy định chi tiết trong văn bản nào?
+Ai sẽ xem xét và đưa ra quyết định cuối cùng về việc kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp?
+Khi người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp muốn vào Đảng, họ cần hoàn thành thủ tục gì để được xem xét kết nạp đảng viên?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp có thể vào Đảng hay không?
+Việc kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp cần tuân theo quy định gì?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp cần thỏa mãn những điều kiện gì để được xem xét kết nạp đảng viên?
+Việc kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp có được quy định trong văn bản nào?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp muốn vào Đảng?
+Việc kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp có được quy định như thế nào?
+Người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp cần thỏa mãn những yêu cầu gì để được kết nạp vào Đảng?
 
 #### Câu trả lời 25
 Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: 
@@ -956,6 +986,28 @@ question |
 --- |
 Các bước trong một buổi sinh hoạt chi bộ thường kỳ?
 Buổi sinh hoạt chi bộ thường kỳ cần làm những bước gì?
+Một buổi sinh hoạt chi bộ thường kỳ cần làm bao nhiêu bước?
+Mở đầu buổi sinh hoạt chi bộ thường kỳ cần làm những việc gì?
+Ai là người tuyên bố lý do, giới thiệu đại biểu (nếu có) trong buổi sinh hoạt chi bộ thường kỳ?
+Ai là người thông báo tình hình đảng viên: Số đảng viên có mặt, vắng mặt (có lý do, không có lý do) trong buổi sinh hoạt chi bộ thường kỳ?
+Ai là người thông qua nội dung, chương trình sinh hoạt chi bộ trong buổi sinh hoạt chi bộ thường kỳ?
+Tiến hành sinh hoạt trong buổi sinh hoạt chi bộ thường kỳ cần làm những việc gì?
+Ai là người báo cáo nội dung sinh hoạt đã được chi ủy chuẩn bị và gợi ý thảo luận trong buổi sinh hoạt chi bộ thường kỳ?
+Ai là người phát biểu ý kiến, tập trung trao đổi, thảo luận nội dung trọng tâm liên quan trực tiếp đến hoạt động của chi bộ trong buổi sinh hoạt chi bộ thường kỳ?
+Ai là người cung cấp thông tin và định hướng để làm rõ những vấn đề đảng viên quan tâm, tạo bầu không khí dân chủ, cởi mở, khuyến khích đảng viên tham gia đóng góp ý kiến để buổi sinh hoạt đạt hiệu quả trong buổi sinh hoạt chi bộ thường kỳ?
+Kết thúc buổi sinh hoạt chi bộ thường kỳ cần làm những việc gì?
+Ai là người tổng hợp các ý kiến phát biểu tại buổi sinh hoạt chi bộ thường kỳ?
+Ai là người thông qua nghị quyết hoặc kết luận trong buổi sinh hoạt chi bộ thường kỳ?
+Ai là người đánh giá chất lượng buổi sinh hoạt chi bộ thường kỳ?
+Ai là người trình bày biên bản sinh hoạt chi bộ trong buổi sinh hoạt chi bộ thường kỳ?
+Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên vắng mặt thì cần có văn bản xin phép cấp ủy chi bộ hay không?
+Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên vắng mặt không có lý do thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên vi phạm kỷ luật Đảng thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên phát biểu ý kiến trái với quan điểm của chi bộ thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên có tâm tư, nguyện vọng cần giải quyết thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ thường kỳ, nếu có đảng viên có đề xuất, kiến nghị cần giải quyết thì cần xử lý như thế nào?
+Buổi sinh hoạt chi bộ thường kỳ bắt đầu với những hoạt động gì?
+Trong buổi sinh hoạt chi bộ thường kỳ, thông tin gì cần được thông báo về tình hình đảng viên?
 
 #### Câu trả lời 26
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -979,6 +1031,46 @@ question |
 --- |
 Các bước trong một buổi sinh hoạt chi bộ theo chuyên đề?
 Buổi sinh hoạt chi bộ theo chuyên đề cần làm những bước gì?
+Một buổi sinh hoạt chi bộ theo chuyên đề cần làm bao nhiêu bước?
+Mở đầu buổi sinh hoạt chi bộ theo chuyên đề cần làm những việc gì?
+Ai là người tuyên bố lý do, giới thiệu đại biểu (nếu có) trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người thông báo tình hình đảng viên: Số đảng viên có mặt, vắng mặt (có lý do, không có lý do) trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người thông qua nội dung, chương trình sinh hoạt chi bộ theo chuyên đề?
+Tiến hành sinh hoạt trong buổi sinh hoạt chi bộ theo chuyên đề cần làm những việc gì?
+Ai là người nêu mục đích, yêu cầu buổi sinh hoạt chuyên đề trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người được phân công chuẩn bị, trình bày dự thảo chuyên đề trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người phát biểu, nêu nhận thức của cá nhân đối với chuyên đề và tác dụng của chuyên đề đối với bản thân trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người trao đổi, đóng góp ý kiến để hoàn thiện dự thảo chuyên đề trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người tiếp thu ý kiến tham gia để hoàn thiện chuyên đề trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người đánh giá việc chuẩn bị, chất lượng của chuyên đề trong buổi sinh hoạt chi bộ theo chuyên đề?
+Ai là người kết luận các nội dung cần tiếp thu để bổ sung, hoàn thiện dự thảo chuyên đề trong buổi sinh hoạt chi bộ theo chuyên đề?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nếu có đảng viên vắng mặt thì cần có văn bản xin phép cấp ủy chi bộ hay không?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nếu có đảng viên vắng mặt không có lý do thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nếu có đảng viên vi phạm kỷ luật Đảng thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nếu có đảng viên phát biểu ý kiến trái với quan điểm của chi bộ thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nếu có đảng viên có tâm tư, nguyện vọng cần giải quyết thì cần xử lý như thế nào?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nếu có đảng viên có đề xuất, kiến nghị cần giải quyết thì cần xử lý như thế nào?
+Chuyên đề của buổi sinh hoạt chi bộ theo chuyên đề được gửi đến ai để nghiên cứu, học tập và báo cáo cấp ủy cấp trên trực tiếp?
+Buổi sinh hoạt chi bộ theo chuyên đề bắt đầu với những hoạt động gì?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, việc gì cần được thông báo về tình hình đảng viên?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, ai thực hiện việc ghi biên bản?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, vai trò của bí thư chi bộ là gì liên quan đến mục đích và yêu cầu của buổi sinh hoạt?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, ai được phân công chuẩn bị và trình bày dự thảo chuyên đề?
+Đảng viên có vai trò gì trong buổi sinh hoạt chi bộ theo chuyên đề liên quan đến việc phát biểu và nêu nhận thức về chuyên đề?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nhiệm vụ của đảng viên sau khi hoàn thiện chuyên đề là gì?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, bí thư chi bộ đánh giá việc gì và đưa ra kết luận gì?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, việc gì cần được thông qua về nội dung, chương trình sinh hoạt?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, đảng viên có nhiệm vụ gì liên quan đến việc trao đổi và đóng góp ý kiến cho dự thảo chuyên đề?
+Bí thư chi bộ trong buổi sinh hoạt chi bộ theo chuyên đề có nhiệm vụ gì liên quan đến việc đánh giá và hoàn thiện dự thảo chuyên đề?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, đảng viên được phân công nhiệm vụ gì sau khi hoàn thiện chuyên đề?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, ai thường nêu mục đích và yêu cầu của buổi sinh hoạt?
+Khi kết thúc buổi sinh hoạt chi bộ theo chuyên đề, bí thư chi bộ thường đánh giá những khía cạnh gì?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, ai thường được phân công chuẩn bị chuyên đề để tiếp thu ý kiến tham gia?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, đảng viên thường trao đổi và đóng góp ý kiến về chuyên đề như thế nào?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nhiệm vụ của đảng viên sau khi hoàn thiện dự thảo chuyên đề là gì?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, bí thư chi bộ có nhiệm vụ gì sau khi đánh giá việc chuẩn bị, chất lượng của chuyên đề?
+Trong buổi sinh hoạt chi bộ theo chuyên đề, nhiệm vụ của bí thư chi bộ liên quan đến mục đích và yêu cầu của buổi sinh hoạt là gì?
+Buổi sinh hoạt chi bộ theo chuyên đề có những bước chính nào và các hoạt động gì được thực hiện trong mỗi bước?
 
 #### Câu trả lời 27
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -1002,6 +1094,8 @@ question |
 --- |
 Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
 Buổi sinh hoạt chi bộ thường kỳ đạt chất lượng là như thế nào?
+Khung tiêu chí đánh giá chất lượng Buổi sinh hoạt chi bộ thường kỳ?
+Trong khung tiêu chí đánh giá chất lượng, Buổi sinh hoạt chi bộ thường kỳ cần những tiêu chí gì?
 
 #### Câu trả lời 28
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -1020,6 +1114,8 @@ Tổ chức sinh hoạt chi bộ
 
 question | 
 --- |
+Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
+Công tác chuẩn bị sinh hoạt chi bộ cần những tiêu chí gì?
 
 #### Câu trả lời 29
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -1035,6 +1131,8 @@ Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trun
 
 question | 
 --- |
+Tiêu chí đánh giá tổ chức sinh hoạt chi bộ?
+Tổ chức sinh hoạt chi bộ cần những tiêu chí gì?
 
 #### Câu trả lời 30
 Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trung ương hướng dẫn một số vấn đề về nâng cao chất lượng sinh hoạt chi bộ:
@@ -1049,6 +1147,25 @@ Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trun
 
 question | 
 --- |
+Bao nhiêu tuổi được vào đảng?
+Quần chúng bao nhiêu tuổi được vào đảng?
+Chưa đủ 18 tuổi có được vào đảng không?
+Quy định tuổi của người xin vào đảng là bao nhiêu?
+Bao nhiêu tuổi thì được xét vào đảng?
+Tuổi đối với người vào Đảng được quy định như thế nào?
+Người vào Đảng phải đủ bao nhiêu tuổi tại thời điểm chi bộ xét kết nạp?
+Quy định về tuổi đối với người vào Đảng được thực hiện bởi ai?
+Tại thời điểm vào Đảng, người phải có độ tuổi từ bao nhiêu đến bao nhiêu?
+Để tham gia Đảng, người cần phải có độ tuổi như thế nào?
+quy định về độ tuổi để vào Đảng?
+Người vào Đảng cần đáp ứng yêu cầu về tuổi như thế nào?
+Đảng viên mới vào Đảng phải có độ tuổi bao nhiêu đến bao nhiêu?
+Tuổi của người xin vào Đảng cần đáp ứng điều kiện gì?
+Việc kết nạp vào Đảng đối với người dưới 18 tuổi có được xem xét không?
+Điều kiện tuổi của người vào Đảng được quy định như thế nào?
+Có quy định gì về độ tuổi của người vào Đảng tại thời điểm xét kết nạp?
+Tuổi đời của người vào Đảng được quy định như thế nào?
+Tại thời điểm chi bộ xét kết nạp, người vào Đảng phải đủ bao nhiêu tuổi đến bao nhiêu tuổi?
 
 #### Câu trả lời 31
 Căn cứ mục 1 Quy định sô" 24-QD/TW. ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
@@ -1060,6 +1177,9 @@ Căn cứ mục 1 Quy định sô" 24-QD/TW. ngày 30/7/2021 của Ban Chấp h�
 
 question | 
 --- |
+Người vào đảng học lớp mấy?
+Học hết lớp 9 có được vào đảng không?
+Quy định trình học của người vào đảng là lớp mấy?
 
 #### Câu trả lời 32
 Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
