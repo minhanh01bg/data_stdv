@@ -2,8 +2,8 @@
 # Data_new
 ### Topic 1: Đảng viên có những nhiệm vụ gì?
 
-question | 
---- |
+#### question  
+
 ```md
 Các nhiệm vụ của đảng viên?
 Nhiệm vụ của đảng viên gồm những gì?
@@ -31,8 +31,8 @@ Theo quy định tại Điều lệ Đảng Cộng sản Việt Nam:
 
 ### Topic 2: Đảng viên có những quyền gì?
 
-question | 
---- |
+#### question  
+
 ```md
 Các quyền của đảng viên?
 Đảng viên có quyền gì?
@@ -61,8 +61,8 @@ Khi tổ chức đảng quyết định về công tác hoặc kỷ luật đả
 
 ### Topic 3: Nhiệm vụ của tổ chức cơ sở đảng là gì? 
 
-question | 
---- |
+#### question  
+
 ```md
 Nhiệm vụ của tổ chức cơ sở đảng là gì? 
 Những nhiệm vụ của tổ chức cơ sở đảng?
@@ -93,8 +93,8 @@ Theo quy định của Điều lệ Đảng Cộng sản Việt Nam:
 
 ### Topic 4: Những nội dung cơ bản của nguyên tắc tập trung dân chủ?
 
-question | 
---- |
+#### question  
+
 ```md
 Những nội dung cơ bản của nguyên tắc tập trung dân chủ?
 Nguyên tắc tập trung dân chủ có những nội dung gì?
@@ -126,8 +126,8 @@ Nội dung cơ bản của nguyên tắc tập trung dân chủ theo quy định
 
 ### Topic 5: Nội dung phát thẻ và quản lý thẻ đảng viên được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Nội dung phát thẻ và quản lý thẻ đảng viên được quy định như thế nào?
 Quy định về phát thẻ và quản lý thẻ đảng viên?
@@ -165,8 +165,8 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 ### Topic 6: Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Nội dung quản lý hồ sơ đảng viên được quy định như thế nào?
 Hồ sơ đảng viên được quản lý như thế nào?
@@ -208,8 +208,8 @@ Ban Tổ chức Trung ương giúp Trung ương hướng dẫn, kiểm tra việ
 
 ### Topic 7: Những đảng viên nào được miễn công tác và sinh hoạt đảng?
 
-question | 
---- |
+#### question  
+
 ```md
 Trường hợp nào đảng viên được miễn công tác và sinh hoạt đảng?
 Đảng viên được miễn công tác và sinh hoạt đảng trong trường hợp nào?
@@ -238,8 +238,8 @@ Theo Quy định của Đảng, việc miễn công tác và sinh hoạt đảng
 
 ### Topic 8: Quyền hạn và trách nhiệm của đảng viên được miễn công tác và sinh hoạt đảng?
 
-question | 
---- |
+#### question  
+
 ```md
 Quyền hạn và trách nhiệm của đảng viên được miễn công tác và sinh hoạt đảng?
 Đảng viên được miễn công tác và sinh hoạt có trách nhiệm gì?
@@ -269,8 +269,8 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 ### Topic 9: Việc xóa tên đảng viên được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Việc xóa tên đảng viên được quy định như thế nào?
 Quy định về việc xóa tên đảng viên?
@@ -305,8 +305,8 @@ Chi bộ xem xét, đề nghị cấp ủy có thẩm quyền quyết định x�
 
 ### Topic 10: Giải quyết khiếu nại về xóa tên đảng viên được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Giải quyết khiếu nại về xóa tên đảng viên được quy định như thế nào?
 Quy định giải quyết khiếu nại về việc xóa tên đảng viên?
@@ -336,8 +336,8 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 ### Topic 11: Nhiệm vụ của cấp ủy triệu tập đại hội được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Nhiệm vụ của cấp ủy triệu tập đại hội được quy định như thế nào?
 Quy định nhiệm vụ cấp ủy triệu tập đại hội.
@@ -367,8 +367,8 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 ### Topic 12: Hình thức khen thưởng trong Đảng được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Hình thức khen thưởng trong Đảng được quy định như thế nào?
 Quy định về các hình thức khen thưởng của Đảng?
@@ -406,8 +406,8 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 ### Topic 13: Thẩm quyền khen thưởng được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Thẩm quyền khen thưởng được quy định như thế nào?
 Quy định về thẩm quyền khen thưởng?
@@ -442,8 +442,8 @@ Theo Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ư
 
 ### Topic 14: Khen thưởng đối với tổ chức đảng được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Khen thưởng đối với tổ chức đảng được quy định như thế nào?
 Theo quy định, Khen thưởng đối với tổ chức đảng như thế nào?
@@ -496,8 +496,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 ### Topic 15: Khen thưởng đối với đảng viên được quy định như thế nào?
 # topic này có câu hỏi gần giống với câu 12
-question | 
---- |
+#### question  
+
 ```md
 Khen thưởng đối với đảng viên được quy định như thế nào?
 Đối với đảng viên việc khen thưởng được quy định như thế nào?
@@ -538,8 +538,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 ### Topic 16: Lý lịch của người vào Đảng phải bảo đảm những yêu cầu gì?
 
-question | 
---- |
+#### question  
+
 ```md
 Lý lịch của người vào Đảng phải bảo đảm những yêu cầu gì?
 Điều kiện đảm bảo về lý lịch của người vào Đảng gồm những gì?
@@ -580,8 +580,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư  hướng 
 
 ### Topic 17: Những người cần thẩm tra về lý lịch người vào Đảng gồm?
 # Trùng từ khóa lý lịch với câu 16
-question | 
---- |
+#### question  
+
 ```md
 Những người cần thẩm tra về lý lịch người vào Đảng gồm?
 Lý lịch người vào Đảng cần thẩm tra những ai?
@@ -617,8 +617,8 @@ Người vào Đảng. Cha, mẹ đẻ, cha, mẹ vợ (chồng) hoặc người
 
 ### Topic 18: Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì
 
-question | 
---- |
+#### question  
+
 ```md
 Nội dung thẩm tra, xác minh đối với người vào Đảng gồm những gì?
 Đối với người vào Đảng thì cần thẩm tra, xác minh những nội dung gì?
@@ -655,8 +655,8 @@ Khi thẩm tra và xác minh đối với người muốn gia nhập Đảng, c�
 
 ### Topic 19: Thủ tục xem xét kết nạp đảng viên gồm những nội dung gì?
 
-question | 
---- |
+#### question  
+
 ```md
 Thủ tục xem xét kết nạp đảng viên gồm những nội dung gì?
 Người kết nạp lại đảng cần xem xét thủ tục gì?
@@ -710,8 +710,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 ### Topic 20: Việc tổ chức lễ kết nạp đảng viên được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Việc tổ chức lễ kết nạp đảng viên được quy định như thế nào?
 Quy định tổ chức lễ kết nạp đảng viên?
@@ -770,8 +770,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 ### Topic 21: Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những nội dung gì?
 
-question | 
---- |
+#### question  
+
 ```md
 Hồ sơ đảng viên khi được kết nạp vào Đảng gồm những nội dung gì?
 Kết nạp đảng viên hồ sơ cần chuẩn bị những gì?
@@ -831,8 +831,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 20/9/2016 của Ban Bí thư hướng d
 
 ### Topic 22: Chỉ xem xét kết nạp vào Đảng những người trên 60 tuổi khi đủ các điều kiện nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Chỉ xem xét kết nạp vào Đảng những người trên 60 tuổi khi đủ các điều kiện nào?
 Người nào có thể được xem xét kết nạp vào Đảng khi đã trên 60 tuổi?
@@ -881,8 +881,8 @@ Có sức khoẻ và uy tín; đang công tác, cư trú ở cơ sở chưa có 
 
 ### Topic 23: Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên được quy định như thế nào?
 Kết nạp đảng viên đối với người đang học tập trung ở cơ sở đào tạo từ 12 tháng trở lên do tổ chức đảng nào xem xét?
@@ -928,8 +928,8 @@ Tổ chức đảng đơn vị cử đi học, đi công tác biệt phái và t
 
 ### Topic 24: Kết nạp đảng viên đối với người đã tốt nghiệp ra trường về địa phương chờ việc làm được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Kết nạp đảng viên đối với người đã tốt nghiệp ra trường về địa phương chờ việc làm được quy định như thế nào?
 Người đã tốt nghiệp ra trường và trở về địa phương chờ việc làm có thể được xem xét kết nạp đảng viên theo quy định nào?
@@ -973,8 +973,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư: Việc k�
 
 ### Topic 25: Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp được quy định như thế nào?
 Kết nạp đảng viên đối với người đang làm hợp đồng tại cơ quan, doanh nghiệp, đơn vị sự nghiệp do tổ chức đảng nào xem xét?
@@ -1016,8 +1016,8 @@ Theo Hướng dẫn số 01-HD/TW, ngày 28/9/2021 của Ban Bí thư:
 
 ### Topic 26: Các bước trong một buổi sinh hoạt chi bộ thường kỳ?
 
-question | 
---- |
+#### question  
+
 ```md
 Các bước trong một buổi sinh hoạt chi bộ thường kỳ?
 Buổi sinh hoạt chi bộ thường kỳ cần làm những bước gì?
@@ -1062,8 +1062,8 @@ Bí thư chi bộ thực hiện các nội dung chủ yếu sau:
 - Thông qua nghị quyết hoặc kết luận; đánh giá chất lượng buổi sinh hoạt; thư ký trình bày biên bản sinh hoạt chi bộ.
 ### Topic 27: Các bước trong một buổi sinh hoạt chi bộ theo chuyên đề?
 
-question |
---- |
+#### question 
+
 ```md
 Các bước trong một buổi sinh hoạt chi bộ theo chuyên đề?
 Buổi sinh hoạt chi bộ theo chuyên đề cần làm những bước gì?
@@ -1126,8 +1126,8 @@ Bí thư chi bộ đánh giá việc chuẩn bị, chất lượng của chuyên
 
 ### Topic 28: Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
 
-question | 
---- |
+#### question  
+
 ```md
 Các khung tiêu chí đánh giá để một buổi sinh hoạt chi bộ thường kỳ đạt chất lượng?
 Buổi sinh hoạt chi bộ thường kỳ đạt chất lượng là như thế nào?
@@ -1149,8 +1149,8 @@ Tổ chức sinh hoạt chi bộ
 
 ### Topic 29: Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
 
-question | 
---- |
+#### question  
+
 ```md
 Tiêu chí đánh giá Công tác chuẩn bị sinh hoạt chi bộ?
 Công tác chuẩn bị sinh hoạt chi bộ cần những tiêu chí gì?
@@ -1167,8 +1167,8 @@ Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trun
 
 ### Topic 30: Tiêu chí đánh giá tổ chức sinh hoạt chi bộ?
 
-question | 
---- |
+#### question  
+
 ```md
 Tiêu chí đánh giá tổ chức sinh hoạt chi bộ?
 Tổ chức sinh hoạt chi bộ cần những tiêu chí gì?
@@ -1184,8 +1184,8 @@ Theo Hướng dẫn số 12-HD/BTCTW, ngày 06/7/2018 của Ban Tổ chức Trun
 
 ### Topic 31: Tuổi đời của người vào Đảng được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Bao nhiêu tuổi được vào đảng?
 Quần chúng bao nhiêu tuổi được vào đảng?
@@ -1215,8 +1215,8 @@ Căn cứ mục 1 Quy định sô" 24-QD/TW. ngày 30/7/2021 của Ban Chấp h�
 
 ### Topic 32: Trình độ học vấn của người vào Đảng được quy định như thế nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Người vào đảng học lớp mấy?
 Học hết lớp 9 có được vào đảng không?
@@ -1269,8 +1269,8 @@ Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hà
 
 ### Topic 33:  Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú như thế nào?
 # Đã có trong tập dữ liệu cũ
-question | 
---- |
+#### question  
+
 ```md
 Trách nhiệm của đảng viên là gì
 Trách nhiệm của đảng viên đang công tác
@@ -1324,8 +1324,8 @@ Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về 
 
 ### Topic 34: Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
-question | 
---- |
+#### question  
+
 ```md
 Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
 Theo Quy định số 213, tổ chức cơ sở đảng cần thực hiện những nhiệm vụ và trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
@@ -1358,8 +1358,8 @@ Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đản
 
 ### Topic 35:  Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
-question | 
---- |
+#### question  
+
 ```md
 |Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
 |Theo Quy định số 213, đảng viên đang làm việc tại nơi cư trú cần thực hiện những nhiệm vụ gì để thể hiện tinh thần đảng và gắn kết với cộng đồng?
@@ -1393,8 +1393,8 @@ Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc tuyên
 
 ### Topic 36: Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
-question | 
---- |
+#### question  
+
 ```md
 | Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
 | Cấp ủy cơ sở theo Quy định số 213 cần thực hiện những nhiệm vụ gì để đảm bảo đảng viên đang công tác tại nơi cư trú thực hiện đầy đủ trách nhiệm của mình?
@@ -1420,8 +1420,8 @@ Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư t
 
 ### Topic 37: Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
-question | 
---- |
+#### question  
+
 ```md
 | Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
 | Cấp ủy xã, phường, thị trấn thực hiện nhiệm vụ gì để đảm bảo sự kết nối và giữ mối liên hệ chặt chẽ giữa đảng viên đang công tác cư trú và tổ chức đảng?
@@ -1454,8 +1454,8 @@ Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
 
 ### Topic 38: Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
 
-question | 
---- |
+#### question  
+
 ```md
 | Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
 | Điều kiện được miễn sinh hoạt nơi cư trú?
@@ -1487,8 +1487,8 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, Đi�
 
 ### Topic 39: Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
 
-question | 
---- |
+#### question  
+
 ```md
 Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
 Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt nào khiến họ được miễn giới thiệu về tổ chức đảng nơi cư trú?
@@ -1516,8 +1516,8 @@ Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 6
 
 ### Topic 40: Thẩm quyền xem xét, quyết định đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc được miễn giới thiệu về tổ chức đảng nơi cư trú?
 
-question | 
---- |
+#### question  
+
 ```md
 
 ```
@@ -1528,8 +1528,8 @@ question |
 
 ### Topic 41: Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 
-question | 
---- |
+#### question  
+
 ```md
 Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 | Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
@@ -1550,8 +1550,8 @@ Tuy nhiên, đảng viên đến thời điểm được xét tặng Huy hiệu 
 
 ### Topic 42:  Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
 
-question | 
---- |
+#### question  
+
 ```md
 Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
 Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
@@ -1575,8 +1575,8 @@ Căn cứ quy định trên, đảng viên được miễn sinh hoạt vi phạm
 
 # Câu 12 trong data cũ
 
-question | 
---- |
+#### question  
+
 ```md
 | Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
 | Chuyển sinh hoạt đảng
@@ -1597,8 +1597,8 @@ Như vậy, khi chuyển sinh hoạt đảng thì cấp ủy nơi đi làm thủ
 
 ### Topic 44: Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
 
-question |
---- |
+#### question 
+
 ```md
 Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
 Thời hạn khiếu nại kỷ luật đảng của đảng viên được quy định như thế nào?
