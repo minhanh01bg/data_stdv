@@ -1180,6 +1180,44 @@ question |
 Người vào đảng học lớp mấy?
 Học hết lớp 9 có được vào đảng không?
 Quy định trình học của người vào đảng là lớp mấy?
+Trình độ học vấn tối thiểu của người vào Đảng là gì?
+Người học hết lớp 9 có được kết nạp vào Đảng không?
+Học sinh lớp 9 có được kết nạp vào Đảng không?
+Người tốt nghiệp trung học cơ sở có được kết nạp vào Đảng không?
+Người tốt nghiệp trung cấp chuyên nghiệp có được kết nạp vào Đảng không?
+Người tốt nghiệp cao đẳng, đại học có được kết nạp vào Đảng không?
+Người tốt nghiệp thạc sĩ, tiến sĩ có được kết nạp vào Đảng không?
+Người có bằng tốt nghiệp trung học cơ sở trở lên có được kết nạp vào Đảng không?
+Học vấn của người vào Đảng được quy định như thế nào?
+Người vào Đảng được miễn yêu cầu về trình độ học vấn trong trường hợp nào?
+Người vào Đảng được miễn yêu cầu về trình độ học vấn ở đâu?
+Người vào Đảng được miễn yêu cầu về trình độ học vấn như thế nào?
+Học vấn của người vào Đảng có vai trò như thế nào đối với việc kết nạp vào Đảng?
+Đảng viên cần làm gì để nâng cao trình độ học vấn?
+Cấp ủy cần làm gì để tạo điều kiện cho đảng viên nâng cao trình độ học vấn?
+Những khó khăn, vướng mắc trong việc nâng cao trình độ học vấn của đảng viên là gì?
+Giải pháp khắc phục những khó khăn, vướng mắc trong việc nâng cao trình độ học vấn của đảng viên là gì?
+Trình độ học vấn của đảng viên có mối quan hệ như thế nào với chất lượng sinh hoạt đảng?
+Trình độ học vấn của đảng viên có mối quan hệ như thế nào với việc thực hiện nhiệm vụ của đảng viên?
+Trình độ học vấn của đảng viên có mối quan hệ như thế nào với việc xây dựng Đảng trong sạch, vững mạnh?
+Người vào Đảng cần phải học lớp nào trở lên?
+Quy định học vấn của người vào Đảng là gì?
+Người vào Đảng cần phải có trình độ học vấn như thế nào?
+Ai được xem xét vào Đảng dựa trên trình độ học vấn?
+Học vấn yêu cầu của người vào Đảng là gì?
+Trình độ học vấn cần có để vào Đảng là gì?
+Ai không cần đáp ứng yêu cầu về học vấn để vào Đảng?
+Người vào Đảng cần phải học tới lớp mấy?
+Học vấn của người vào Đảng được quy định như thế nào?
+Điều kiện học vấn của người vào Đảng là gì?
+Người vào Đảng cần phải có bằng tốt nghiệp trình độ học vấn nào?
+Người vào Đảng cần phải có học vấn tương đương với trình độ nào?
+Quy định về trình độ học vấn của người vào Đảng như thế nào?
+Điều kiện về học vấn để vào Đảng được quy định ra sao?
+Trình độ học vấn cần có để vào Đảng là gì?
+Người vào Đảng cần phải tốt nghiệp lớp nào trở lên?
+Học vấn yêu cầu của người vào Đảng đang sống ở các vùng đặc biệt khó khăn như thế nào?
+Trình độ học vấn của người vào Đảng cần thỏa mãn điều kiện gì?
 
 #### Câu trả lời 32
 Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hành Trung ương Đảng khóa XIII về thi hành Điều lệ Đảng, tuổi đời và trình độ học vấn của người vào Đảng được quy định như sau:
@@ -1188,82 +1226,365 @@ Căn cứ mục 1 Quy định sô" 24-QD/TW ngày 30/7/2021 của Ban Chấp hà
 + Học vấn của ngưòi vào Đảng đang sinh sống ồ miền núi, hải đảo, vùng đồng bào dân tộc thiểu sô' vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và những trưòng hợp cụ thể khác do yêu cầu phát triển đảng mà không bảo đảm được quy định chung thì thực hiện theo hướng dẫn của Ban Bí thư.
 
 
-### Topic :  Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú như thế nào?
+### Topic 33:  Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú như thế nào?
 # Đã có trong tập dữ liệu cũ
 question | 
 --- |
+Trách nhiệm của đảng viên là gì
+Trách nhiệm của đảng viên đang công tác
+Trách nhiệm của đảng viên đang công tác ở các cơ quan
+Trách nhiệm của đảng viên đang công tác ở các doanh nghiệp
+Trách nhiệm của đảng viên đang công tác ở các đơn vị sự nghiệp, lực lượng vũ trang.
+Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng như thế nào?
+Trách nhiệm của đảng viên đang công tác xuyên giữ mối liện hệ với nhân dân nơi cư chú như thế nào?
+Trách nhiệm của đảng viên xuyên giữ mối liên hệ với nhân dân nơi cư trú như thế nào?
+Trách nhiệm của đảng viên xuyên giữ mối liên hệ với nhân dân nơi cư trú?
+Trách nhiệm của đảng viên xuyên giữ mối liên hệ với với tổ chức đảng?
+Trách nhiệm của đảng viên tại nơi đang cư trú
+Trách nhiệm của đảng viên tại nơi ở
+Trách nhiệm của đảng viên tại khu vực sống
+Trách nhiệm của đảng viên đang công tác với nhân dân ở khu vực
+Trách nhiệm của đảng viên ở khu vực đang công tác
+Trách nhiệm của đảng viên tại nơi đang công tác
+Trách nhiệm của đảng viên tại khu vực đang công tác
+Trách nhiệm của đảng viên với tổ chức đảng
+Trách nhiệm của đảng viên đang công tác với tổ chức đảng
+Đảng viên phải thực hiện những biện pháp gì để duy trì liên hệ mạnh mẽ với tổ chức đảng tại nơi cư trú?
+Trong bối cảnh thay đổi nhanh chóng của xã hội, làm thế nào đảng viên có thể đảm bảo liên kết vững chắc với nhân dân tại địa phương?
+Đảng viên cần tham gia vào những hoạt động gì để tăng cường sự hiểu biết về quan điểm và chính sách của đảng trong cộng đồng?
+Làm thế nào đảng viên có thể thúc đẩy tinh thần tương tác và giao lưu giữa đảng và nhân dân tại nơi cư trú?
+Trong trường hợp xảy ra sự không đồng tình về một chính sách hoặc quyết định của đảng, đảng viên nên tiếp cận vấn đề đó như thế nào khi trò chuyện với nhân dân?
+Đảng viên cần chủ động tham gia vào các dự án và hoạt động cộng đồng để thể hiện tinh thần đảng và sự quan tâm tới nhân dân, đúng không?
+Làm thế nào đảng viên có thể thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng tại nơi cư trú?
+Trách nhiệm gì đảng viên phải thực hiện để thường xuyên cập nhật tin tức và thông tin từ tổ chức đảng trung ương?
+Khi tổ chức đảng có chính sách mới, đảng viên phải thực hiện các biện pháp gì để giới thiệu và giải thích cho nhân dân tại địa phương?
+Làm thế nào đảng viên có thể thúc đẩy tinh thần tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
+Trong trường hợp có thông tin sai lệch hoặc tin đồn xoay quanh đảng, đảng viên cần thực hiện gì để làm rõ thông tin cho nhân dân?
+Trách nhiệm của đảng viên là gì khi cần phải tham gia vào việc thúc đẩy các hoạt động giáo dục chính trị tại địa phương?
+Làm thế nào đảng viên có thể giúp đỡ nhân dân trong việc tham gia vào các hoạt động kinh tế - xã hội tại địa phương?
+Đảng viên cần thực hiện những biện pháp gì để đảm bảo thông tin từ cấp trung ương được truyền đạt đúng và đầy đủ tới cơ sở?
+Trong trường hợp mâu thuẫn xảy ra giữa các nhóm trong cộng đồng, làm thế nào đảng viên có thể hòa giải và tạo cầu nối để giải quyết vấn đề?
+Trách nhiệm của đảng viên là gì trong việc đảm bảo tôn trọng và thực hiện chính sách về đa dạng văn hóa tại địa phương?
+Làm thế nào đảng viên có thể tham gia vào việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng tại địa phương?
+Khi tổ chức đảng đặt ra các mục tiêu quan trọng, làm thế nào đảng viên có thể hỗ trợ trong việc thực hiện và đạt được những mục tiêu đó?
+Trách nhiệm gì của đảng viên đối với việc quản lý và sử dụng thông tin một cách chính xác khi tương tác với nhân dân?
+Đảng viên cần thực hiện những biện pháp gì để thúc đẩy tinh thần hợp tác và sự phối hợp hiệu quả giữa các tổ chức và đơn vị trong cộng đồng?
+Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú như thế nào?
+Trách nhiệm của đảng viên nơi cư trú?
+Trách nhiệm của đảng viên đang công tác  giữ mối liên hệ như thế nào?
+Trách nhiệm của đảng viên đang công tác xuyên giữ mối liện hệ với nhân dân nơi cư chú như thế nào?
+Trách nhiệm của đảng viên tại nơi ở?
 
-#### Câu trả lời
+#### Câu trả lời 33
+Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về trách nhiệm của đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú:
+Đảng viên đang công tác ở các cơ quan, doanh nghiệp, đơn vị sự nghiệp, lực lượng vũ trang (gọi tắt là đảng viên đang công tác) vừa thực hiện quy định của Điều lệ Đảng về sinh hoạt đảng tại nơi làm việc, vừa có trách nhiệm thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú; gần gũi, gắn bó với nhân dân; khắc phục những biểu hiện sống xa dân, thiếu trách nhiệm trong các công việc của nhân dân nơi cư trú; củng cố mối quan hệ mật thiết giữa Đảng với nhân dân; nêu cao vai trò, trách nhiệm của người đảng viên trong xây dựng Đảng, xây dựng hệ thống chính trị cơ sở.
 
-### Topic: Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
+
+### Topic 34: Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
+Theo Quy định số 213, tổ chức cơ sở đảng cần thực hiện những nhiệm vụ và trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
+Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
+Theo Quy định số 213, tổ chức cơ sở đảng cần có những trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
+Làm thế nào tổ chức cơ sở đảng có thể duy trì và tăng cường mối liên hệ với đảng cấp trên theo Quy định số 213?
+Trách nhiệm gì của tổ chức cơ sở đảng trong việc thực hiện và truyền đạt chính sách, quyết định của đảng tại cơ sở?
+Trách nhiệm của đảng để thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng?
+Làm thế nào tổ chức cơ sở đảng có thể thúc đẩy tinh thần tương tác và giao lưu giữa các đảng viên trong cộng đồng?
+Theo Quy định số 213, tổ chức cơ sở đảng cần có vai trò gì trong việc tạo điều kiện cho đảng viên tham gia các hoạt động giáo dục chính trị?
+Trong trường hợp có sự không đồng tình về chính sách hoặc quyết định của đảng, tổ chức cơ sở đảng cần thực hiện gì để giải quyết tình hình?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc tuyên truyền về thành tựu và mục tiêu của đảng tại địa phương?
+Trách nhiệm của tổ chức cơ sở đảng là gì trong việc đảm bảo đảng viên tham gia tích cực và hiệu quả vào các hoạt động cộng đồng?
+Để duy trì tính đoàn kết và tương tác trong tổ chức, làm thế nào tổ chức cơ sở đảng có thể tổ chức các sự kiện và hoạt động giao lưu?
+Theo Quy định số 213, tổ chức cơ sở đảng có trách nhiệm nắm bắt thông tin từ đảng cấp trên và truyền đạt thông tin gì tới đảng viên?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc thúc đẩy các hoạt động kinh tế - xã hội tại địa phương?
+Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tạo điều kiện thuận lợi để nhân dân tham gia vào các hoạt động chính trị?
+ơ sở đảng cần thực hiện những biện pháp gì?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo đa dạng văn hóa và tôn trọng quyền lợi của các tầng lớp nhân dân?
+Trách nhiệm gì của tổ chức cơ sở đảng đối với việc thúc đẩy tinh thần hợp tác và sự phối hợp giữa các tổ chức và đơn vị trong cộng đồng?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo an ninh, trật tự và ổn định xã hội tại địa phương?
+Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tham gia vào quản lý và sử dụng thông tin chính xác khi tương tác với nhân dân?
+Để thúc đẩy tinh thần tương tác và giao lưu giữa các tổ chức cơ sở đảng khác nhau, làm thế nào tổ chức này có thể tạo điều kiện thuận lợi?
+Theo Quy định số 213, tổ chức cơ sở đảng cần có trách nhiệm gì đối với việc đảm bảo tuân thủ nguyên tắc dân chủ trong hoạt động của mình?
+Trách nhiệm của tổ chức cơ sở đảng là gì
 
-#### Câu trả lời
+#### Câu trả lời 34
+Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đảng viên cư trú có trách nhiệm tạo điều kiện cho đảng viên đang công tác thực hiện trách nhiệm, nhiệm vụ nơi cư trú, đồng thời kiểm tra, giám sát, nhận xét, đánh giá việc thực hiện của đảng viên.
 
-### Topic:  Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
+
+### Topic 35:  Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+|Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
+|Theo Quy định số 213, đảng viên đang làm việc tại nơi cư trú cần thực hiện những nhiệm vụ gì để thể hiện tinh thần đảng và gắn kết với cộng đồng?
+|Nhiệm vụ chính của đảng viên tại nơi cư trú theo Quy định số 213 là gì trong việc duy trì và thúc đẩy liên hệ với tổ chức đảng và cộng đồng?
+|Trách nhiệm của đảng viên tại nơi cư trú là gì khi cần phải thực hiện việc giới thiệu và thảo luận về các chính sách mới từ tổ chức đảng trung ương?
+|Làm thế nào đảng viên có thể thúc đẩy tinh thần đoàn kết và sự gắn kết trong các hoạt động cộng đồng tại nơi cư trú theo Quy định số 213?
+|Nhiệm vụ của đảng viên là gì khi tham gia vào việc tổ chức và thúc đẩy các hoạt động giáo dục chính trị tại địa phương theo Quy định số 213?
+|Làm thế nào đảng viên có thể hỗ trợ cộng đồng trong việc tham gia vào các hoạt động kinh tế - xã hội và giải quyết vấn đề tại nơi cư trú?
+|Trách nhiệm gì của đảng viên theo Quy định số 213 đối với việc thường xuyên cập nhật thông tin từ tổ chức đảng trung ương?
+|Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng đối với cộng đồng?
+|Khi tổ chức đảng đặt ra các mục tiêu quan trọng, đảng viên cần thực hiện những biện pháp gì để đóng góp vào việc thực hiện những mục tiêu đó?
+|Trách nhiệm của đảng viên tại nơi cư trú là gì khi tham gia vào việc quản lý và sử dụng thông tin một cách chính xác khi tương tác với cộng đồng?
+|Nhiệm vụ của đảng viên theo Quy định số 213 đối với việc đảm bảo tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
+|Trách nhiệm của đảng viên tại nơi cư trú là gì trong việc thúc đẩy tinh thần tương tác và giao lưu giữa đảng và nhân dân tại địa phương?
+|Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc thúc đẩy tinh thần tương tác và sự phối hợp hiệu quả giữa các tổ chức và đơn vị trong cộng đồng?
+Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
+Theo Quy định số 213, đảng viên đang làm việc tại nơi cư trú cần thực hiện những nhiệm vụ gì để thể hiện tinh thần đảng và gắn kết với cộng đồng?
+Nhiệm vụ chính của đảng viên tại nơi cư trú theo Quy định số 213 là gì trong việc duy trì và thúc đẩy liên hệ với tổ chức đảng và cộng đồng?
+Trách nhiệm của đảng viên tại nơi cư trú là gì khi cần phải thực hiện việc giới thiệu và thảo luận về các chính sách mới từ tổ chức đảng trung ương?
+Nhiệm vụ của đảng viên tại nơi cư trú là gì trong việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng đối với cộng đồng?
 
-#### Câu trả lời
+#### Câu trả lời 35
+1. Nêu gương về phẩm chất chính trị, đạo đức, lối sống và vai trò tiền phong, gương mẫu của người cán bộ, đảng viên trước nhân dân nơi cư trú.
+2. Gương mẫu thực hiện nghĩa vụ công dân; tuyên truyền, vận động gia đình và nhân dân trên địa bàn dân cư thực hiện các chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước và các quy định của địa phương nơi cư trú.
+3. Tham gia đầy đủ, nghiêm túc các cuộc họp định kỳ và tích cực tham gia các cuộc họp khác do cấp ủy nơi cư trú triệu tập. Tích cực tham gia góp ý kiến với chi ủy, chi bộ, đảng ủy cơ sở nơi cư trú về các công việc chung của địa phương, nhất là những vấn đề bức xúc ở thôn, bản, tổ dân phố.
+4. Tham gia các cuộc họp của nhân dân nơi cư trú; thường xuyên giữ mối liên hệ với chi ủy, trưởng thôn, bản, tổ trưởng dân phố, ban công tác mặt trận nơi cư trú để nắm bắt tình hình nhân dân; phản ánh những ý kiến của nhân dân tới cơ quan có thẩm quyền.
+5. Tuyên truyền, vận động nhân dân tham gia góp ý xây dựng Đảng, xây dựng chính quyền ở cơ sở, giám sát cán bộ, đảng viên trong việc tu dưỡng, rèn luyện đạo đức, lối sống và thực hiện trách nhiệm nêu gương.
+6. Tham gia và vận động các thành viên trong gia đình tham gia các cuộc vận động, các phong trào thi đua do địa phương phát động. Vận động gia đình và nhân dân xây dựng mối quan hệ gắn bó đoàn kết, xây dựng đời sống văn hoá ở khu dân cư.
+7. Báo cáo kết quả thực hiện các nhiệm vụ tại Điều 2 Quy định này với chi ủy nơi công tác vào dịp kiểm điểm, đánh giá đảng viên hằng năm. Kịp thời báo cáo với chi ủy nơi công tác và nơi cư trú khi chuyển sang nơi cư trú khác.
 
-### Topic: Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
+
+### Topic 36: Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+| Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác theo Quy định số 213?
+| Cấp ủy cơ sở theo Quy định số 213 cần thực hiện những nhiệm vụ gì để đảm bảo đảng viên đang công tác tại nơi cư trú thực hiện đầy đủ trách nhiệm của mình?
+| Nhiệm vụ chính của cấp ủy cơ sở là gì trong việc thúc đẩy việc tuyên truyền và giải thích về quan điểm, chính sách của đảng cho đảng viên tại địa phương?
+| Cấp ủy cơ sở cần thực hiện những biện pháp gì để thúc đẩy tinh thần đoàn kết và gắn kết trong các hoạt động cộng đồng tại nơi cư trú?
+| Nhiệm vụ chính của cấp ủy cơ sở trong việc hỗ trợ đảng viên tham gia vào các hoạt động kinh tế - xã hội và giải quyết vấn đề tại địa phương là gì?
+| Nhiệm vụ của cấp ủy cơ sở là gì trong việc thúc đẩy việc thực hiện chính sách về đa dạng văn hóa và tôn trọng các giá trị địa phương?
+| Nhiệm vụ chính của cấp ủy cơ sở là gì trong việc đảm bảo tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
+| Nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác
+| Theo quy định số 213, nhiệm vụ của cấp ủy cơ sở nơi đảng viên đang công tác là gì
+| Nhiệm vụ của cấp ủy cơ sở là gì
+| Theo quy định 213, Nhiệm vụ của cấp ủy cơ sở là gì
+| Nhiệm vụ của cấp ủy cơ sở
+#### Câu trả lời 36
+1. Chỉ đạo chi ủy, chi bộ trực thuộc lập danh sách đảng viên theo nơi cư trú và chủ động liên hệ với đảng ủy cơ sở và chi ủy, chi bộ nơi đảng viên cư trú để giới thiệu đảng viên về sinh hoạt, thường xuyên giữ mối liên hệ với chi ủy và nhân dân nơi cư trú theo đúng quy định.
+Thông báo bằng văn bản với cấp ủy cơ sở nơi đảng viên cư trú được biết về những đảng viên của đơn vị mình thường xuyên đi công tác xa nơi cư trú, lưu động hoặc có công tác đặc biệt để phối hợp tạo điều kiện cho đảng viên thực hiện nhiệm vụ nơi cư trú khi đảng viên đó có điều kiện.
+2. Kịp thời thông báo cho chi ủy, chi bộ, đảng ủy cơ sở nơi đảng viên cư trú biết về số đảng viên đã được giới thiệu về sinh hoạt nơi cư trú có sự thay đổi vị trí, chuyển công tác hoặc bị khai trừ, xoá tên khỏi danh sách đảng viên hoặc đã xin ra khỏi Đảng.
+3. Chủ trì, phối hợp với cấp ủy cơ sở nơi đảng viên cư trú kiểm tra, giám sát đảng viên thực hiện nhiệm vụ nơi cư trú; biểu dương những đảng viên thực hiện tốt và nhắc nhở, phê bình hoặc xem xét xử lý theo quy định đối với những đảng viên chưa thực hiện nghiêm túc Quy định này.
+4. Định kỳ hằng năm tổ chức lấy ý kiến nhận xét của chi ủy, chi bộ đối với đảng viên của mình thực hiện nhiệm vụ nơi cư trú. Cử đại diện cấp ủy gặp gỡ, trao đổi với cấp ủy nơi đảng viên cư trú để nắm tình hình và lấy ý kiến nhận xét trước khi bổ nhiệm, giới thiệu ứng cử hoặc khi đảng viên cho rằng việc nhận xét của nơi cư trú chưa khách quan.
+5. Thông báo cho đảng viên biết về ý kiến nhận xét, đánh giá của cấp ủy nơi cư trú tại cuộc họp kiểm điểm, đánh giá cuối năm hoặc khi cần thiết.
 
-#### Câu trả lời
 
-### Topic: Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
+### Topic 37: Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
 # đã có trong tập dữ liệu cũ
 question | 
 --- |
+| Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
+| Cấp ủy xã, phường, thị trấn thực hiện nhiệm vụ gì để đảm bảo sự kết nối và giữ mối liên hệ chặt chẽ giữa đảng viên đang công tác cư trú và tổ chức đảng?
+| Làm thế nào cấp ủy xã, phường, thị trấn tạo điều kiện cho việc họp đảng viên đang công tác cư trú để thông báo tình hình và tham gia góp ý vào các vấn đề quan trọng? 
+| Nhiệm vụ chính của cấp ủy xã, phường, thị trấn trong việc kiểm tra và giám sát đảng viên đang công tác cư trú là gì?
+|Làm thế nào cấp ủy xã, phường, thị trấn đảm bảo rằng đảng viên đang công tác cư trú thực hiện đầy đủ và hiệu quả nhiệm vụ của mình?
+| Đảng ủy xã, phường, thị trấn có nhiệm vụ gì trong việc đánh giá thành tích của đảng viên đang công tác?
+| Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú là gì
+| Nhiệm vụ của tổ chức đảng đổi với đảng viên đang công tác
+| Theo quy định 213, Nhiệm vụ của tổ chức đảng là gì đối với đảng viên đang công tác cư trú
+| Nhiệm vụ của tổ chức đảng
+| Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác
+| Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
+| Khi đảng viên đang công tác cư trú có thành tích xuất sắc, cấp ủy xã, phường, thị trấn thực hiện những nhiệm vụ gì để biểu dương và khen thưởng?
+Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú theo Quy định số 213?
+Cấp ủy xã, phường, thị trấn thực hiện nhiệm vụ gì để đảm bảo sự kết nối và giữ mối liên hệ chặt chẽ giữa đảng viên đang công tác cư trú và tổ chức đảng?
+Làm thế nào cấp ủy xã, phường, thị trấn tạo điều kiện cho việc họp đảng viên đang công tác cư trú để thông báo tình hình và tham gia góp ý vào các vấn đề quan trọng?
+Đảng ủy xã, phường, thị trấn có nhiệm vụ gì trong việc đánh giá thành tích của đảng viên đang công tác?
+Nhiệm vụ của tổ chức đảng nơi đảng viên đang công tác cư trú là gì
+Nhiệm vụ của tổ chức đảng nơi đảng viên cư trú
 
-#### Câu trả lời
+#### Câu trả lời 37
+1. Đảng ủy xã, phường, thị trấn tiếp nhận và lập danh sách đảng viên đang công tác được giới thiệu về sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở địa phương mình; giới thiệu về cho các chi ủy, chi bộ thôn, bản, khối phố.
+2. Chi bộ thôn, bản, khu dân cư tiếp nhận và lập danh sách đảng viên đang công tác tham gia sinh hoạt, giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú ở đơn vị mình và thông báo cho từng đảng viên biết để liên hệ trong việc thực hiện nhiệm vụ đảng viên nơi cư trú; đồng thời, tạo điều kiện cho đảng viên thực hiện nhiệm vụ.
+3. Định kỳ 6 tháng hoặc khi cần thiết, đảng ủy xã, phường, thị trấn chỉ đạo chi ủy, chi bộ trực thuộc tổ chức họp đảng viên đang công tác cư trú trên địa bàn để thông báo tình hình, nhiệm vụ của địa phương hoặc chuyên đề cần tham khảo ý kiến đảng viên đang công tác để đảng viên nắm được thông tin, tham gia góp ý kiến.
+4. Định kỳ hằng năm, chi ủy hoặc bí thư chi bộ (nơi không có chi ủy) họp với ban công tác mặt trận thôn, bản, khu dân cư để nhận xét từng đảng viên đang công tác thực hiện nhiệm vụ nơi cư trú trên địa bàn mình theo phiếu nhận xét và gửi về đảng ủy xã, phường, thị trấn. Đề xuất với đảng ủy xã, phường, thị trấn biểu dương, khen thưởng những đảng viên đang công tác có thành tích xuất sắc trong thực hiện nhiệm vụ đảng viên nơi cư trú. Kịp thời phản ánh với đảng ủy xã, phường, thị trấn và cấp ủy nơi đảng viên đang công tác khi đảng viên có hành vi vi phạm pháp luật; thiếu trách nhiệm nêu gương; vi phạm nghiêm trọng nội quy, quy định của địa phương hoặc chưa chấp hành tốt Quy định này.
+5. Đảng ủy xã, phường, thị trấn xác nhận phiếu nhận xét của chi ủy, chi bộ nơi cư trú đối với đảng viên đang công tác và gửi cho đảng ủy cơ sở nơi đảng viên công tác. Biểu dương, khen thưởng hoặc đề nghị cấp ủy cơ sở nơi đảng viên công tác biểu dương, khen thưởng những đảng viên có thành tích xuất sắc trong thực hiện nhiệm vụ đảng viên nơi cư trú. Đề nghị cấp ủy cơ sở nơi đảng viên công tác xem xét xử lý theo quy định đối với những đảng viên chưa thực hiện tốt.
+6. Khi có yêu cầu của cấp ủy nơi đảng viên công tác, đảng ủy xã, phường, thị trấn phối hợp kiểm tra, giám sát đối với đảng viên đang công tác thực hiện nhiệm vụ nơi cư trú.
 
-### Topic: Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
+
+### Topic 38: Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
+
+question | 
+--- |
+| Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
+| Điều kiện được miễn sinh hoạt nơi cư trú?
+| Trong những trường hợp nào đảng viên được miễn sinh hoạt nơi cư trú?
+| Điều kiện nào khiến đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân được miễn sinh hoạt tại nơi cư trú?
+| Đảng viên công tác tại cơ quan, đơn vị nhưng thường xuyên làm việc xa nơi cư trú có thể được miễn sinh hoạt tại nơi cư trú trong trường hợp nào?
+| Ai là những đảng viên được miễn sinh hoạt tại nơi cư trú trong trường hợp học tập trung trên 12 tháng trong năm?
+| Đảng viên là học sinh, sinh viên thường xuyên đi học xa nhà mà không thường xuyên về nơi cư trú có được miễn sinh hoạt tại nơi cư trú không?
+| Khi đảng viên đang công tác xa nhà hoặc lưu động, họ có cần thực hiện bất kỳ trách nhiệm nào liên quan đến sinh hoạt tại nơi cư trú?
+| Miễn sinh hoạt nơi cư trú
+| Trong trường hợp đảng viên tham gia học tập trung trên 12 tháng, liệu họ có được miễn nhận xét định kỳ hằng năm?
+| Đảng viên công tác tại các doanh nghiệp thường xuyên đi làm việc xa nơi cư trú, liệu họ cần tham gia sinh hoạt đảng tại nơi cư trú không?
+| Đảng viên đang công tác tại địa phương khác nhau hoặc có công việc di chuyển liên tục có được miễn nhận xét định kỳ hằng năm?
+| Khi đảng viên là cán bộ, công chức đi học tập trung 12 tháng trong năm, liệu họ cần tham gia sinh hoạt đảng tại nơi cư trú không?
+| Nếu đảng viên đang công tác xa nơi cư trú, liệu họ còn có trách nhiệm tham gia vào các hoạt động xã hội tại nơi cư trú không?
+| Đảng viên đang công tác tại doanh nghiệp có luân chuyển thường xuyên giữa các địa điểm, liệu họ còn phải thực hiện trách nhiệm tại nơi cư trú không?
+| Khi đảng viên thường xuyên làm việc tại các địa điểm khác nhau, liệu cấp ủy xã, phường, thị trấn có thể miễn nhận xét định kỳ hằng năm cho họ?
+Đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú trong những trường hợp nào?
+Điều kiện được miễn sinh hoạt nơi cư trú?
+Trong những trường hợp nào đảng viên được miễn sinh hoạt nơi cư trú?
+
+#### Câu trả lời 38
+Theo Hướng dẫn số 33-HD/BTCTW, ngày 30/10/2020 của Ban Tổ chức Trung ương hướng dẫn thực hiện một số nội dung trong Quy định số 213:
+- Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân do điều kiện công tác xa nhà hoặc do yêu cầu, nhiệm vụ phải ở tập trung tại doanh trại, nhà công vụ ngoài giờ làm việc hằng ngày không thường xuyên về nơi cư trú.
+- Đảng viên công tác tại một số cơ quan, đơn vị trong nước, các loại hình doanh nghiệp nhưng thường xuyên đi làm việc xa nơi cư trú, lưu động; đảng viên là cán bộ điều động, luân chuyển ở nhà công vụ, tập thể cơ quan không thường xuyên về nơi cư trú.
+- Đảng viên là cán bộ, công chức, viên chức đi học tập trung 12 tháng trong năm; đảng viên là học sinh, sinh viên đi học xa nhà không thường xuyên về nơi cư trú.
+Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, Điều 1 và nhiệm vụ tại Khoản 1, 2, 5, 6, 7, Điều 2 Quy định 213. Không lấy ý kiến nhận xét định kỳ hằng năm; chỉ lấy ý kiến nhận xét khi cần thiết (thực hiện quy trình công tác cán bộ, khen thưởng, kỷ luật...).
+
+
+### Topic 39: Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
+
+question | 
+--- |
+Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
+Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt nào khiến họ được miễn giới thiệu về tổ chức đảng nơi cư trú?
+Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú?
+Điều kiện Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú?
+| Đảng viên đang công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt nào khiến họ được miễn giới thiệu về tổ chức đảng nơi cư trú?
+| Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú
+| Điều kiện Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú
+| Trong trường hợp nào Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú
+| Khi đảng viên đang công tác tại vùng biên giới, hải đảo hoặc các vùng sâu, xa, liệu họ cần phải giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Điều gì khiến đảng viên đang công tác tại các cơ quan ngoại giao, văn phòng đại diện, đơn vị kinh tế ở nước ngoài được miễn giới thiệu về tổ chức đảng tại nơi cư trú?
+| Đảng viên tham gia lực lượng gìn giữ hòa bình của Liên Hợp Quốc có cần tham gia giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Trong trường hợp đảng viên ra nước ngoài lao động, làm việc, học tập 12 tháng, liệu họ còn cần phải thực hiện việc giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Đảng viên đang công tác mắc bệnh cần điều trị hoặc dưỡng bệnh liên tục trong 12 tháng có thể được miễn giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Đảng viên ở các đơn vị quân sự thường trực sẵn sàng chiến đấu có được miễn giới thiệu về tổ chức đảng tại nơi cư trú không?
+| Đảng viên đang công tác ở vùng biên giới, hải đảo có trách nhiệm gì liên quan đến việc duy trì liên hệ với tổ chức đảng tại nơi cư trú?
+
+
+#### Câu trả lời 39
+ `-Đảng viên công tác trong Quân đội nhân dân và Công an nhân dân thực hiện nhiệm vụ đặc biệt, phải giữ bí mật về nhân thân; đảng viên ở các đơn vị thường trực sẵn sàng chiến đấu.
+- Đảng viên đang công tác ở vùng sâu, vùng xa, nơi biên giới, hải đảo do yêu cầu nhiệm vụ hằng năm không thường xuyên về nơi cư trú.
+- Đảng viên đang công tác tại các cơ quan ngoại giao, văn phòng đại diện, đơn vị kinh tế ở ngoài nước; đảng viên tham gia lực lượng gìn giữ hòa bình của Liên Hợp Quốc; đảng viên ra ngoài nước lao động, làm việc, học tập 12 tháng trong năm.
+- Đảng viên đang công tác nhưng mắc bệnh phải điều trị hoặc dưỡng bệnh 12 tháng liên tục trong năm.
+Các đảng viên nêu trên thực hiện trách nhiệm tại Khoản 1, 2, 6, Điều 2 Quy định 213
+
+### Topic 40: Thẩm quyền xem xét, quyết định đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc được miễn giới thiệu về tổ chức đảng nơi cư trú?
 
 question | 
 --- |
 
-#### Câu trả lời
+#### Câu trả lời 40
+Đảng ủy cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trên cơ sở đề nghị của chi bộ nơi đảng viên đang công tác, học tập.
+- Chi bộ cơ sở xem xét, quyết định từng đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú.
 
-### Topic: Đảng viên được miễn giới thiệu về tổ chức đảng nơi cư trú trong những trưởng hợp nào?
 
-question | 
---- |
-
-#### Câu trả lời
-
-### Topic: Thẩm quyền xem xét, quyết định đảng viên giới thiệu nhưng được miễn sinh hoạt nơi cư trú hoặc được miễn giới thiệu về tổ chức đảng nơi cư trú?
+### Topic 41: Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
 
 question | 
 --- |
+Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
+| Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
+| Xử lý kỷ luật đảng thì còn được xét tặng huy hiệu hay không
+| Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
+| Vi phạm kỷ thuật thì có được xét tặng huy hiệu đảng không
+| Đảng viên bị kỷ luật thì có được xét tặng huy hiệu đảng không
+| Đảng viên vi phạm kỷ luật đang trong thời gian miễn sinh hoạt thì có bị kỷ luật không hay xóa tên đảng viên đó?
+| Đảng viên được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không
+|  Xét tặng Huy hiệu đảng hay không đảng viên bị kỷ luật
+| Vi phạm kỷ luật
+| Đảng viên bị xử lý kỷ luật
+#### Câu trả lời 41
+Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Đảng viên có đủ 30 năm, 40 năm, 45 năm, 50 năm, 55 năm, 60 năm, 65 năm, 70 năm, 75 năm, 80 năm, 85 năm, 90 năm tuổi đảng trở lên thì được tặng Huy hiệu đảng”.
+Tuy nhiên, đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì chưa được xét tặng Huy hiệu đảng. Cụ thể, tại điểm 27.3.1 (c) Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Tại thời điểm xét tặng Huy hiệu đảng, đảng viên bị kỷ luật về đảng thì chưa được xét tặng; sau 06 tháng (đối với kỷ luật khiển trách), 09 tháng (đối với kỷ luật cảnh cáo), 01 năm (đối với kỷ luật cách chức), nếu sửa chữa tốt khuyết điểm, được chi bộ công nhận sẽ được xét tặng Huy hiệu đảng”.
 
-#### Câu trả lời
 
-### Topic: Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
+### Topic 42:  Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
 
 question | 
 --- |
+Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
+Đảng viên đến thời điểm được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không?
+Xử lý kỷ luật đảng thì còn được xét tặng huy hiệu hay không
+Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
+Vi phạm kỷ thuật thì có được xét tặng huy hiệu đảng không
+Đảng viên bị kỷ luật thì có được xét tặng huy hiệu đảng không
+Đảng viên vi phạm kỷ luật đang trong thời gian miễn sinh hoạt thì có bị kỷ luật không hay xóa tên đảng viên đó?
+Đảng viên được xét tặng Huy hiệu đảng nếu bị xử lý kỷ luật đảng thì có được xét tặng Huy hiệu đảng hay không
+ Xét tặng Huy hiệu đảng hay không đảng viên bị kỷ luật
+Vi phạm kỷ luật
+Đảng viên bị xử lý kỷ luật
 
-#### Câu trả lời
-
-### Topic:  Đảng viên được miễn sinh hoạt vi phạm kỷ luật thì thực hiện kỷ luật hay xóa tên đảng viên đó?
-
-question | 
---- |
-
-#### Câu trả lời
+#### Câu trả lời 42
+Điểm 7.2.4, Khoản 7.2, Điều 7, Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định về quyền và trách nhiệm của đảng viên được miễn sinh hoạt như sau: “Bản thân phải gương mẫu và vận động gia đình chấp hành chủ trương, chính sách của đảng, pháp luật của Nhà nước và các quy định của địa phương, nếu vi phạm kỷ luật đảng thì xử lý kỷ luật như đảng viên đang sinh hoạt theo quy định của Điều lệ Đảng”.
+Căn cứ quy định trên, đảng viên được miễn sinh hoạt vi phạm kỷ luật thì tổ chức đảng có thẩm quyền vẫn xem xét, xử lý kỷ luật đảng như đối với đảng viên đang sinh hoạt theo quy định.
 
 
-### Topic: Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
+
+### Topic 43: Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
 
 # Câu 12 trong data cũ
 
 question | 
 --- |
+| Khi chuyển sinh hoạt đảng, đảng viên phải tự mang hồ sơ từ Đảng ủy cơ sở lên Cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng hay đảng ủy cơ sở mang hồ sơ lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng, sau đó mới giao cho đảng viên báo cáo cấp ủy nơi chuyển đến?
+| Chuyển sinh hoạt đảng
+| Theo quy định, khi chuyển sinh hoạt đảng, ai phải tự mang hồ sơ từ Đảng ủy cơ sở lên cấp ủy cấp trên trực tiếp để làm thủ tục chuyển sinh hoạt đảng?
+| Điều gì quy định về việc tự mang hồ sơ từ Đảng ủy cơ sở lên cấp ủy cấp trên để làm thủ tục chuyển sinh hoạt đảng?
+| Khi chuyển sinh hoạt đảng, đảng viên phải thực hiện những thủ tục gì đối với việc mang hồ sơ và báo cáo cấp ủy cấp trên?
+| Điều gì trong quy định nêu rõ về việc tự mang hồ sơ khi chuyển sinh hoạt đảng?
+| Khi chuyển sinh hoạt đảng, đảng viên cần thực hiện việc gì sau khi mang hồ sơ và báo cáo lên cấp trên?
+| Điều gì trong hướng dẫn của Ban Tổ chức Trung ương quy định về thủ tục giới thiệu và tiếp nhận sinh hoạt đảng khi chuyển sinh hoạt đảng?
+| Khi đảng viên chuyển sinh hoạt đảng, họ phải tuân theo những quy định gì liên quan đến thủ tục và hồ sơ?
+| Trách nhiệm chính của đảng viên khi chuyển sinh hoạt đảng là gì?
+| Đảng viên khi chuyển sinh hoạt đảng cần phải thực hiện những biện pháp gì để đảm bảo tính minh bạch và đúng quy định?
+| Khi chuyển sinh hoạt đảng, đảng viên phải tuân theo những hướng dẫn nào từ Ban Tổ chức Trung ương để thực hiện đúng thủ tục và quy định?
+#### Câu trả lời 43
+Điểm 6.3.1 (d) Quy định số 24-QĐ/TW, ngày 30/7/2021 của Ban Chấp hành Trung ương quy định thi hành Điều lệ Đảng quy định: “Khi chuyển sinh hoạt đảng chính thức cho đảng viên, cấp ủy nơi đang sinh hoạt và công tác làm đầy đủ thủ tục, niêm phong hồ sơ, giao cho đảng viên trực tiếp mang theo để báo cáo với tổ chức đảng làm thủ tục giới thiệu và tiếp nhận sinh hoạt đảng theo hướng dẫn của Ban Tổ chức Trung ương”.
+Như vậy, khi chuyển sinh hoạt đảng thì cấp ủy nơi đi làm thủ tục chuyển sinh hoạt, giao cho đảng viên, đảng viên phải tự mang hồ sơ đến các tổ chức đảng để làm thủ tục chuyển sinh hoạt đảng tới tổ chức đảng nơi đến theo đúng quy định.Thủ tục giới thiệu chuyển sinh hoạt đảng đã được nêu cụ thể từng trường hợp tại Điểm 4, mục II Hướng dẫn số 12-HD/BTCTW, ngày 18/01/2022 của Ban Tổ chức Trung ương về hướng dẫn nghiệp vụ công tác đảng viên.
 
+### Topic 44: Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
+
+question |
+--- |
+Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
+Thời hạn khiếu nại kỷ luật đảng của đảng viên được quy định như thế nào?
+Thời hạn khiếu nại kỷ luật đảng của đảng viên tính từ ngày nào đến ngày nào?
+Thời hạn khiếu nại kỷ luật đảng của đảng viên là bao nhiêu ngày?
+Ngày bắt đầu thời hạn khiếu nại kỷ luật đảng của đảng viên là ngày nào?
+Ngày kết thúc thời hạn khiếu nại kỷ luật đảng của đảng viên là ngày nào?
+Đảng viên bị kỷ luật có quyền khiếu nại quyết định kỷ luật hay không?
+Đảng viên bị kỷ luật có quyền khiếu nại quyết định giải quyết khiếu nại kỷ luật hay không?
+Đảng viên khiếu nại kỷ luật phải gửi đơn khiếu nại đến đâu?
+Đảng viên khiếu nại kỷ luật có thể khiếu nại kỷ luật trực tiếp hay không?
+Đảng viên khiếu nại kỷ luật có thể khiếu nại kỷ luật theo dấu bưu điện hay không?
+Đảng viên khiếu nại kỷ luật có phải gửi kèm theo hồ sơ, tài liệu chứng minh cho nội dung khiếu nại không?
+Đảng viên khiếu nại kỷ luật có được gửi đơn khiếu nại nhiều lần không?
+Đảng viên khiếu nại kỷ luật có được rút đơn khiếu nại không?
+Đảng viên khiếu nại kỷ luật có được thay đổi nội dung khiếu nại không?
+Đảng viên khiếu nại kỷ luật có được bổ sung hồ sơ, tài liệu chứng minh cho nội dung khiếu nại không?
+Đảng viên khiếu nại kỷ luật có được hưởng các quyền lợi gì trong thời gian khiếu nại?
+Đảng viên khiếu nại kỷ luật có phải chịu trách nhiệm về nội dung khiếu nại của mình không?
+Đảng viên khiếu nại kỷ luật có bị xử lý kỷ luật nếu nội dung khiếu nại của mình là sai sự thật không?
+Đảng viên khiếu nại kỷ luật có được nhận thông báo kết quả giải quyết khiếu nại không?
+Đảng viên khiếu nại kỷ luật có quyền khởi kiện quyết định kỷ luật hoặc quyết định giải quyết khiếu nại kỷ luật ra 
+tòa án không?
+Khoản Quy định nào quy định về thời hạn khiếu nại kỷ luật của đảng viên?
+Thời gian khiếu nại kỷ luật tính từ ngày nào đến ngày nào?
+Khiếu nại kỷ luật của đảng viên cần thực hiện trong thời gian bao nhiêu ngày?
+Thời gian khiếu nại kỷ luật bắt đầu tính từ sự kiện gì?
+Để khiếu nại kỷ luật, đảng viên cần thực hiện trong khoảng thời gian bao lâu?
+Quy định thời hạn khiếu nại kỷ luật của đảng viên được nêu ở Quy định nào?
+Đảng viên bị kỷ luật cần gửi đơn khiếu nại trong khoảng thời gian bao nhiêu ngày?
+Bắt đầu từ khi nào, đảng viên có thể khiếu nại kỷ luật?
+Thời hạn khiếu nại kỷ luật được tính từ sự kiện gì?
+Khoản Quy định nào quy định về thời gian khiếu nại kỷ luật và tính từ ngày nào?
+Đảng viên muốn khiếu nại kỷ luật cần thực hiện trong khoảng thời gian bao lâu?
+Thời gian khiếu nại kỷ luật được tính bắt đầu từ khi nào?
+Đảng viên có bao nhiêu ngày để khiếu nại kỷ luật sau khi nhận quyết định kỷ luật?
+Quy định về thời hạn khiếu nại kỷ luật của đảng viên được quy định trong Quy định nào?
+Khiếu nại kỷ luật của đảng viên cần thực hiện trong thời gian bao lâu?
+Tính từ ngày nào đến ngày nào là thời hạn khiếu nại kỷ luật?
+Đảng viên bị kỷ luật cần gửi đơn khiếu nại trong khoảng thời gian bao nhiêu ngày?
+Quy định về thời hạn khiếu nại kỷ luật của đảng viên được nêu ở mục nào?
+Thời hạn khiếu nại kỷ luật tính từ sự kiện gì?
+
+#### Câu trả lời 44
+Khoản 1, Điều 26 Quy định số 22-QĐ/TW, ngày 28/7/2021 của Ban Chấp hành Trung ương về công tác kiểm tra, giám sát và kỷ luật của Đảng “Thời hạn khiếu nại trong vòng 30 ngày, tính từ ngày nhận quyết định kỷ luật hoặc quyết định giải quyết khiếu nại kỷ luật (căn cứ biên bản công bố) đến ngày đảng viên bị kỷ luật gửi đơn khiếu nại trực tiếp hoặc theo dấu bưu điện chuyển đến”.
 

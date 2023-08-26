@@ -3,45 +3,45 @@
 
 STT | Câu hỏi
 --- | ---
-1 | Trách nhiệm của đảng viên là gì
-2 | Trách nhiệm của đảng viên đang công tác
-3 | Trách nhiệm của đảng viên đang công tác ở các cơ quan
-4 | Trách nhiệm của đảng viên đang công tác ở các doanh nghiệp
-5 | Trách nhiệm của đảng viên đang công tác ở các đơn vị sự nghiệp, lực lượng vũ trang.
-6 | Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng như thế nào?
-7 | Trách nhiệm của đảng viên đang công tác xuyên giữ mối liện hệ với nhân dân nơi cư chú như thế nào?
-8 | Trách nhiệm của đảng viên xuyên giữ mối liên hệ với nhân dân nơi cư trú như thế nào?
-9 | Trách nhiệm của đảng viên xuyên giữ mối liên hệ với nhân dân nơi cư trú?
-10 | Trách nhiệm của đảng viên xuyên giữ mối liên hệ với với tổ chức đảng?
-11 | Trách nhiệm của đảng viên tại nơi đang cư trú
-12 | Trách nhiệm của đảng viên tại nơi ở
-13 | Trách nhiệm của đảng viên tại khu vực sống
-14 | Trách nhiệm của đảng viên đang công tác với nhân dân ở khu vực
-15 | Trách nhiệm của đảng viên ở khu vực đang công tác
-16 | Trách nhiệm của đảng viên tại nơi đang công tác
-17 | Trách nhiệm của đảng viên tại khu vực đang công tác
-18 | Trách nhiệm của đảng viên với tổ chức đảng
-19 | Trách nhiệm của đảng viên đang công tác với tổ chức đảng
-20 | Đảng viên phải thực hiện những biện pháp gì để duy trì liên hệ mạnh mẽ với tổ chức đảng tại nơi cư trú?
-21 | Trong bối cảnh thay đổi nhanh chóng của xã hội, làm thế nào đảng viên có thể đảm bảo liên kết vững chắc với nhân dân tại địa phương?
-22 | Đảng viên cần tham gia vào những hoạt động gì để tăng cường sự hiểu biết về quan điểm và chính sách của đảng trong cộng đồng?
-23 | Làm thế nào đảng viên có thể thúc đẩy tinh thần tương tác và giao lưu giữa đảng và nhân dân tại nơi cư trú?
-24 | Trong trường hợp xảy ra sự không đồng tình về một chính sách hoặc quyết định của đảng, đảng viên nên tiếp cận vấn đề đó như thế nào khi trò chuyện với nhân dân?
-25 | Đảng viên cần chủ động tham gia vào các dự án và hoạt động cộng đồng để thể hiện tinh thần đảng và sự quan tâm tới nhân dân, đúng không?
-26 | Làm thế nào đảng viên có thể thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng tại nơi cư trú?
-27 | Trách nhiệm gì đảng viên phải thực hiện để thường xuyên cập nhật tin tức và thông tin từ tổ chức đảng trung ương?
-28 | Khi tổ chức đảng có chính sách mới, đảng viên phải thực hiện các biện pháp gì để giới thiệu và giải thích cho nhân dân tại địa phương?
-29 | Làm thế nào đảng viên có thể thúc đẩy tinh thần tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
-30 | Trong trường hợp có thông tin sai lệch hoặc tin đồn xoay quanh đảng, đảng viên cần thực hiện gì để làm rõ thông tin cho nhân dân?
-31 | Trách nhiệm của đảng viên là gì khi cần phải tham gia vào việc thúc đẩy các hoạt động giáo dục chính trị tại địa phương?
-32 | Làm thế nào đảng viên có thể giúp đỡ nhân dân trong việc tham gia vào các hoạt động kinh tế - xã hội tại địa phương?
-33 | Đảng viên cần thực hiện những biện pháp gì để đảm bảo thông tin từ cấp trung ương được truyền đạt đúng và đầy đủ tới cơ sở?
-34 | Trong trường hợp mâu thuẫn xảy ra giữa các nhóm trong cộng đồng, làm thế nào đảng viên có thể hòa giải và tạo cầu nối để giải quyết vấn đề?
-35 | Trách nhiệm của đảng viên là gì trong việc đảm bảo tôn trọng và thực hiện chính sách về đa dạng văn hóa tại địa phương?
-36 | Làm thế nào đảng viên có thể tham gia vào việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng tại địa phương?
-37 | Khi tổ chức đảng đặt ra các mục tiêu quan trọng, làm thế nào đảng viên có thể hỗ trợ trong việc thực hiện và đạt được những mục tiêu đó?
-38 | Trách nhiệm gì của đảng viên đối với việc quản lý và sử dụng thông tin một cách chính xác khi tương tác với nhân dân?
-39 | Đảng viên cần thực hiện những biện pháp gì để thúc đẩy tinh thần hợp tác và sự phối hợp hiệu quả giữa các tổ chức và đơn vị trong cộng đồng?
+Trách nhiệm của đảng viên là gì
+Trách nhiệm của đảng viên đang công tác
+Trách nhiệm của đảng viên đang công tác ở các cơ quan
+Trách nhiệm của đảng viên đang công tác ở các doanh nghiệp
+Trách nhiệm của đảng viên đang công tác ở các đơn vị sự nghiệp, lực lượng vũ trang.
+Trách nhiệm của đảng viên đang công tác xuyên giữ mối liên hệ với tổ chức đảng như thế nào?
+Trách nhiệm của đảng viên đang công tác xuyên giữ mối liện hệ với nhân dân nơi cư chú như thế nào?
+Trách nhiệm của đảng viên xuyên giữ mối liên hệ với nhân dân nơi cư trú như thế nào?
+Trách nhiệm của đảng viên xuyên giữ mối liên hệ với nhân dân nơi cư trú?
+Trách nhiệm của đảng viên xuyên giữ mối liên hệ với với tổ chức đảng?
+Trách nhiệm của đảng viên tại nơi đang cư trú
+Trách nhiệm của đảng viên tại nơi ở
+Trách nhiệm của đảng viên tại khu vực sống
+Trách nhiệm của đảng viên đang công tác với nhân dân ở khu vực
+Trách nhiệm của đảng viên ở khu vực đang công tác
+Trách nhiệm của đảng viên tại nơi đang công tác
+Trách nhiệm của đảng viên tại khu vực đang công tác
+Trách nhiệm của đảng viên với tổ chức đảng
+Trách nhiệm của đảng viên đang công tác với tổ chức đảng
+Đảng viên phải thực hiện những biện pháp gì để duy trì liên hệ mạnh mẽ với tổ chức đảng tại nơi cư trú?
+Trong bối cảnh thay đổi nhanh chóng của xã hội, làm thế nào đảng viên có thể đảm bảo liên kết vững chắc với nhân dân tại địa phương?
+Đảng viên cần tham gia vào những hoạt động gì để tăng cường sự hiểu biết về quan điểm và chính sách của đảng trong cộng đồng?
+Làm thế nào đảng viên có thể thúc đẩy tinh thần tương tác và giao lưu giữa đảng và nhân dân tại nơi cư trú?
+Trong trường hợp xảy ra sự không đồng tình về một chính sách hoặc quyết định của đảng, đảng viên nên tiếp cận vấn đề đó như thế nào khi trò chuyện với nhân dân?
+Đảng viên cần chủ động tham gia vào các dự án và hoạt động cộng đồng để thể hiện tinh thần đảng và sự quan tâm tới nhân dân, đúng không?
+Làm thế nào đảng viên có thể thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng tại nơi cư trú?
+Trách nhiệm gì đảng viên phải thực hiện để thường xuyên cập nhật tin tức và thông tin từ tổ chức đảng trung ương?
+Khi tổ chức đảng có chính sách mới, đảng viên phải thực hiện các biện pháp gì để giới thiệu và giải thích cho nhân dân tại địa phương?
+Làm thế nào đảng viên có thể thúc đẩy tinh thần tương tác và giao lưu giữa các chi hội, các địa phương khác nhau của tổ chức đảng?
+Trong trường hợp có thông tin sai lệch hoặc tin đồn xoay quanh đảng, đảng viên cần thực hiện gì để làm rõ thông tin cho nhân dân?
+Trách nhiệm của đảng viên là gì khi cần phải tham gia vào việc thúc đẩy các hoạt động giáo dục chính trị tại địa phương?
+Làm thế nào đảng viên có thể giúp đỡ nhân dân trong việc tham gia vào các hoạt động kinh tế - xã hội tại địa phương?
+Đảng viên cần thực hiện những biện pháp gì để đảm bảo thông tin từ cấp trung ương được truyền đạt đúng và đầy đủ tới cơ sở?
+Trong trường hợp mâu thuẫn xảy ra giữa các nhóm trong cộng đồng, làm thế nào đảng viên có thể hòa giải và tạo cầu nối để giải quyết vấn đề?
+Trách nhiệm của đảng viên là gì trong việc đảm bảo tôn trọng và thực hiện chính sách về đa dạng văn hóa tại địa phương?
+Làm thế nào đảng viên có thể tham gia vào việc tuyên truyền về các thành tựu và mục tiêu phát triển của đảng tại địa phương?
+Khi tổ chức đảng đặt ra các mục tiêu quan trọng, làm thế nào đảng viên có thể hỗ trợ trong việc thực hiện và đạt được những mục tiêu đó?
+Trách nhiệm gì của đảng viên đối với việc quản lý và sử dụng thông tin một cách chính xác khi tương tác với nhân dân?
+Đảng viên cần thực hiện những biện pháp gì để thúc đẩy tinh thần hợp tác và sự phối hợp hiệu quả giữa các tổ chức và đơn vị trong cộng đồng?
 <br>
 
 #### Câu trả lời
@@ -51,28 +51,28 @@ Theo Quy định số 213-QĐ/TW, ngày 02/01/2020 của Bộ Chính trị về 
 
 STT | Câu hỏi
 --- | ---
-0 | Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
-1 | Theo Quy định số 213, tổ chức cơ sở đảng cần có những trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
-2 | Làm thế nào tổ chức cơ sở đảng có thể duy trì và tăng cường mối liên hệ với đảng cấp trên theo Quy định số 213?
-3 | Trách nhiệm gì của tổ chức cơ sở đảng trong việc thực hiện và truyền đạt chính sách, quyết định của đảng tại cơ sở?
-4| Trách nhiệm của đảng để thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng?
-5| Làm thế nào tổ chức cơ sở đảng có thể thúc đẩy tinh thần tương tác và giao lưu giữa các đảng viên trong cộng đồng?
-6| Theo Quy định số 213, tổ chức cơ sở đảng cần có vai trò gì trong việc tạo điều kiện cho đảng viên tham gia các hoạt động giáo dục chính trị?
-7| Trong trường hợp có sự không đồng tình về chính sách hoặc quyết định của đảng, tổ chức cơ sở đảng cần thực hiện gì để giải quyết tình hình?
-8| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc tuyên truyền về thành tựu và mục tiêu của đảng tại địa phương?
-9| Trách nhiệm của tổ chức cơ sở đảng là gì trong việc đảm bảo đảng viên tham gia tích cực và hiệu quả vào các hoạt động cộng đồng?
-10| Để duy trì tính đoàn kết và tương tác trong tổ chức, làm thế nào tổ chức cơ sở đảng có thể tổ chức các sự kiện và hoạt động giao lưu?
-11| Theo Quy định số 213, tổ chức cơ sở đảng có trách nhiệm nắm bắt thông tin từ đảng cấp trên và truyền đạt thông tin gì tới đảng viên?
-12| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc thúc đẩy các hoạt động kinh tế - xã hội tại địa phương?
-13| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tạo điều kiện thuận lợi để nhân dân tham gia vào các hoạt động chính trị?
-14| Để đảm bảo đảng viên được thể hiện ý kiến và đóng góp ý kiến, tổ chức |cơ sở đảng cần thực hiện những biện pháp gì?
-15| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo đa dạng văn hóa và tôn trọng quyền lợi của các tầng lớp nhân dân?
-16| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc thúc đẩy tinh thần hợp tác và sự phối hợp giữa các tổ chức và đơn vị trong cộng đồng?
-17| Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo an ninh, trật tự và ổn định xã hội tại địa phương?
-18| Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tham gia vào quản lý và sử dụng thông tin chính xác khi tương tác với nhân dân?
-19| Để thúc đẩy tinh thần tương tác và giao lưu giữa các tổ chức cơ sở đảng khác nhau, làm thế nào tổ chức này có thể tạo điều kiện thuận lợi?
-20| Theo Quy định số 213, tổ chức cơ sở đảng cần có trách nhiệm gì đối với việc đảm bảo tuân thủ nguyên tắc dân chủ trong hoạt động của mình?
-21 | Trách nhiệm của tổ chức cơ sở đảng là gì
+Trách nhiệm của tổ chức cơ sở đảng theo Quy định số 213?
+Theo Quy định số 213, tổ chức cơ sở đảng cần có những trách nhiệm gì để đảm bảo hoạt động đảng mạnh mẽ và hiệu quả?
+Làm thế nào tổ chức cơ sở đảng có thể duy trì và tăng cường mối liên hệ với đảng cấp trên theo Quy định số 213?
+Trách nhiệm gì của tổ chức cơ sở đảng trong việc thực hiện và truyền đạt chính sách, quyết định của đảng tại cơ sở?
+Trách nhiệm của đảng để thúc đẩy tinh thần đoàn kết và sự gắn kết trong cộng đồng?
+Làm thế nào tổ chức cơ sở đảng có thể thúc đẩy tinh thần tương tác và giao lưu giữa các đảng viên trong cộng đồng?
+Theo Quy định số 213, tổ chức cơ sở đảng cần có vai trò gì trong việc tạo điều kiện cho đảng viên tham gia các hoạt động giáo dục chính trị?
+Trong trường hợp có sự không đồng tình về chính sách hoặc quyết định của đảng, tổ chức cơ sở đảng cần thực hiện gì để giải quyết tình hình?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc tuyên truyền về thành tựu và mục tiêu của đảng tại địa phương?
+Trách nhiệm của tổ chức cơ sở đảng là gì trong việc đảm bảo đảng viên tham gia tích cực và hiệu quả vào các hoạt động cộng đồng?
+Để duy trì tính đoàn kết và tương tác trong tổ chức, làm thế nào tổ chức cơ sở đảng có thể tổ chức các sự kiện và hoạt động giao lưu?
+Theo Quy định số 213, tổ chức cơ sở đảng có trách nhiệm nắm bắt thông tin từ đảng cấp trên và truyền đạt thông tin gì tới đảng viên?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc thúc đẩy các hoạt động kinh tế - xã hội tại địa phương?
+Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tạo điều kiện thuận lợi để nhân dân tham gia vào các hoạt động chính trị?
+ơ sở đảng cần thực hiện những biện pháp gì?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo đa dạng văn hóa và tôn trọng quyền lợi của các tầng lớp nhân dân?
+Trách nhiệm gì của tổ chức cơ sở đảng đối với việc thúc đẩy tinh thần hợp tác và sự phối hợp giữa các tổ chức và đơn vị trong cộng đồng?
+Làm thế nào tổ chức cơ sở đảng có thể tham gia vào việc đảm bảo an ninh, trật tự và ổn định xã hội tại địa phương?
+Trách nhiệm gì của tổ chức cơ sở đảng đối với việc tham gia vào quản lý và sử dụng thông tin chính xác khi tương tác với nhân dân?
+Để thúc đẩy tinh thần tương tác và giao lưu giữa các tổ chức cơ sở đảng khác nhau, làm thế nào tổ chức này có thể tạo điều kiện thuận lợi?
+Theo Quy định số 213, tổ chức cơ sở đảng cần có trách nhiệm gì đối với việc đảm bảo tuân thủ nguyên tắc dân chủ trong hoạt động của mình?
+Trách nhiệm của tổ chức cơ sở đảng là gì
 #### Câu trả lời
 Tổ chức cơ sở đảng nơi đảng viên đang công tác và nơi đảng viên cư trú có trách nhiệm tạo điều kiện cho đảng viên đang công tác thực hiện trách nhiệm, nhiệm vụ nơi cư trú, đồng thời kiểm tra, giám sát, nhận xét, đánh giá việc thực hiện của đảng viên.
 ### Câu 3: Nhiệm vụ của đảng viên đang công tác ở nơi cư trú theo Quy định số 213?
