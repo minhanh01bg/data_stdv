@@ -4,6 +4,7 @@
 
 question | 
 --- |
+```md
 Các nhiệm vụ của đảng viên?
 Nhiệm vụ của đảng viên gồm những gì?
 Quy định về nhiệm vụ của đảng viên?
@@ -17,6 +18,7 @@ Nhiệm vụ của đảng viên là gì?
 Nhiệm vụ của đảng viên theo quy định của Điều lệ Đảng Cộng sản Việt Nam?
 Nhiệm vụ của đảng viên được quy định như thế nào?
 Nhiệm vụ của đảng viên được quy định như thế nào trong Điều lệ Đảng Cộng sản Việt Nam?
+```
 
 #### Câu trả lời 1
 
